@@ -1,0 +1,20 @@
+{"task_id": "fluids_107", "experiment_type": "oracle", "sample_id": 0, "response": "float('inf')\n```output\n2432902008176640000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "oracle", "sample_id": 1, "response": "float('inf')\n```output\n2432902008176640000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "oracle", "sample_id": 2, "response": "2432902008176640000", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "oracle", "sample_id": 3, "response": "float('inf')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "oracle", "sample_id": 4, "response": "float('inf')\n```output\n2432902008176640000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n['Beattie Whalley', 'Fourar Bories', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n['Beattie Whalley', 'Fourar Bories', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n['Beattie Whalley', 'Fourar Bories', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "oracle", "sample_id": 3, "response": "", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "oracle", "sample_id": 4, "response": "output\n['Beattie Whalley', 'Fourar Bories', 'McAdams', 'Cicchitti', 'Lin Kwok']", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "oracle", "sample_id": 0, "response": "output\n```output\nlist(sorted(all_methods_expect))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "oracle", "sample_id": 1, "response": "output\n```output\nlist(sorted(all_methods_expect))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "oracle", "sample_id": 2, "response": "output\n```output\nlist(sorted(all_methods_expect))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "oracle", "sample_id": 3, "response": "output\n```output\nlist(sorted(all_methods_expect))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "oracle", "sample_id": 4, "response": "output\n```output\nlist(sorted(all_methods_expect))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}

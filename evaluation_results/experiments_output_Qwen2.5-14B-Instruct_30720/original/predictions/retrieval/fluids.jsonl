@@ -1,0 +1,20 @@
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\npy_factorial(i)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\npy_factorial(i)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\npy_factorial(i)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\npy_factorial(i)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 4, "response": "2\noutput\npy_factorial(i)", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['Beattie Whalley', 'Cicchitti', 'Duckler', 'Fourar Bories', 'Lin Kwok', 'McAdams']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['Beattie Whalley', 'Cicchitti', 'Duckler', 'Fourar Bories', 'Lin Kwok', 'McAdams']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['Beattie Whalley', 'Cicchitti', 'Duckler', 'Fourar Bories', 'Lin Kwok', 'McAdams']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['Beattie Whalley', 'Cicchitti', 'Duckler', 'Fourar Bories', 'Lin Kwok', 'McAdams']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['Beattie Whalley', 'Cicchitti', 'Duckler', 'Fourar Bories', 'Lin Kwok', 'McAdams']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 0, "response": "850.0\n850.0\nlist(sorted(all_methods_expect))\n['Beattie Whalley', 'Fourar Bories', 'Duckler', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```output\n['Beattie Whalley', 'Fourar Bories', 'Duckler', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 1, "response": "850.0\n1.2\n['Beattie Whalley', 'Fourar Bories', 'Duckler', 'McAdams', 'Cicchitti', 'Lin Kwok']\n\n```output\n['Beattie Whalley', 'Fourar Bories', 'Duckler', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 2, "response": "850.0\n\n```output\n['Beattie Whalley', 'Fourar Bories', 'Duckler', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 3, "response": "850.0\n\n```output\n['Beattie Whalley', 'Fourar Bories', 'Duckler', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 4, "response": "850.0\n\n```output\n['Beattie Whalley', 'Fourar Bories', 'Duckler', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n27\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n27\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n27\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n27\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n27\n```", "finish_reason": "stop", "usage": null}

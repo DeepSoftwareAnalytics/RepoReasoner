@@ -1,0 +1,30 @@
+{"task_id": "openmdao_4", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_4", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_4", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_4", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_4", "experiment_type": "retrieval", "sample_id": 4, "response": "markdown\n```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_5", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'???'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_5", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'???'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_5", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_5", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_5", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_6", "experiment_type": "retrieval", "sample_id": 0, "response": "shape_to_len((1,))", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_6", "experiment_type": "retrieval", "sample_id": 1, "response": "set({'openmdao:allow_desvar'})", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_6", "experiment_type": "retrieval", "sample_id": 2, "response": "set({'openmdao:allow_desvar'})", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_6", "experiment_type": "retrieval", "sample_id": 3, "response": "copy_tags={'openmdao:allow_desvar'}\n\n```output\ncopy_tags={'openmdao:allow_desvar'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_6", "experiment_type": "retrieval", "sample_id": 4, "response": "dict\n```output\n{'val': 3, 'shape': (1,), 'size': 1, 'units': 'ft', 'desc': '', 'tags': {'openmdao:allow_desvar'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_7", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_7", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_7", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_7", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_7", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_8", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_8", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_8", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_8", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_8", "experiment_type": "retrieval", "sample_id": 4, "response": "{{ expected['val'] }}\noutput\n3", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_9", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_9", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_9", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_9", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "openmdao_9", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nexpected_discrete[key]\n```", "finish_reason": "stop", "usage": null}

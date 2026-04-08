@@ -1,0 +1,56 @@
+08/11/2025 01:43:28 - INFO - __main__ - --- Processing repository: phonopy ---
+08/11/2025 01:43:28 - INFO - __main__ - No existing container found. Creating new container 'agent-run-phonopy'...
+08/11/2025 01:43:29 - INFO - __main__ - Copying 'python_repos\phonopy' to new container 'agent-run-phonopy:/app/repo_to_process'...
+08/11/2025 01:43:32 - INFO - __main__ - Executing agent inside the container...
+08/11/2025 01:43:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:33 - INFO - __main__ - --- Starting Agent inside Container ---
+08/11/2025 01:43:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:33 - INFO - __main__ - Repository Name: phonopy
+08/11/2025 01:43:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:33 - INFO - __main__ - Repository: /app/repo_to_process
+08/11/2025 01:43:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:33 - INFO - __main__ - Language: Python
+08/11/2025 01:43:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:33 - INFO - __main__ - Model: gpt-4.1
+08/11/2025 01:43:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:33 - INFO - __main__ - Max Iterations: 15
+08/11/2025 01:43:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:33 - INFO - __main__ - Command Timeouts (Default/Pytest): 600s / 3600s
+08/11/2025 01:43:36 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:36 - INFO - __main__ - === Starting Iteration 1/15 [Phase: SETUP] ===
+08/11/2025 01:43:36 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:36 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 01:43:36 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:36 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 01:43:42 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:42 - INFO - __main__ - Executing 4 command(s)...
+08/11/2025 01:43:42 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:42 - INFO - __main__ - Executing command in '/app/repo_to_process': pip install -r requirements.txt || true
+08/11/2025 01:43:52 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:52 - INFO - __main__ - Executing command in '/app/repo_to_process': pip install -r dev-requirements.txt || true
+08/11/2025 01:43:53 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:43:53 - INFO - __main__ - Executing command in '/app/repo_to_process': if [ -f pyproject.toml ]; then pip install . || true; fi
+08/11/2025 01:44:17 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:44:17 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 01:44:17 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:44:17 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 01:44:17 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:44:17 - WARNING - __main__ - Phase 1 (SETUP) not yet complete. Pytest reported collection errors or did not run successfully.
+08/11/2025 01:44:17 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:44:17 - INFO - __main__ - === Starting Iteration 2/15 [Phase: SETUP] ===
+08/11/2025 01:44:17 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:44:17 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 01:44:17 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:44:17 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 01:44:23 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:44:23 - INFO - __main__ - Executing 4 command(s)...
+08/11/2025 01:44:23 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:44:23 - INFO - __main__ - Executing command in '/app/repo_to_process': apt-get update
+08/11/2025 01:44:58 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:44:58 - INFO - __main__ - Executing command in '/app/repo_to_process': apt-get install -y python3.10-dev
+08/11/2025 01:45:11 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:45:11 - INFO - __main__ - Executing command in '/app/repo_to_process': pip install .
+08/11/2025 01:45:27 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:45:27 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 01:45:27 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:45:27 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 01:47:27 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:47:27 - INFO - __main__ - ✅ Phase 1 (SETUP) complete: `pytest` is now executable without collection errors.
+08/11/2025 01:47:27 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:47:27 - INFO - __main__ - === Starting Iteration 3/15 [Phase: TRACING] ===
+08/11/2025 01:47:27 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:47:27 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 01:47:27 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:47:27 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 01:47:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:47:33 - INFO - __main__ - Found file block: conftest.py
+08/11/2025 01:47:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:47:33 - INFO - __main__ - Model provided a shorthand for conftest.py. Expanding to full content.
+08/11/2025 01:47:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:47:33 - INFO - __main__ - Created file: /app/repo_to_process/conftest.py
+08/11/2025 01:47:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:47:33 - INFO - __main__ - Executing 1 command(s)...
+08/11/2025 01:47:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:47:33 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 01:47:33 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:47:33 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 01:55:32 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:55:32 - INFO - __main__ - === Starting Iteration 4/15 [Phase: TRACING] ===
+08/11/2025 01:55:32 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:55:32 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 01:55:32 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:55:32 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 01:55:36 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:55:36 - INFO - __main__ - 🎉 Model reported final success. Terminating.
+08/11/2025 01:55:36 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:55:36 - INFO - __main__ - 🏁 Pipeline finished for repo_to_process with status: success
+08/11/2025 01:55:36 - INFO - __main__ - [AGENT-LOG] 08/10/2025 17:55:36 - INFO - __main__ - ✅ Agent completed successfully.
+08/11/2025 01:55:36 - INFO - __main__ - Agent finished with exit code: 0
+08/11/2025 01:55:36 - INFO - __main__ - Copying all generated files from container 'agent-run-phonopy:/app/new_test_detection_logs/phonopy'...
+08/11/2025 01:55:37 - INFO - __main__ - Successfully copied agent-generated files to 'output_results\phonopy'.
+08/11/2025 01:55:37 - INFO - __main__ - Copying pytest reports from container repo root 'agent-run-phonopy:/app/repo_to_process'...
+08/11/2025 01:55:37 - INFO - __main__ - Successfully copied 'report_files.jsonl' to 'output_results\phonopy'.
+08/11/2025 01:55:37 - INFO - __main__ - Successfully copied 'report_functions.jsonl' to 'output_results\phonopy'.
+08/11/2025 01:55:37 - INFO - __main__ - Agent completed successfully and all required files were generated. Container will be preserved for reuse.
+08/11/2025 01:55:37 - INFO - __main__ - Stopping container 'agent-run-phonopy' to conserve resources. It will be reused later.
+08/11/2025 01:55:48 - INFO - __main__ - --- Finished processing repository: phonopy ---
+

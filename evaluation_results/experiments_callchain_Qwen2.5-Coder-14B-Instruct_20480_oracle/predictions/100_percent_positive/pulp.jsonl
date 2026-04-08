@@ -1,0 +1,5 @@
+{"task_id": "pulp_0", "test_file": "pulp/tests/test_lpdot.py", "sample_id": 0, "ratio": 1.0, "response": "call chain.", "finish_reason": "stop"}
+{"task_id": "pulp_0", "test_file": "pulp/tests/test_lpdot.py", "sample_id": 1, "ratio": 1.0, "response": "call chain and output them in a JSON list.\n:", "finish_reason": "stop"}
+{"task_id": "pulp_0", "test_file": "pulp/tests/test_lpdot.py", "sample_id": 2, "ratio": 1.0, "response": "call chain and are necessary for the execution of the test.", "finish_reason": "stop"}
+{"task_id": "pulp_0", "test_file": "pulp/tests/test_lpdot.py", "sample_id": 3, "ratio": 1.0, "response": "call chain.\n:", "finish_reason": "stop"}
+{"task_id": "pulp_0", "test_file": "pulp/tests/test_lpdot.py", "sample_id": 4, "ratio": 1.0, "response": "call chain.\n: pulp/pulp.py\n: pulp/tests/test_lpdot.py\n: pulp/apis/core.py\n: pulp/apis/__init__.py\n: pulp/utilities/__init__.py\n: pulp/utilities/value.py", "finish_reason": "stop"}

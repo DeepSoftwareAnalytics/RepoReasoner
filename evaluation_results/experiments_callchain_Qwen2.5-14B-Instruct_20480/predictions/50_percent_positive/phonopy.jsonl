@@ -1,0 +1,4 @@
+{"task_id": "phonopy_1", "test_file": "test/test_file_IO.py", "sample_id": 0, "ratio": 0.5, "response": "Please provide the output in the specified JSON format.", "finish_reason": "stop"}
+{"task_id": "phonopy_59", "test_file": "test/interface/test_pwscf.py", "sample_id": 0, "ratio": 0.5, "response": "chain and output them in the required format. Remember to exclude the test file itself from your output.", "finish_reason": "stop"}
+{"task_id": "phonopy_61", "test_file": "test/interface/test_qlm.py", "sample_id": 0, "ratio": 0.5, "response": "chain and output them in the required format.", "finish_reason": "stop"}
+{"task_id": "phonopy_70", "test_file": "test/interface/test_vasp.py", "sample_id": 0, "ratio": 0.5, "response": "chain and exclude the test file itself from the output. The output should conform to the specified JSON format.", "finish_reason": "stop"}

@@ -1,0 +1,9 @@
+{"task_id": "geopandas_15", "test_file": "geopandas/io/tests/test_arrow.py", "sample_id": 0, "ratio": 0.5, "response": "call chain.\n\n```", "finish_reason": "stop"}
+{"task_id": "geopandas_634", "test_file": "geopandas/tools/tests/test_clip.py", "sample_id": 0, "ratio": 0.5, "response": "'s call chain.\n```", "finish_reason": "stop"}
+{"task_id": "geopandas_159", "test_file": "geopandas/tests/test_config.py", "sample_id": 0, "ratio": 0.5, "response": "```json\n[\"geopandas/_config.py\"]\n```", "finish_reason": "stop"}
+{"task_id": "geopandas_326", "test_file": "geopandas/tests/test_decorator.py", "sample_id": 0, "ratio": 0.5, "response": "```json\n[\"geopandas/_decorator.py\", \"geopandas/tests/test_decorator.py\"]\n```", "finish_reason": "stop"}
+{"task_id": "geopandas_377", "test_file": "geopandas/tests/test_geocode.py", "sample_id": 0, "ratio": 0.5, "response": "call chain, excluding the test file itself.", "finish_reason": "stop"}
+{"task_id": "geopandas_98", "test_file": "geopandas/io/tests/test_infer_schema.py", "sample_id": 0, "ratio": 0.5, "response": "call chain triggered by the test file.", "finish_reason": "stop"}
+{"task_id": "geopandas_519", "test_file": "geopandas/tests/test_merge.py", "sample_id": 0, "ratio": 0.5, "response": "chain and return them in the specified JSON format.", "finish_reason": "stop"}
+{"task_id": "geopandas_523", "test_file": "geopandas/tests/test_op_output_types.py", "sample_id": 0, "ratio": 0.5, "response": "call chain for the test file `geopandas/tests/test_op_output_types.py`.\n:", "finish_reason": "stop"}
+{"task_id": "geopandas_641", "test_file": "geopandas/tools/tests/test_random.py", "sample_id": 0, "ratio": 0.5, "response": "call chain.\n\n```", "finish_reason": "stop"}

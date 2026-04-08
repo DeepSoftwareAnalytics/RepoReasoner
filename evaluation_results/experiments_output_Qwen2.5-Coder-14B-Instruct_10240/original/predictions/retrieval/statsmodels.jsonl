@@ -1,0 +1,520 @@
+{"task_id": "statsmodels_111", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_111", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_111", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_111", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_111", "experiment_type": "retrieval", "sample_id": 4, "response": "ndarray", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_112", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_112", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'normal'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_112", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_112", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_112", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_113", "experiment_type": "retrieval", "sample_id": 0, "response": "text\n```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_113", "experiment_type": "retrieval", "sample_id": 1, "response": "['???']", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_113", "experiment_type": "retrieval", "sample_id": 2, "response": "end", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_113", "experiment_type": "retrieval", "sample_id": 3, "response": "alpha", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_113", "experiment_type": "retrieval", "sample_id": 4, "response": "alpha", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_114", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_114", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_114", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_114", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_114", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_206", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'smoothing_level': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_206", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'smoothing_level': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_206", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'smoothing_level': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_206", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'smoothing_level': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_206", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'smoothing_level': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_29", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['endog']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_29", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['endog']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_29", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['endog']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_29", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['endog']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_29", "experiment_type": "retrieval", "sample_id": 4, "response": "trunc", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_30", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_30", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_30", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_30", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_30", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_28", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_28", "experiment_type": "retrieval", "sample_id": 1, "response": "# Output format\n```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_28", "experiment_type": "retrieval", "sample_id": 2, "response": "nobs_effective", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_28", "experiment_type": "retrieval", "sample_id": 3, "response": "nobs - 500", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_28", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_79", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(nobs - k_vars)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_79", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(nobs - k_vars)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_79", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(nobs - k_vars)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_79", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nnobs - k_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_79", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(nobs - k_vars)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_80", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nk_vars - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_80", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_80", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nk_vars - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_80", "experiment_type": "retrieval", "sample_id": 3, "response": "nobs - k_vars - 1", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_80", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nk_vars - k_constant\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_82", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nself.X.shape[0] - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_82", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n149\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_82", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_82", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_82", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n49\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_70", "experiment_type": "retrieval", "sample_id": 0, "response": "text", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_70", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'lambda_'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_70", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nself.prbplt.scale\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_70", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_70", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_71", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'fit_params'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_71", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nself.prbplt.k\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_71", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'loc'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_71", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nself.prbplt.method\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_71", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nself.prbplt.scale\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_72", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_72", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'???'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_72", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_72", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_72", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'???'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_74", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'???'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_74", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nself.loc\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_74", "experiment_type": "retrieval", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_74", "experiment_type": "retrieval", "sample_id": 3, "response": "n", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_74", "experiment_type": "retrieval", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_76", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nself.prbplt.dist.mean()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_76", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_76", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nself.prbplt.dist.mean()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_76", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_76", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_69", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'cyan'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_69", "experiment_type": "retrieval", "sample_id": 1, "response": "?", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_69", "experiment_type": "retrieval", "sample_id": 2, "response": "[\n    'cyan'\n]", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_69", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'cyan'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_69", "experiment_type": "retrieval", "sample_id": 4, "response": "alpha", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_67", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nSample 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_67", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'Sample 1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_67", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nSample 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_67", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nSample 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_67", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'Sample 1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_68", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'Sample 2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_68", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nSample 2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_68", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'Sample 2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_68", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'Sample 2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_68", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'Sample 2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_73", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nlog\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_73", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'linear'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_73", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nlinear\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_73", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nlinear\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_73", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'linear'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_75", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'linear'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_75", "experiment_type": "retrieval", "sample_id": 1, "response": "trunc", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_75", "experiment_type": "retrieval", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_75", "experiment_type": "retrieval", "sample_id": 3, "response": "python\n'log'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_75", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'linear'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_77", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_77", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_77", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_77", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_77", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_198", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_198", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_198", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_198", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_198", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_199", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.98\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_199", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.98\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_199", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.98\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_199", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.98\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_199", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.98\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_200", "experiment_type": "retrieval", "sample_id": 0, "response": "text", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_200", "experiment_type": "retrieval", "sample_id": 1, "response": "text", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_200", "experiment_type": "retrieval", "sample_id": 2, "response": "text", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_200", "experiment_type": "retrieval", "sample_id": 3, "response": "text", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_200", "experiment_type": "retrieval", "sample_id": 4, "response": "text", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_201", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_201", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_201", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_201", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_201", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_203", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_203", "experiment_type": "retrieval", "sample_id": 1, "response": "regime_transition_matrix", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_203", "experiment_type": "retrieval", "sample_id": 2, "response": "end_of_test", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_203", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_203", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_204", "experiment_type": "retrieval", "sample_id": 0, "response": "theta", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_204", "experiment_type": "retrieval", "sample_id": 1, "response": "theta", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_204", "experiment_type": "retrieval", "sample_id": 2, "response": "theta", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_204", "experiment_type": "retrieval", "sample_id": 3, "response": "theta", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_204", "experiment_type": "retrieval", "sample_id": 4, "response": "theta", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_196", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_196", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_196", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_196", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_196", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_197", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(ix + 19)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_197", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(ix + 19)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_197", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(ix + 19)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_197", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(ix + 19)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_197", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nix + 19\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_205", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n240000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_205", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n240000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_205", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2400\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_205", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_205", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2400\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_39", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n<no default value>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_39", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_39", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n<no default value>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_39", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_39", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'no default value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_40", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_40", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_40", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_40", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_40", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_38", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nengine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_38", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'engine'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_38", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nengine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_38", "experiment_type": "retrieval", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_38", "experiment_type": "retrieval", "sample_id": 4, "response": "text", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_31", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nengine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_31", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nengine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_31", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nengine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_31", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nengine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_31", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nengine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_32", "experiment_type": "retrieval", "sample_id": 0, "response": "`\nformulaic\n`", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_32", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'formulaic'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_32", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'formulaic'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_32", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nformulaic\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_32", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'formulaic'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_33", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'patsy'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_33", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'patsy'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_33", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'patsy'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_33", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'patsy'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_33", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'patsy'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_34", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nordering\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_34", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nordering\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_34", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nordering\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_34", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nordering\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_34", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nordering\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_35", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_35", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_35", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_35", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_35", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_36", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_36", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_36", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_36", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_36", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_37", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_37", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_37", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_37", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_37", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_43", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'all'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_43", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'error'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_43", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ndrop\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_43", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'error'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_43", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'all'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_44", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n('nan', 'inf')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_44", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n('None',)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_44", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_44", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n('na', 'NaN', 'nan', 'NA', 'na.', '.na', 'nan.')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_44", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_45", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nraise\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_45", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nraise\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_45", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nraise\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_45", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nraise\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_45", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'raise'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_46", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n('None',)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_46", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n('None',)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_46", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n('None',)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_46", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n('None',)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_46", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n('None',)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_41", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_41", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_41", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_41", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_41", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_42", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_42", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_42", "experiment_type": "retrieval", "sample_id": 2, "response": "n", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_42", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_42", "experiment_type": "retrieval", "sample_id": 4, "response": "nparams", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_51", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nslice(i, (i + 1), None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_51", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nslice(i, (i + 1), None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_51", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nslice(i, i + 1, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_51", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nslice(None, None, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_51", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nslice(i, (i + 1), None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_52", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nslice(i, i + 1, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_52", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nslice(i, i+1, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_52", "experiment_type": "retrieval", "sample_id": 2, "response": "text", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_52", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(slice(i, i + 1, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_52", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nslice(i, i + 1, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_53", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['y', 'a', 'b', 'c']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_53", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['Intercept', 'a', 'b', 'c', 'd[T.b]', 'd[T.c]', 'e[T.b]', 'e[T.c]', 'f[T.b]', 'f[T.c]']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_53", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['Intercept', 'y', 'a', 'b', 'c', 'd[T.b]', 'd[T.c]', 'e[T.b]', 'e[T.c]', 'f[T.b]', 'f[T.c]']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_53", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['Intercept', 'a', 'b', 'c', 'd[T.b]', 'd[T.c]', 'e[T.b]', 'e[T.c]', 'f[T.b]', 'f[T.c]']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_53", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['Intercept', 'a', 'b', 'c', 'd[T.b]', 'd[T.c]', 'e[T.b]', 'e[T.c]', 'f[T.b]', 'f[T.c]']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_47", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_47", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_47", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_47", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_47", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_48", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_48", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_48", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n150\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_48", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n80\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_48", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n80\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_115", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ndtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_115", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_115", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'float'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_115", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ndtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_115", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_116", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_116", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_116", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_116", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_116", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_117", "experiment_type": "retrieval", "sample_id": 0, "response": "array", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_117", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_117", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'float64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_117", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_117", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_118", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_118", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_118", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'double'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_118", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_118", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'double'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_119", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['medical', 'mental', 'mental']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_119", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['medical', 'mental', 'mental']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_119", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['medical', 'medical', 'mental']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_119", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['medical', 'mental', 'mental']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_119", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['medical', 'medical', 'mental']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_120", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['medical', 'mental', 'physical']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_120", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['mental', 'mental', 'medical']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_120", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['medical', 'medical', 'mental']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_120", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[b'mental', b'mental', b'physical']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_120", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[b'mental', b'mental', b'medical']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_100", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n49\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_100", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n47\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_100", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n49\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_100", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n50\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_100", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n49\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_92", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nnobs - k_vars - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_92", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nnobs - k_vars - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_92", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(nobs - k_vars - k_extra)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_92", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nnobs - k_vars - k_extra - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_92", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nnobs - k_vars - k_extra - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_93", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_93", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_93", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_93", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nk_vars - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_93", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nk_vars + k_extra - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_94", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_94", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_94", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_94", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_94", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_103", "experiment_type": "retrieval", "sample_id": 0, "response": "textwrap.dedent(", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_103", "experiment_type": "retrieval", "sample_id": 1, "response": ".ndarray)", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_103", "experiment_type": "retrieval", "sample_id": 2, "response": "array_like", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_103", "experiment_type": "retrieval", "sample_id": 3, "response": "textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap.dedent(textwrap", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_103", "experiment_type": "retrieval", "sample_id": 4, "response": "array(3)", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_104", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_104", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_104", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_104", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_104", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_105", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_105", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_105", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_105", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_105", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_109", "experiment_type": "retrieval", "sample_id": 0, "response": "nrobust", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_109", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ncov_type\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_109", "experiment_type": "retrieval", "sample_id": 2, "response": "nrobust", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_109", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ncov_type\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_109", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ncov_type\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_110", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nuse_t\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_110", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nuse_t\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_110", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nuse_t\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_110", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nuse_t\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_110", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nuse_t\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_78", "experiment_type": "retrieval", "sample_id": 0, "response": "sigma", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_78", "experiment_type": "retrieval", "sample_id": 1, "response": "sigma", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_78", "experiment_type": "retrieval", "sample_id": 2, "response": "sigma", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_78", "experiment_type": "retrieval", "sample_id": 3, "response": "sigma", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_78", "experiment_type": "retrieval", "sample_id": 4, "response": "sqrt(result.sum())", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_221", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_221", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'n'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_221", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'n'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_221", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'n'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_221", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_222", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_222", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'add'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_222", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_222", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n21\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_222", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_223", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'unknown'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_223", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'auto'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_223", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'additive'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_223", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_223", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nstl\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_158", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(nobs, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_158", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(res_probit.nobs, res_probit.model.df_model + 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_158", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(prob.shape)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_158", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(nobs, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_158", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(prob.shape)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_192", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nadd\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_192", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nmul\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_192", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nadd\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_192", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nmul\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_192", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nadd\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_193", "experiment_type": "retrieval", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_193", "experiment_type": "retrieval", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_193", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'mul'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_193", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'mul'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_193", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'mul'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_194", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'add'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_194", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'add'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_194", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'add'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_194", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'add'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_194", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'add'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_273", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(200, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_273", "experiment_type": "retrieval", "sample_id": 1, "response": "code: ```output\n(100, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_273", "experiment_type": "retrieval", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_273", "experiment_type": "retrieval", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_273", "experiment_type": "retrieval", "sample_id": 4, "response": "code\n```output\n(100, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_274", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['0', '1', '0_lag_1', '1_lag_1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_274", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['0', '1', '0_lag_1', '1_lag_1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_274", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[0, 1, 2, 3]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_274", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[0, 1, 0, 1]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_274", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['x0', 'x1', 'x0_lag1', 'x1_lag1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_138", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_138", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_138", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_138", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_138", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_139", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_139", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_139", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_139", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_139", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_140", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_140", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_140", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_140", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_140", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_141", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_141", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_141", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_141", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_141", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_142", "experiment_type": "retrieval", "sample_id": 0, "response": "array_like(data, 'a', ndim=2, shape=(20, None))", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_142", "experiment_type": "retrieval", "sample_id": 1, "response": "textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill(textwrap.dedent(textwrap.fill", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_142", "experiment_type": "retrieval", "sample_id": 2, "response": "textwrap.dedent(f\"\"\"\\\n{self.__class__.__name__}\nStat: {self.stat:0.5f}\nUpper P-value: {self.p_values[\"upper\"]:0.3g}\nLower P-value: {self.p_values[\"lower\"]:0.3g}\nNull: {self.null}\nAlternative: {self.alternative}\n\"\"\")", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_142", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_142", "experiment_type": "retrieval", "sample_id": 4, "response": ".ndarray", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_143", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(20,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_143", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(20,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_143", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(20,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_143", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(20,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_143", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(20,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_144", "experiment_type": "retrieval", "sample_id": 0, "response": "text(20, 10)", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_144", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_144", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_144", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_144", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_145", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_145", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_145", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_145", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_145", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_146", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(20, 10, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_146", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(20, 10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_146", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_146", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_146", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(20, 10, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_147", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_147", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_147", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_147", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_147", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_148", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_148", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_148", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_148", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_148", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_149", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_149", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(5, None, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_149", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_149", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(5, None, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_149", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(5, None, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_150", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_150", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_150", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_150", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_150", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_151", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(5, 6, 7, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_151", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(5, 6, 7, 8)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_151", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(5, 6, 7, 8, 9)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_151", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(5, 6, 7, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_151", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(5, 6, 7, 8)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_156", "experiment_type": "retrieval", "sample_id": 0, "response": "math\n```output\nnp.float32\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_156", "experiment_type": "retrieval", "sample_id": 1, "response": "math\n```output\nnp.float32\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_156", "experiment_type": "retrieval", "sample_id": 2, "response": "math", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_156", "experiment_type": "retrieval", "sample_id": 3, "response": "math\n```output\nnp.float32\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_156", "experiment_type": "retrieval", "sample_id": 4, "response": "text\n\n```output\nfloat32\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_157", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nuint8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_157", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nuint8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_157", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nuint8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_157", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nnp.uint8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_157", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nuint8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_130", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_130", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_130", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_130", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_130", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_131", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(10, 10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_131", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(10, 10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_131", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_131", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(10, 10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_131", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(10, 10, 1, 1, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_132", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_132", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(10, 10, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_132", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_132", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_132", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(10, 10, 1, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_152", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_152", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(2, 1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_152", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(2, 1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_152", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(2, 1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_152", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(2, 1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_153", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_153", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_153", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_153", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_153", "experiment_type": "retrieval", "sample_id": 4, "response": "end", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_154", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_154", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_154", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_154", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_154", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_134", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'apple_appended'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_134", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'apple_appended'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_134", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\napple_appended\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_134", "experiment_type": "retrieval", "sample_id": 3, "response": "end", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_134", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\napple_appended\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_135", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['apple_0_appended', 'apple_1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_135", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['apple_0_appended', 'apple_1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_135", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['apple_0_appended', 'apple_1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_135", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['apple_0_appended', 'apple_1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_135", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['apple_0_appended', 'apple_1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_136", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n7_appended\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_136", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n7_appended\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_136", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n7_appended\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_136", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'7_appended'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_136", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n7_appended\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_137", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['0_appended', '1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_137", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['0_appended', '1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_137", "experiment_type": "retrieval", "sample_id": 2, "response": "?\n```\n['0_appended', '1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_137", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['0_appended', '1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_137", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['0_appended', '1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_125", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['abc']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_125", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['abc']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_125", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['abc']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_125", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['abc']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_125", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['abc']\n```", "finish_reason": "stop", "usage": null}

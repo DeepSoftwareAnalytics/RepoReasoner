@@ -1,0 +1,805 @@
+{"task_id": "plotly_0", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_0", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_0", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_0", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_0", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_2", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_2", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_2", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_2", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_2", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_1", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_1", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_1", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_1", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_1", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_3", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_3", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_3", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_3", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_3", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_354", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_354", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_354", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_354", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_354", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_356", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[0, 179, -179]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_356", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_356", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[0, 179, -179]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_356", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_356", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[0, 179, -179]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_358", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[expected]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_358", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[expected]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_358", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[expected]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_358", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[expected]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_358", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[expected]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_355", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_355", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_355", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_355", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_355", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_76", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_76", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_76", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_76", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_76", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_8", "experiment_type": "retrieval", "sample_id": 0, "response": "property", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_8", "experiment_type": "retrieval", "sample_id": 1, "response": "codegen.validators.get_validator_params", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_8", "experiment_type": "retrieval", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_8", "experiment_type": "retrieval", "sample_id": 3, "response": "property 'name' of 'Annotations' object has no setter", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_8", "experiment_type": "retrieval", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_9", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nFalse\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_9", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nAnnotations([Annotations()])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_9", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_9", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nFalse\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_9", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[Annotations([])]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_6", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nKeyError: 'text'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_6", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nKeyError('x')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_6", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nKeyError: 'text'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_6", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nKeyError\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_6", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nKeyError: 'text'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_7", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nTypeError: __init__() missing 1 required positional argument: 'annotations'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_7", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nKeyError: 'family'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_7", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nKeyError: 'size'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_7", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nKeyError: 'size'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_7", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nTypeError: Annotations() takes no arguments\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_4", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_4", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_4", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_4", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_4", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_359", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_359", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nobject\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_359", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nobject\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_359", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nobject\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_359", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nobject\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_360", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'present'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_360", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'array'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_360", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_360", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_360", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'array'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_361", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nstr(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_361", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nstr(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_361", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nstr(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_361", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_361", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_370", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nscatter\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_370", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'scatter'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_370", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nscatter\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_370", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'scatter'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_370", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'scatter'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_372", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_372", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[{'type': 'scatter', 'mode': 'lines', 'marker': {'color': 'green'}}, {'type': 'box', 'fillcolor': 'yellow'}, {'type': 'scatter', 'mode': 'lines+markers', 'x': [2, 1, 3]}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_372", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_372", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[{'type': 'scatter', 'mode': 'lines', 'marker': {'color': 'green'}}, {'type': 'box', 'fillcolor': 'yellow'}, {'type': 'scatter', 'mode': 'lines+markers', 'x': [2, 1, 3]}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_372", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[{'type': 'scatter', 'mode': 'lines', 'marker': {'color': 'green'}}, {'type': 'box', 'fillcolor': 'yellow'}, {'type': 'scatter', 'mode': 'lines+markers', 'x': [2, 1, 3]}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_381", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_381", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_381", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_381", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_381", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_383", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'blue'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_383", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['hsl(0, 100%, 50%)', 'hsla(0, 100%, 50%, 100%)', 'hsv(0, 100%, 100%)']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_383", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n','.join(map(str, coerce_val))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_383", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['hsl(0, 100%, 50%)', 'hsla(0, 100%, 50%, 100%)', 'hsv(0, 100%, 100%)']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_383", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nnp.array(['red', 'rgb(255, 0, 0)'], dtype='<U13')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_384", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['blue']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_384", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['red', 'rgb(255, 0, 0)']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_384", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[['blue']]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_384", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['red', 'rgb(255, 0, 0)']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_384", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['red', 'rgb(255, 0, 0)', 'hsl(0, 100%, 50%)', 'hsla(0, 100%, 50%, 100%)']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_382", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_382", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_382", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_382", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_382", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_373", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_373", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_373", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_373", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_373", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_379", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[[0, 'red'], [0.1, 'rgb(255,0,0)'], [0.3, 'green'], [0, 'purple'], [0.2, 'yellow'], [1.0, 'rgba(255,0,0,100)']]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_379", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_379", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[[0, 'red'], [0.1, 'rgb(255,0,0)'], [0.3, 'green'], [0, 'purple'], [0.2, 'yellow'], [1.0, 'rgba(255,0,0,100)']]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_379", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[[0, 'red'], [0.1, 'rgb(255,0,0)'], [0.3, 'green']]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_379", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_380", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'[[0, \"red\"], [0.1, \"rgb(255, 0, 0)\"], [0.3, \"GREEN\"], [0, \"Purple\"], [0.2, \"yellow\"], [1.0, \"RGBA(255,0,0,100)\"]]'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_380", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'0: red, 0.1: rgb(255, 0, 0), 0.3: GREEN, 0.2: yellow, 1.0: RGBA(255,0,0,100)'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_380", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'(0, \\'red\\'), (0.1, \\'rgb(255, 0, 0)\\'), (0.3, \\'GREEN\\'), (0.2, \\'yellow\\'), (1.0, \\'RGBA(255,0,0,100)\\')'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_380", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'0.0 red, 0.1 rgb(255, 0, 0), 0.2 yellow, 0.3 GREEN, 1.0 RGBA(255,0,0,100)'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_380", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n', '.join([f\"'{item[0]}': '{item[1]}'\" for item in expected_present])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_374", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_374", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nnamed_colorscale\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_374", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_374", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nnamed_colorscale.upper()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_374", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_375", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_375", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_375", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_375", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nnamed_colorscale.upper()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_375", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n('Viridis', [(0.0, 'rgb(68.0, 1.0, 84.0)'), (0.14285714285714285, 'rgb(66.0, 64.0, 134.0)'), (0.2857142857142857, 'rgb(38.0, 130.0, 142.0)'), (0.42857142857142855, 'rgb(63.0, 188.0, 115.0)'), (0.5714285714285714, 'rgb(216.0, 226.0, 25.0)'), (1.0, 'rgb(255.0, 255.0, 255.0)')])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_376", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n\"[('0.0', '#0d0887'), ('0.0625', '#46039f'), ('0.125', '#7201a8'), ('0.1875', '#9c179e'), ('0.25', '#bd3786'), ('0.3125', '#d8576b'), ('0.375', '#ed7953'), ('0.4375', '#fb9f3a'), ('0.5', '#fdca26'), ('0.5625', '#f0f921')]\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_376", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'\"plasma\"'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_376", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'plotly.colors.sequential.%s' % named_colorscale\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_376", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n\"['rgb(17,17,17)', 'rgb(17,17,17)']\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_376", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n\"[['0.0', '#0d0887'], ['0.06666666666666667', '#46039f'], ['0.13333333333333333', '#7201a8'], ['0.2', '#9c179e'], ['0.26666666666666666', '#bd3786'], ['0.3333333333333333', '#d8576b'], ['0.4', '#ed7953'], ['0.4666666666666667', '#fb9f3a'], ['0.5333333333333333', '#fdca26'], ['0.6', '#f0f921']]\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_377", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_377", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_377", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ntuple(((c[0], c[1]) for c in expected))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_377", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_377", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_378", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n\"'[(0.0, '#0000FF'), (0.25, '#00FFFF'), (0.5, '#00FF00'), (0.75, '#FFFF00'), (1.0, '#FF0000')]'\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_378", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'[(0.0, \\'red\\'), (0.5, \\'green\\'), (1.0, \\'blue\\')]'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_378", "experiment_type": "retrieval", "sample_id": 2, "response": "polar", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_378", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'rgb(255,255,255) to rgb(0,0,0)'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_378", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n\"rgb(0, 0, 255)-rgb(255, 0, 0)\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_392", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_392", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_392", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_392", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_392", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_393", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_393", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_393", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_393", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_393", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_396", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'color': 'green', 'size': 10, 'colorbar': {'bgcolor': 'blue'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_396", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'color': 'green', 'size': 10, 'colorbar': {'bgcolor': 'blue'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_396", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{\"color\": \"green\", \"size\": 10, \"colorbar\": {\"bgcolor\": \"blue\"}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_396", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'color': 'green', 'size': 10, 'colorbar': {'bgcolor': 'blue'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_396", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'color': 'green', 'size': 10, 'colorbar': {'bgcolor': 'blue'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_397", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'color': 'green', 'size': 10, 'opacity': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_397", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'color': 'green', 'size': 10, 'opacity': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_397", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{\"color\": \"green\", \"size\": 10, \"opacity\": 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_397", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'color': 'green', 'size': 10, 'opacity': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_397", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{\"color\": \"green\", \"size\": 10, \"opacity\": 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_385", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'0.5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_385", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_385", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_385", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'0.5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_385", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'0.5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_386", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'120'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_386", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n120\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_386", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n120\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_386", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n120\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_386", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n120\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_387", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n99\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_387", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n99\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_387", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n99\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_387", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n99\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_387", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n99\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_388", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_388", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_388", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_388", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'0.5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_388", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_389", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'120px'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_389", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n120\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_389", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'120'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_389", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n120\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_389", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'120'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_390", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n99\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_390", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n99\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_390", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n99\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_390", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n99\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_390", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n99\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_391", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[{'x': 23, 'sizex': 120}, {'x': 99, 'sizey': 300}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_391", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[{'type': 'scatter', 'x': 23, 'sizex': 120}, {'type': 'scatter', 'x': 99, 'sizey': 300}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_391", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[{'x': 23, 'sizex': 120}, {'x': 99, 'sizey': 300}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_391", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[{'type': 'scatter', 'x': 23, 'sizex': 120}, {'type': 'scatter', 'x': 99, 'sizey': 300}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_391", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[{'x': 23, 'sizex': 120}, {'x': 99, 'sizey': 300}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_399", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_399", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_399", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_399", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_399", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_398", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_398", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_398", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_398", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_398", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_12", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_12", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_12", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_12", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nFalse\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_12", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'[{}]'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_16", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nFalse\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_16", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nAssertionError\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_16", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_16", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nFalse\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_16", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nFalse\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_17", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_17", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_17", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nTypeError: __eq__(): incompatible operand type(s) for ==: 'Data' and 'Annotations'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_17", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_17", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[Annotations()]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_13", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nKeyError: 'not-a-key'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_13", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nKeyError('not-a-key')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_13", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nKeyError('not-a-key')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_13", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nKeyError('not-a-key')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_13", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nKeyError\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_14", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nAssertionError\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_14", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'not-a-dict'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_14", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nAssertionError: {'marker': 'not-a-dict'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_14", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nValueError\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_14", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\n  File \"test.py\", line 2, in test_dict_instantiation_key_error_2\n    assert (Data([{'marker': 'not-a-dict'}]) == '???')\n  File \"data.py\", line 10, in __init__\n    self.validate_coerce(v)\n  File \"basevalidators.py\", line 155, in validate_coerce\n    v = copy_to_readonly_numpy_array(v)\n  File \"basevalidators.py\", line 79, in copy_to_readonly_numpy_array\n    v = nw.from_native(v, allow_series=True, pass_through=True)\nAttributeError: module 'narwhals.stable.v1' has no attribute 'from_native'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_15", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nTypeError('The data property of a figure may only be assigned \\n    a list or tuple that contains a permutation of a \\n    subset of itself.\\n    Received element value of type <class \\'dict\\'>')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_15", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nTypeError: Invalid value received for the 'type' property of scatter\n\nExpected one of: ['area', 'bar', 'barpolar', 'box', 'candlestick', 'carpet', 'choropleth', 'choroplethmapbox', 'cone', 'contour', 'contourcarpet', 'densitymapbox', 'funnel', 'funnelarea', 'heatmap', 'heatmapgl', 'histogram', 'histogram2d', 'histogram2dcontour', 'image', 'isosurface', 'mesh3d', 'ohlc', 'parcats', 'parcoords', 'pie', 'pointcloud', 'sankey', 'scatter', 'scatter3d', 'scattercarpet', 'scattergeo', 'scattergl', 'scattermapbox', 'scattersmith', 'scatterternary', 'splom', 'surface', 'sunburst', 'table', 'treemap', 'violin', 'volume', 'waterfall']\n\n    Received value: 'invalid_type'\n\n    Path To Node: type\n```\n\nThis is a detailed error message indicating that the 'type' property in the data dictionary is invalid. The expected values for the 'type' property are listed, and the received value 'invalid_type' is not among them. The path to the node is also provided, which is 'type'.", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_15", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nTypeError('Invalid value received for the \\'type\\' property of plotly.graph_objs.scatter.InvalidType\\n\\nInvalid type received for the \\'type\\' property of plotly.graph_objs.scatter.InvalidType\\n\\nExpected one of: scatter, bar, box, candlestick, carpet, choropleth, contour, contourcarpet, densitymapbox, funnel, funnelarea, heatmap, histogram, histogram2d, histogram2dcontour, image, indicator, isosurface, mesh3d, ohlc, parcats, parcoords, pie, pointcloud, sankey, scatter3d, scattercarpet, scattergeo, scattergl, scattermapbox, scatterpolar, scatterpolargl, scatterternary, surface, sunburst, table, treemap, violin, volume\\n\\nReceived value: \\'invalid_type\\'')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_15", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nTypeError: Invalid value received for the 'type' property of data[0]\n\nValue must be one of the following:\n    - A trace type string (one of ['area', 'bar', 'barpolar', 'box', 'candlestick', 'carpet', 'choropleth', 'choroplethmapbox', 'cone', 'contour', 'contourcarpet', 'densitymapbox', 'funnel', 'funnelarea', 'heatmap', 'heatmapgl', 'histogram', 'histogram2d', 'histogram2dcontour', 'image', 'isosurface', 'mesh3d', 'ohlc', 'parcats', 'parcoords', 'pie', 'pointcloud', 'sankey', 'scatter', 'scatter3d', 'scattercarpet', 'scattergeo', 'scattergl', 'scattermapbox', 'scatterpolar', 'scatterpolargl', 'scattersmith', 'splom', 'streamtube', 'surface', 'sunburst', 'table', 'treemap', 'violin', 'volume', 'waterfall'])\n    - An instance of a trace type class (one of [<class 'plotly.graph_objs._figure.Figure'>, <class 'plotly.graph_objs._scatter.Scatter'>, <class 'plotly.graph_objs._scatter3d.Scatter3d'>, <class 'plotly.graph_objs._scattercarpet.Scattercarpet'>, <class 'plotly.graph_objs._scattergeo.Scattergeo'>, <class 'plotly.graph_objs._scattergl.Scattergl'>, <class 'plotly.graph_objs._scattermapbox.Scattermapbox'>, <class 'plotly.graph_objs._scatterpolar.Scatterpolar'>, <class 'plotly.graph_objs._scatterpolargl.Scatterpolargl'>, <class 'plotly.graph_objs._scattersmith.Scattersmith'>, <class 'plotly.graph_objs._splom.Splom'>, <class 'plotly.graph_objs._surface.Surface'>, <class 'plotly.graph_objs._table.Table'>])\n    - A dict with a 'type' key whose value is one of the above\n\nGot value of type <class 'str'>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_15", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nTypeError\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_10", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_10", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nNotImplementedError\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_10", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNotImplementedError\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_10", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n<__main__.Data object at 0x7f9c3c3c3c50>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_10", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nData()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_400", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_400", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_400", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_400", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_400", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_47", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_47", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_47", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_47", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_47", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_48", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_48", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_48", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_48", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_48", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_49", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', 'scatter', '", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_49", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[[<plotly.graph_objs.bar.Bar object at 0x7f8c2c2c2c2c>, <plotly.graph_objs.bar.Bar object at 0x7f8c2c2c2c2c>]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_49", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[{'name': 'xaxis', 'title': '', 'type': 'linear'}, {'name': 'yaxis', 'title': '', 'type': 'linear'}, {'name': 'xaxis2', 'title': '', 'type': 'linear'}, {'name': 'yaxis2', 'title': '', 'type': 'linear'}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_49", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_49", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_50", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'(2, 2)'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_50", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'[{\"col\": 1, \"row\": 1}, {\"col\": 2, \"row\": 1}]'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_50", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'(2, 3)'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_50", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'[{\"row\": 1, \"col\": 1}, {\"row\": 1, \"col\": 2}]'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_50", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n\"( (1,1) (1,2) (2,1) (2,2) )\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_51", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'data': [{'type': 'bar', 'y': [0, 0, 1]}], 'layout': {}, 'frames': []}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_51", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'data': [{'type': 'bar', 'y': [0, 0, 1]}], 'layout': {'template': 'general'}, 'frames': []}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_51", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'data': [{'type': 'bar', 'y': [0, 0, 1]}, {'type': 'bar', 'y': [0, 0, 1]}], 'layout': {'xaxis': {}, 'yaxis': {}}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_51", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'data': [{'type': 'bar', 'y': [0, 0, 1]}], 'layout': {'template': 'plotly_dark'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_51", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'data': [{'type': 'bar', 'y': [0, 0, 1]}], 'layout': {}, 'frames': []}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_52", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_52", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_52", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_52", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_52", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_53", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_53", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_53", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_53", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_53", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_54", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_54", "experiment_type": "retrieval", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_54", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_54", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'data': [{'type': 'bar', 'y': [0, 0, 1]}], 'layout': {'grid': {'rows': 1, 'columns': 2}}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_54", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_402", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_402", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_402", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_402", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_402", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'bar0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_403", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n','.join(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_403", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n','.join(map(str, val))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_403", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n' '.join(str(item) for item in val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_403", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n' '.join(map(str, val))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_403", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n','.join(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_404", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_404", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'bar12'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_404", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_404", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'bar12'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_404", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'foo'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_401", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_401", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_401", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_401", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_401", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_18", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nAttributeError: 'ErrorX' object has no attribute '__eq__'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_18", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nValueError: Input value is not numeric and force_numeric parameter set to True\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_18", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nAssertionError\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_18", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nTypeError: 'ErrorX' object is not iterable\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_18", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nTraceback (most recent call last):\n  File \"test_key_error.py\", line 2, in <module>\n    assert (ErrorX(value=0.1, typ='percent', color='red') == '???')\nNameError: name 'ErrorX' is not defined\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_406", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_406", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_406", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_406", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_406", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_405", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_405", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_405", "experiment_type": "retrieval", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_405", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_405", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_19", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_19", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_19", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nLayout()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_19", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_19", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nLayout(autosize=False, grid={'rows': 2, 'columns': 2})\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_407", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nflaglist\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_407", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_407", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_407", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_407", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_412", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nextra\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_412", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nextra\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_412", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nextra\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_412", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nextra\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_412", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nextra\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_411", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_411", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nflaglist\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_411", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nflaglist\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_411", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_411", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_409", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nextra\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_409", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nextra\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_409", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nextra\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_409", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nextra\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_409", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nextra\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_408", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'lines+markers'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_408", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ncoerce_val\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_408", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ncoerce_val\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_408", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ncoerce_val\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_408", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'lines+markers'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_410", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ncoerce_val\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_410", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'none'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_410", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ncoerce_val\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_410", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ncoerce_val\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_410", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ncoerce_val\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_55", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'<div id=\"plotly-root\" class=\"plotly-graph-div\" style=\"height:100%; width:100%;\"></div><script src=\"https://cdn.plot.ly/plotly-latest.min.js\"></script><script>Plotly.newPlot(\\'plotly-root\\', [{\"type\": \"scatter\", \"x\": [], \"y\": []}], {}, {});</script>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_55", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'<!-- Plotly chart will be inserted here -->'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_55", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n\"<div id='plotly-root' class='plotly-graph-div' style='height:100%; width:100%;'></div>\\n<script type='text/javascript'>\\nPlotly.newPlot('plotly-root', [{\\\"type\\\": \\\"scatter\\\", \\\"x\\\": [1, 2, 3], \\\"y\\\": [1, 4, 9]}], {}, {\\\"autosize\\\": true, \\\"displaylogo\\\": false, \\\"responsive\\\": true, \\\"showTips\\\": true, \\\"showLink\\\": false, \\\"modeBarButtonsToRemove\\\": [\\\"sendDataToCloud\\\", \\\"editInChartStudio\\\", \\\"toggleHoverMode\\\", \\\"compareData\\\", \\\"addImages\\\"]});\\n</script>\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_55", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'<!DOCTYPE html>\\n<html>\\n<head>\\n\\t<script src=\"https://cdn.plot.ly/plotly-latest.min.js\"></script>\\n</head>\\n<body>\\n\\t<div id=\"plotly-root\"></div>\\n\\t<script>\\n\\t\\tPlotly.newPlot(\\'plotly-root\\', [{\"type\": \"scatter\", \"x\": [], \"y\": []}], {}, {});\\n\\t</script>\\n</body>\\n</html>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_55", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'NotImplementedError'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_413", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_413", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_413", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_413", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_413", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'http://somewhere.com/images/image12.png'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_86", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_86", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_86", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_86", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_86", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_87", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_87", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_87", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_87", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_87", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_88", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_88", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_88", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_88", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_88", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_89", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'svg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_89", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'svg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_89", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'svg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_89", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'svg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_89", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'svg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_90", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_90", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_90", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_90", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_90", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_91", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_91", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_91", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_91", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_91", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_92", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-svg.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_92", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-svg.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_92", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-svg.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_92", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-svg.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_92", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-svg.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_93", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\npath/to/topojson/files/\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_93", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'path/to/topojson/files/'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_93", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'path/to/topojson/files/'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_93", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'path/to/topojson/files/'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_93", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'path/to/topojson/files/'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_94", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nhttps://cdn.plot.ly/plotly-3.0.0.js\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_94", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nhttps://cdn.plot.ly/plotly-3.0.0.js\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_94", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'https://cdn.plot.ly/plotly-3.0.0.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_94", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'https://cdn.plot.ly/plotly-3.0.0.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_94", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'https://cdn.plot.ly/plotly-3.0.0.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_95", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_95", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_95", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_95", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_95", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_96", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_96", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_96", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_96", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_96", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_97", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_97", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_97", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_97", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_97", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_98", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'png'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_98", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'png'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_98", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_98", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_98", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_99", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_99", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_99", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_99", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'701'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_99", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_100", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_100", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_100", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_100", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_100", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_101", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_101", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_101", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_101", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_101", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_102", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_102", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_102", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_102", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_102", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_103", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'https://cdn.plot.ly/plotly-latest.min.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_103", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'https://cdn.plot.ly/plotly-latest.min.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_103", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'https://cdn.plot.ly/plotly-latest.min.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_103", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'https://cdn.plot.ly/plotly-3.0.0.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_103", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'https://cdn.plot.ly/plotly-3.0.0.js'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_104", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_104", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'data': [{'type': 'heatmap', 'z': [[0, 0], [0, 0]]}]}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_104", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'data': [{'type': 'heatmap', 'z': [[1, 2], [3, 4]]}], 'layout': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_104", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_104", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_105", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'svg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_105", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'svg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_105", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'svg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_105", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'svg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_105", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'svg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_106", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_106", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_106", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_106", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_106", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n701\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_107", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_107", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_107", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_107", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_107", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n501\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_108", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'path/to/topojson/files/'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_108", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_108", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_108", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'path/to/topojson/files/'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_108", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_112", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_112", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_112", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_112", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_112", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_111", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_111", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_111", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_111", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_111", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_181", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_181", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_181", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_181", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_181", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_180", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1 + int(marginal_x is not None) + int(marginal_y is not None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_180", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_180", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_180", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1 + (marginal_x is not None) + (marginal_y is not None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_180", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_432", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_432", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_432", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_432", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_432", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_436", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_436", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_436", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_436", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_436", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_435", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_435", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_435", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_435", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_435", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_434", "experiment_type": "retrieval", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_434", "experiment_type": "retrieval", "sample_id": 1, "response": "pandas.NaT", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_434", "experiment_type": "retrieval", "sample_id": 2, "response": "output\n0", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_434", "experiment_type": "retrieval", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_434", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_433", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_433", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nnp.clip(np.asarray(val), 0, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_433", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_433", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_433", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nmin(max(val, 0), 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_437", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_437", "experiment_type": "retrieval", "sample_id": 1, "response": "index", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_437", "experiment_type": "retrieval", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_437", "experiment_type": "retrieval", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_437", "experiment_type": "retrieval", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_182", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\npx.line(df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_182", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nFalse\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_182", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nAssertionError\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_182", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nAssertionError\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_182", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n<Figure>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_444", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ncategory\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_444", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ncategory\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_444", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ncategory\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_444", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ncategory\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_444", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ncategory\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_445", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_445", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nobject\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_445", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nobject\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_445", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nobject\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_445", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nobject\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_442", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_442", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_442", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_442", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_442", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_441", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_441", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_441", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_441", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_441", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_447", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_447", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_447", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_447", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_447", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_446", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_446", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_446", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_446", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ndatetime64[D]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_446", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ndatetime64[D]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_439", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nnumeric_pandas.dtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_439", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nnumeric_pandas.dtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_439", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nnumeric_pandas.dtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_439", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'???'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_439", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'uint32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_440", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_440", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'i'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_440", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_440", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_440", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_438", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_438", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_438", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_438", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_438", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_56", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nreplace_div_id(sio_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_56", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nreplace_div_id(sio_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_56", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nreplace_div_id(sio_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_56", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nreplace_div_id(sio_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_56", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nreplace_div_id(sio_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_57", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nreplace_div_id(pl_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_57", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nreplace_div_id(pl_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_57", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nreplace_div_id(pl_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_57", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nreplace_div_id(pl_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_57", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nreplace_div_id(pl_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_58", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nreplace_div_id(fd_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_58", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nreplace_div_id(fd_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_58", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nreplace_div_id(fd_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_58", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nreplace_div_id(fd_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_58", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nreplace_div_id(fd_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_23", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_23", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_23", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_23", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_23", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_24", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_24", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_24", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_24", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_24", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_25", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_25", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_25", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_25", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_25", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_26", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_26", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_26", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_26", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_26", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_27", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_27", "experiment_type": "retrieval", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_27", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_27", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_27", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_28", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_28", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_28", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_28", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_28", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'courier'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_29", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'percent'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_29", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'percent'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_29", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'percent'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_29", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'percent'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_29", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'percent'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_21", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_21", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_21", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_21", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_21", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_22", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_22", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_22", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_22", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_22", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_35", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{(1, 1), (1, 2), (2, 1)}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_35", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{(1, 1), (1, 2)}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_35", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{(1, 1), (1, 2), (2, 1), (2, 2)}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_35", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{(1, 1), (1, 2)}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_35", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{(1, 1), (1, 2), (2, 1), (2, 2)}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_36", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_36", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_36", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_36", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_36", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_30", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'type': 'scatter'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_30", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'type': 'scatter'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_30", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'type': 'scatter', 'x': [], 'y': []}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_30", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'type': 'scatter'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_30", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'type': 'scatter'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_82", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[[[-87, 35], [-87, 30], [-85, 30], [-85, 35]]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_82", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[[[-87.0, 35.0], [-87.0, 30.0], [-85.0, 30.0], [-85.0, 35.0]]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_82", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[[[-87, 35], [-87, 30], [-85, 30], [-85, 35]]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_82", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[[[-87.0, 35.0], [-87.0, 30.0], [-85.0, 30.0], [-85.0, 35.0]]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_82", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[[[-87.0, 35.0], [-87.0, 30.0], [-85.0, 30.0], [-85.0, 35.0]]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_83", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[[0.25, 52], [0.75, 50]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_83", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[[0.25, 52], [0.75, 50]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_83", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[[0.25, 52], [0.75, 50]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_83", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[[0.25, 52], [0.75, 50]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_83", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[[0.25, 52], [0.75, 50]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_84", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[0, 1]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_84", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[0, 1]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_84", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[0, 1]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_84", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[0, 1]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_84", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[0.0, 1.0]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_448", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_448", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_448", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_448", "experiment_type": "retrieval", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_448", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_453", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'present'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_453", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_453", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_453", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_453", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_452", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_452", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_452", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_452", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_452", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_450", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_450", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_450", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_450", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_450", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_454", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['bar', 'HELLO!!!']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_454", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n' '.join(coerce_val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_454", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_454", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'bar'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_454", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_451", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_451", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_451", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_451", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_451", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_449", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_449", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_449", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_449", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_449", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_455", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_455", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_455", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_455", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_455", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_38", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_38", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_38", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_38", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_38", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_39", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_39", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_39", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_39", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_39", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_42", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'y3'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_42", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_42", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'y3'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_42", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'y3'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_42", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_43", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'x domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_43", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'x1 domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_43", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nx domain\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_43", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nx1 domain\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_43", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nx1 domain\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_44", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_44", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_44", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_44", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_44", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_45", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'x domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_45", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'x domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_45", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'x domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_45", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'x domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_45", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'x domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_41", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_41", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_41", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_41", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_41", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_40", "experiment_type": "retrieval", "sample_id": 0, "response": "output\ny2", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_40", "experiment_type": "retrieval", "sample_id": 1, "response": "output\n'y2'", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_40", "experiment_type": "retrieval", "sample_id": 2, "response": "output\ny2", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_40", "experiment_type": "retrieval", "sample_id": 3, "response": "output\n'y2'", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_40", "experiment_type": "retrieval", "sample_id": 4, "response": "output\ny2", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_46", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_46", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n-1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_46", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_46", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n-2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_46", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n-1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_352", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'2014-01-05T00:00:00', '2014-01-05T01:01:01', '2014-01-05T01:01:01.000001', 1, 'A'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_352", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{1, 'A', '2014-01-05T00:00:00', '2014-01-05T01:01:01', '2014-01-05T01:01:01.000001'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_352", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'2014-01-05T00:00:00', 1, '2014-01-05T01:01:01', '2014-01-05T01:01:01.000001', 'A'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_352", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'2014-01-05T00:00:00', 1, '2014-01-05T01:01:01', 'A'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_352", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'2014-01-05T00:00:00', '2014-01-05T01:01:01', '2014-01-05T01:01:01.000001', 1, 'A'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_353", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'2014-01-05T00:00:00'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_353", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'2014-01-05T00:00:00'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_353", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'2014-01-05T00:00:00'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_353", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_353", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'2014-01-05T00:00:00'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_460", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_460", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_460", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_460", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfloat32\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_460", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_459", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nnp.float64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_459", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nnp.float64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_459", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_459", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_459", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_457", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nnumeric_xarray.dtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_457", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nnumeric_xarray.dtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_457", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nnp.int64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_457", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nnumeric_xarray.dtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_457", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nnp.int64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_458", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_458", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_458", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_458", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_458", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_456", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_456", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_456", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_456", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_456", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}

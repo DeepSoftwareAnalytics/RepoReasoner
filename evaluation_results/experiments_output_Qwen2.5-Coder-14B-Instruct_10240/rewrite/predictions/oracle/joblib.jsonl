@@ -1,0 +1,320 @@
+{"task_id": "joblib_1", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'src content B'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_1", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'special chars !@#'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_1", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'src content B'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_1", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'src content B'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_1", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'src content B'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_0", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n16384\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_0", "experiment_type": "oracle", "sample_id": 1, "response": "output\n262144", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_0", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n123\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_0", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_0", "experiment_type": "oracle", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_2", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nmy_wrapped_obj(value)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_2", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nmy_wrapped_obj(value)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_2", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nvalue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_2", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nmy_wrapped_obj(value)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_2", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nmy_wrapped_obj(value)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_3", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n-10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_3", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_3", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n-10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_3", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n-10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_3", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n-9\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_4", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_4", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_4", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_4", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_4", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_16", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nvalue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_16", "experiment_type": "oracle", "sample_id": 1, "response": "path", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_16", "experiment_type": "oracle", "sample_id": 2, "response": "python\nvalue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_16", "experiment_type": "oracle", "sample_id": 3, "response": "python\nvalue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_16", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nvalue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_17", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfiltered_args\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_17", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfiltered_args\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_17", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfiltered_args\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_17", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfiltered_args\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_17", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfiltered_args\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_21", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'x': 1000, 'y': -2000, '**': {'ee': 99}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_21", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'x': 1000, 'y': -2000, '**': {'ee': 99}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_21", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'x': 1000, 'y': -2000, '**': {'ee': 99}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_21", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'x': 1000, 'y': -2000, '**': {'ee': 99}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_21", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'x': 1000, 'y': -2000, '**': {'ee': 99}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_22", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'*': [3000], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_22", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'x': 0, '*': [3000], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_22", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'x': 0, '*': [3000], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_22", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'*': [3000], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_22", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'x': 0, '*': [3000], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_23", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'x': 0, 'y': -1, '*': [], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_23", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'x': 0, 'y': -1, '*': [], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_23", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'x': 0, 'y': -1, '*': [], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_23", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'x': 0, '*': [-1], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_23", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'*': [-1], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_32", "experiment_type": "oracle", "sample_id": 0, "response": "# Output format\n\n```output\n{'a': 0, 'b': -1, 'kw1': None, 'kw2': -999}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_32", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'a': 0, 'b': (-1), 'kw1': None, 'kw2': (-999)}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_32", "experiment_type": "oracle", "sample_id": 2, "response": "# Output format\n\n```output\n{'a': 0, 'b': -1, 'kw1': None, 'kw2': -999}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_32", "experiment_type": "oracle", "sample_id": 3, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_32", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'a': 0, 'b': -1, 'kw1': None, 'kw2': -999}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_33", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'a': 12345678, 'kw1': 314}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_33", "experiment_type": "oracle", "sample_id": 1, "response": "# Output format\n\n```output\n{'b': 999999.999, 'kw1': 314}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_33", "experiment_type": "oracle", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_33", "experiment_type": "oracle", "sample_id": 3, "response": "# Output format\n\n```output\n{'a': 0.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_33", "experiment_type": "oracle", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_34", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'a': 0.0, 'b': 999999.999}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_34", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'a': 0.0, 'b': 999999.999}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_34", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'a': 0.0, 'b': 999999.999}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_34", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'a': 0.0, 'b': 999999.999}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_34", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'a': 0.0, 'b': 999999.999}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_18", "experiment_type": "oracle", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_18", "experiment_type": "oracle", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_18", "experiment_type": "oracle", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_18", "experiment_type": "oracle", "sample_id": 3, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_18", "experiment_type": "oracle", "sample_id": 4, "response": "n\n```\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_20", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'*': [], '**': {'foo': None}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_20", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'*': [999999, (-42)], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_20", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'*': [999999, (- 42)], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_20", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'*': [], '**': {'foo': None}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_20", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'*': [999999, -42], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_19", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'x': 2.5, 'y': -6, '**': {'ee': 77}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_19", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'x': 0, 'y': 0, '*': [], '**': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_19", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'x': 2.5, 'y': -6, '**': {'ee': 77}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_19", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'x': 2.5, 'y': -6, '**': {'ee': 77}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_19", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'x': 2.5, 'y': -6, '**': {'ee': 77}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_26", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'upper'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_26", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'UPPER'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_26", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'UPPER'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_26", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'upper'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_26", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'UPPER'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_27", "experiment_type": "oracle", "sample_id": 0, "response": "# Output format\n\n```output\n(None, -1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_27", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(None, -1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_27", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(None, -1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_27", "experiment_type": "oracle", "sample_id": 3, "response": "*None, -1*", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_27", "experiment_type": "oracle", "sample_id": 4, "response": "n", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_28", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'int'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_28", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'int'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_28", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'int'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_28", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'int'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_28", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'int'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_29", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n<lambda>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_29", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n<lambda>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_29", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n<lambda>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_29", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n<lambda>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_29", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n<lambda>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_30", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n__file__.replace('.pyc', '.py')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_30", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n__file__.replace('.pyc', '.py')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_30", "experiment_type": "oracle", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_30", "experiment_type": "oracle", "sample_id": 3, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_30", "experiment_type": "oracle", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_31", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'<lambda>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_31", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n<lambda>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_31", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'<lambda>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_31", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n<lambda>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_31", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'<lambda>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_24", "experiment_type": "oracle", "sample_id": 0, "response": "output\nf", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_24", "experiment_type": "oracle", "sample_id": 1, "response": "output\nf", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_24", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfuncname\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_24", "experiment_type": "oracle", "sample_id": 3, "response": "output\nf", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_24", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nf\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_25", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ncached_func_inner\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_25", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ncached_func_inner\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_25", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ncached_func_inner\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_25", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n\"cached_func_inner\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_25", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n\"cached_func_inner\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_38", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nhash(filter_args(b.f.func, [], ((- 99.99),)))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_38", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nhash(filter_args(b.f.func, [], ((- 99.99),)))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_38", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nhash(filter_args(b.f.func, [], ((- 99.99),)))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_38", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nhash(filter_args(b.f.func, [], ((- 99.99),)))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_38", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nhash(filter_args(b.f.func, [], ((- 99.99),)))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_37", "experiment_type": "oracle", "sample_id": 0, "response": "hash(filter_args(b.f, [], ((- 12345),)))", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_37", "experiment_type": "oracle", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_37", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n-12345\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_37", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n8454584008108183121\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_37", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3751508187032613122\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_40", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'8d9b8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f8a2f", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_40", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'3b8b5c9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_40", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'0e2b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_40", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'3b1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_40", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n9b0c3a2e0a2e0a2e0a2e0a2e0a2e0a2e0a2e0a2e\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_35", "experiment_type": "oracle", "sample_id": 0, "response": "u'3464985931271487029'", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_35", "experiment_type": "oracle", "sample_id": 1, "response": "u'1d63964f846c8483f359a9b99a772a9c'", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_35", "experiment_type": "oracle", "sample_id": 2, "response": "hash(a.flush)", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_35", "experiment_type": "oracle", "sample_id": 3, "response": "u'7559b2e43e4c8b8747164a511c33834f'", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_35", "experiment_type": "oracle", "sample_id": 4, "response": "textwrap.dedent(\"\"\"\\\n    71b3f47df22cb19431d85d92d0b230b2\"\"\")", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_36", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nhash(d2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_36", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nhash(d2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_36", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nhash(d2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_36", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nhash(d2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_36", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nhash(d2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_39", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'3e8f3c7b2d1e5b9f5b9f5b9f5b9f5b9f'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_39", "experiment_type": "oracle", "sample_id": 1, "response": "hash(b)", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_39", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3a3b3c3d3e3f404142434445464748494a4b4c4d4e4f505152535455565758595a5b5c5d5e5f606162636465666768696a6b6c6d6e6f707172737475767778797a7b7c7d7e7f808182838485868788898a8b8c8d8e8f909192939495969798999a9b9c9d9e9fa0a1a2a3a4a5a6a7a8a9aaabacadaeaf\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_39", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'13f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_39", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'a11ffad81f9682a7d901e6edc3d16c84'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_52", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_52", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_52", "experiment_type": "oracle", "sample_id": 2, "response": "output\na5e635bc0442112d939611b903393ef8", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_52", "experiment_type": "oracle", "sample_id": 3, "response": "```output\na5e635bc0442112d939611b903393ef8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_52", "experiment_type": "oracle", "sample_id": 4, "response": "output\n```output\na5e635bc0442112d939611b903393ef8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_44", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n400b563507d61427b89394e2945f271e\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_44", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'e1b635b2f306240232c5752d42f3b088'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_44", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n8665f2b28622924f4a48c4b6562e570c\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_44", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_44", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'71b3f47df22cb19431d85d92d0b230b2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_45", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'373b2a638954d3c971f2f5a49a52352c'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_45", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'1b2408a28c8e785e32e2e8a32e8a32e8'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_45", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n2e4b73582242f014a9a989c1264a1f6c\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_45", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'd6859480b6c54f2429c378c2e287a666'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_45", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ne16798b6658c340684487547d091101a\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_46", "experiment_type": "oracle", "sample_id": 0, "response": "python\n'5787572307432542848'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_46", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'a3b6e8e3f4f5f6f7f8f9fafbfcfdfeff'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_46", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'60a02627a3467284662f268484684e8f'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_46", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'e894b0a9a1b1e1e1e1e1e1e1e1e1e1e1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_46", "experiment_type": "oracle", "sample_id": 4, "response": "array('I', [685820710, 685820710])", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_47", "experiment_type": "oracle", "sample_id": 0, "response": "array([hash(dt1_roundtripped), hash(dt1)])", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_47", "experiment_type": "oracle", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_47", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nhash([dt1_roundtripped, dt1])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_47", "experiment_type": "oracle", "sample_id": 3, "response": "pickle.dumps(dt1)", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_47", "experiment_type": "oracle", "sample_id": 4, "response": "array([hash(dt1_roundtripped), hash(dt1)])", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_48", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'a9c203f01080941057c142a62876625d'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_48", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'e7c7e1b2c1b1e1c7e1b2c1b1e1c7e1b2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_48", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'8a5b9b8f9b8f9b8f9b8f9b8f9b8f9b8f9'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_48", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'b32c270907f3e7649b0c4d2a65489a5e'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_48", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'e64c83a206c9373b9c4d2b0a5b5b5b5b'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_49", "experiment_type": "oracle", "sample_id": 0, "response": "pickle.dumps(complex_dt1)", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_49", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n634b35f58b4a18830791c385269a4c55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_49", "experiment_type": "oracle", "sample_id": 2, "response": "array('I', [1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 1074790400, 107", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_49", "experiment_type": "oracle", "sample_id": 3, "response": "array('I', [16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 16777216, 1677721", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_49", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'23d6d14b1228a7275040c1a5b2e5f7a1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_50", "experiment_type": "oracle", "sample_id": 0, "response": "array('U32', [u'#s12069__c_maps.nii.gz', u'#s12158__c_maps.nii.gz', u'#s12258__c_maps.nii.gz', u'#s12277__c_maps.nii.gz', u'#s12300__c_maps.nii.gz', u'#s12401__c_maps.nii.gz', u'#s12430__c_maps.nii.gz', u'#s13817__c_maps.nii.gz', u'#s13903__c_maps.nii.gz', u'#s13916__c_maps.nii.gz', u'#s13981__c_maps.nii.gz', u'#s13982__c_maps.nii.gz', u'#s13983__c_maps.nii.gz'])", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_50", "experiment_type": "oracle", "sample_id": 1, "response": "array('I', [1566516656, 1028205229])", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_50", "experiment_type": "oracle", "sample_id": 2, "response": "array('I', [66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 66053, 660", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_50", "experiment_type": "oracle", "sample_id": 3, "response": "array('HASHED', dtype('int32'), (2,), (12,))", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_50", "experiment_type": "oracle", "sample_id": 4, "response": "array('HASHED', dtype('<i4'), shape=(2,), strides=(4,))", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_51", "experiment_type": "oracle", "sample_id": 0, "response": "object()", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_51", "experiment_type": "oracle", "sample_id": 1, "response": "dtype([('id', '<i4', (2,)), ('scores', '<f4', (10,))])", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_51", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nhash([complex_dt1, complex_dt1_roundtripped])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_51", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nhash([complex_dt1_roundtripped, complex_dt1])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_51", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nhash([complex_dt1_roundtripped, complex_dt1])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_42", "experiment_type": "oracle", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_42", "experiment_type": "oracle", "sample_id": 1, "response": "n4a4e4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4a4", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_42", "experiment_type": "oracle", "sample_id": 2, "response": "n1b5f3a8b7e4b2c7d9f1a2b3c4d5e6f7", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_42", "experiment_type": "oracle", "sample_id": 3, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_42", "experiment_type": "oracle", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_41", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3b6e2568b4f0ad4e7743b5b9d6554f3a\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_41", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ne3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_41", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'b5b6e8c9e4b2a7d1e4b2a7d1e4b2a7d1e4b2a7d1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_41", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'5b9e4b9e4b9e4b9e4b9e4b9e4b9e4b9e4b9e4b9e'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_41", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_43", "experiment_type": "oracle", "sample_id": 0, "response": "n'92c8718a6d6e4b1d3d2b2f22dfb371'", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_43", "experiment_type": "oracle", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_43", "experiment_type": "oracle", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_43", "experiment_type": "oracle", "sample_id": 3, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_43", "experiment_type": "oracle", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_198", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_198", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_198", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_198", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_198", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_199", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_199", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_199", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_199", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_199", "experiment_type": "oracle", "sample_id": 4, "response": "```output\np._backend._DEFAULT_SMOOTHED_BATCH_DURATION\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_200", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_200", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_200", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_200", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_200", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_201", "experiment_type": "oracle", "sample_id": 0, "response": "```output\np._backend._DEFAULT_SMOOTHED_BATCH_DURATION\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_201", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_201", "experiment_type": "oracle", "sample_id": 2, "response": "```output\np._backend._DEFAULT_SMOOTHED_BATCH_DURATION\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_201", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_201", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_202", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_202", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_202", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_202", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_202", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_203", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_203", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_203", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_203", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_203", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_204", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'Using ThreadingBackend as joblib backend instead of MyCustomProcessingBackend as the latter does not provide shared memory semantics.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_204", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'Using ThreadingBackend as joblib backend instead of MyCustomProcessingBackend as the latter does not provide shared memory semantics.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_204", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'Using ThreadingBackend as joblib backend instead of MyCustomProcessingBackend as the latter does not provide shared memory semantics.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_204", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'Using ThreadingBackend as joblib backend instead of MyCustomProcessingBackend as the latter does not provide shared memory semantics.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_204", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'Using ThreadingBackend as joblib backend instead of MyCustomProcessingBackend as the latter does not provide shared memory semantics.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_177", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'Produced 0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_177", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'Produced 0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_177", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'Produced 0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_177", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'Produced 0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_177", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'Produced 0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_178", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_178", "experiment_type": "oracle", "sample_id": 1, "response": "# Output format\n\n```output\nanswer_of_placeholder\n```\n\n### Your Correct Output:```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_178", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_178", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_178", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_176", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_176", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_176", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_176", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_176", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_170", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nexpected_n_jobs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_170", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nbackend_n_jobs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_170", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_170", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_170", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nexpected_n_jobs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_174", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 0, 2, 4, 6, 8, 10, 12, 14, 16, 18]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_174", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_174", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_174", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[f(x, y=2) for x in range(20)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_174", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_175", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[parallel((delayed(f)(x, y=2) for x in range(20))]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_175", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nparallel((delayed(f)(x, y=2) for x in range(20)))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_175", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nparallel((delayed(f)(x, y=2) for x in range(20)))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_175", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nparallel((delayed(f)(x, y=2) for x in range(20)))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_175", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_205", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'test value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_205", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'test value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_205", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'test value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_205", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'test value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_205", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'test value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_206", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'test value'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_206", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'test value'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_206", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'test value'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_206", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'test value'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_206", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'test value'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_207", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'new value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_207", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'new value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_207", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'new value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_207", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'new value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_207", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'new value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_208", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'new value'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_208", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'new value'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_208", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'new value'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_208", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'new value'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_208", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'new value'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_172", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[f(x, y=(- 2), z=7) for x in lst]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_172", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[f(x, y=-2, z=7) for x in lst]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_172", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[(-2, 7, x) for x in range(100)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_172", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[pmap(lambda x, y=-2, z=7: x + y + z, lst)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_172", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[f(x, y=(-2), z=7) for x in lst]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_173", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n20\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_173", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n20\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_173", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n20\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_173", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n20\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_173", "experiment_type": "oracle", "sample_id": 4, "response": "textwrap.dedent(\"\"\"\n    20\n\"\"\")", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_196", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_196", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_196", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_196", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_196", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_171", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_171", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_171", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_171", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_171", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_211", "experiment_type": "oracle", "sample_id": 0, "response": "output\n```output\nresult\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_211", "experiment_type": "oracle", "sample_id": 1, "response": "output\n0", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_211", "experiment_type": "oracle", "sample_id": 2, "response": "output\nresult", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_211", "experiment_type": "oracle", "sample_id": 3, "response": "output\n```output\nresult\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "joblib_211", "experiment_type": "oracle", "sample_id": 4, "response": "output\n0", "finish_reason": "stop", "usage": null}

@@ -1,0 +1,25 @@
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{2*x: 1}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'x': 2}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{2*x: 1}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{2*x: 1}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{2*x: 1}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{x: 1, y: 2, z: 3}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'x': 1, 'y': 2, 'z': 3}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{x: 1, y: 2, z: 3}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 3, "response": "str(lpDot([x, y, z], a))", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 4, "response": "str(lpDot([x, y, z], a))", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{x: 2, y: 4, z: 6}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{x: 2, y: 4, z: 6}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{x: 2, y: 4, z: 6}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{x: 2, y: 4, z: 6}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{x: 2, y: 4, z: 6}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 0, "response": "output\n{x: 1, y: 3, z: 3}", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 1, "response": "[\"x\": 3, \"y\": 4, \"z\": 3]", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 2, "response": "output\n{x: 1, y: 3, z: 3}", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 3, "response": "output\n```python\n{x: 3, y: 4, z: 3}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 4, "response": "solution_of_placeholder\n```output\n{x: 3, y: 4, z: 3}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{1: 1, 2: 3, 3: 5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{1: 1, 2: 3, 3: 5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{1: 1, 2: 3, 3: 5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{x: 1, y: 3, z: 3}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{1: 1, 2: 3, 3: 5}\n```", "finish_reason": "stop", "usage": null}

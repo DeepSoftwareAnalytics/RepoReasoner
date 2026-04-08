@@ -1,0 +1,65 @@
+{"task_id": "climlab_0", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n30\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_0", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n30\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_0", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n30\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_0", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n30\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_0", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n30\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_4", "experiment_type": "oracle", "sample_id": 0, "response": "output\n(90, 4, 1)", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_4", "experiment_type": "oracle", "sample_id": 1, "response": "output\n(90, 4, 1)", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_4", "experiment_type": "oracle", "sample_id": 2, "response": "output\n(90, 4, 1)", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_4", "experiment_type": "oracle", "sample_id": 3, "response": "output\n(90, 4, 1)", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_4", "experiment_type": "oracle", "sample_id": 4, "response": "output\n(90, 4, 1)", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_5", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(90, 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_5", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(90, 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_5", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(90, 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_5", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(90, 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_5", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(90, 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_6", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n299.30467670961832\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_6", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n299.30467670961832\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_6", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n299.30467670961832\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_6", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n299.30467670961832\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_6", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n299.30467670961832\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_7", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n300.34399999999999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_7", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n300.34399999999999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_7", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n300.34399999999999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_7", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n300.34399999999999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_7", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n300.34399999999999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_2", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_2", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_2", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_2", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_2", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_3", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(90, 180, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_3", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(90, 180, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_3", "experiment_type": "oracle", "sample_id": 2, "response": "output\n(90, 180, 1)", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_3", "experiment_type": "oracle", "sample_id": 3, "response": "output\n(90, 180, 1)", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_3", "experiment_type": "oracle", "sample_id": 4, "response": "output\n(90, 180, 1)", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_8", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n144\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_8", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n72\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_8", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n72\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_8", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n180\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_8", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_14", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n90\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_14", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n90\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_14", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n90\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_14", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n90\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_14", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n90\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_20", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nrad.subprocess['SW'].coszen\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_20", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nrad.subprocess['SW'].coszen\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_20", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nrad.subprocess['SW'].coszen\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_20", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nrad.subprocess['SW'].coszen\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_20", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nrad.subprocess['SW'].coszen\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_21", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nrad.subprocess['SW'].coszen\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_21", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nrad.subprocess['SW'].coszen\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_21", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nrad.subprocess['SW'].coszen\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_21", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nrad.subprocess['SW'].coszen\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_21", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nrad.subprocess['SW'].coszen\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_18", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nrad.subprocess['SW'].insolation\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_18", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nrad.subprocess['SW'].insolation\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_18", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nrad.subprocess['SW'].insolation\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_18", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nrad.subprocess['SW'].insolation\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_18", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nrad.subprocess['SW'].insolation\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_19", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nrad.subprocess['SW'].insolation\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_19", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nrad.subprocess['SW'].insolation\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_19", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nrad.subprocess['SW'].insolation\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_19", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nrad.subprocess['SW'].insolation\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "climlab_19", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nrad.subprocess['SW'].insolation\n```", "finish_reason": "stop", "usage": null}

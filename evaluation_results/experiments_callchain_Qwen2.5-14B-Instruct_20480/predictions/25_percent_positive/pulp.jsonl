@@ -1,0 +1,1 @@
+{"task_id": "pulp_0", "test_file": "pulp/tests/test_lpdot.py", "sample_id": 0, "ratio": 0.25, "response": "call chain and output them in the required JSON format. Only include the files that are directly or indirectly referenced by the test file during its execution. Do not include the test file itself in the output.", "finish_reason": "stop"}

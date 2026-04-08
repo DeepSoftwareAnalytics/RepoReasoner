@@ -1,0 +1,20 @@
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 0, "response": "output\npy_factorial(i)", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 1, "response": "output\npy_factorial(i)", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 2, "response": "output\npy_factorial(i)", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 3, "response": "output\npy_factorial(i)", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 4, "response": "output\npy_factorial(i)", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['Beattie Whalley', 'Fourar Bories', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['Beattie Whalley', 'Fourar Bories', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['Beattie Whalley', 'Fourar Bories', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['Beattie Whalley', 'Fourar Bories', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['Beattie Whalley', 'Cicchitti', 'Duckler', 'Fourar Bories', 'Lin Kwok', 'McAdams']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 0, "response": "output\n```output\nlist(sorted(all_methods_expect))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 1, "response": "output\n```output\nlist(sorted(all_methods_expect))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 2, "response": "output\n```output\nlist(sorted(all_methods_expect))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 3, "response": "output\n```output\nlist(sorted(all_methods_expect))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 4, "response": "output\n```output\nlist(sorted(all_methods_expect))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n23\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n15\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n15\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n16\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n14\n```", "finish_reason": "stop", "usage": null}

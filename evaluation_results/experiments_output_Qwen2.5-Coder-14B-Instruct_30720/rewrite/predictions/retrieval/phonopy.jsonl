@@ -1,0 +1,25 @@
+{"task_id": "phonopy_1", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n-1000000000000.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_1", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n-1000000000000.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_1", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n-1000000000000.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_1", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n-1000000000000.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_1", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n-1000000000000.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_59", "experiment_type": "retrieval", "sample_id": 0, "response": "frac", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_59", "experiment_type": "retrieval", "sample_id": 1, "response": "set(['Na', 'Cl', 'Cl1'])", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_59", "experiment_type": "retrieval", "sample_id": 2, "response": "set('Na', 'Cl')", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_59", "experiment_type": "retrieval", "sample_id": 3, "response": "symnums = pp_filenames.keys()\naugmented_keys = {'Na', 'Cl', 'Cl1'}\nassert (set(symnums) == {'Na', 'Cl', 'Cl1'})", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_59", "experiment_type": "retrieval", "sample_id": 4, "response": "val", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_60", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['Na', 'Na', 'Na', 'Na', 'Cl', 'Cl', 'Cl1', 'Cl1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_60", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['Na', 'Na', 'Na', 'Na', 'Cl', 'Cl', 'Cl1', 'Cl1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_60", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['Na', 'Na', 'Na', 'Na', 'Cl', 'Cl', 'Cl1', 'Cl1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_60", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['Na', 'Na', 'Na', 'Na', 'Cl', 'Cl', 'Cl1', 'Cl1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_60", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['Na', 'Na', 'Na', 'Na', 'Cl', 'Cl', 'Cl1', 'Cl1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_61", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['Li', 'Li', 'F', 'Xe', 'Na', 'Clu', 'Br', 'Sr', 'P', 'H']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_61", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['Li', 'Li', 'F', 'Xe', 'Na', 'Clu', 'Br', 'Sr', 'P', 'H']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_61", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['Li', 'Li', 'F', 'Xe', 'Na', 'Clu', 'Br', 'Sr', 'P', 'H']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_61", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['Li', 'Li', 'F', 'Xe', 'Na', 'Clu', 'Br', 'Sr', 'P', 'H']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_61", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['Li', 'Li', 'F', 'Xe', 'Na', 'Clu', 'Br', 'Sr', 'P', 'H']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_70", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'my_comment'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_70", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'my_comment'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_70", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nmy_comment\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_70", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'my_comment'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_70", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'my_comment'\n```", "finish_reason": "stop", "usage": null}

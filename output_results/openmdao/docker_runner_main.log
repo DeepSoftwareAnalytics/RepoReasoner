@@ -1,0 +1,53 @@
+08/11/2025 11:07:17 - INFO - __main__ - --- Processing repository: openmdao ---
+08/11/2025 11:07:17 - INFO - __main__ - No existing container found. Creating new container 'agent-run-openmdao'...
+08/11/2025 11:07:17 - INFO - __main__ - Copying 'python_repos\openmdao' to new container 'agent-run-openmdao:/app/repo_to_process'...
+08/11/2025 11:07:21 - INFO - __main__ - Executing agent inside the container...
+08/11/2025 11:07:21 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:21 - INFO - __main__ - --- Starting Agent inside Container ---
+08/11/2025 11:07:21 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:21 - INFO - __main__ - Repository Name: openmdao
+08/11/2025 11:07:21 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:21 - INFO - __main__ - Repository: /app/repo_to_process
+08/11/2025 11:07:21 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:21 - INFO - __main__ - Language: Python
+08/11/2025 11:07:21 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:21 - INFO - __main__ - Model: gpt-4.1
+08/11/2025 11:07:21 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:21 - INFO - __main__ - Max Iterations: 15
+08/11/2025 11:07:21 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:21 - INFO - __main__ - Command Timeouts (Default/Pytest): 600s / 3600s
+08/11/2025 11:07:24 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:24 - INFO - __main__ - === Starting Iteration 1/15 [Phase: SETUP] ===
+08/11/2025 11:07:24 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:24 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 11:07:24 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:24 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 11:07:27 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:27 - INFO - __main__ - Executing 3 command(s)...
+08/11/2025 11:07:27 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:27 - INFO - __main__ - Executing command in '/app/repo_to_process': cat pyproject.toml
+08/11/2025 11:07:27 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:27 - INFO - __main__ - Executing command in '/app/repo_to_process': pip install .
+08/11/2025 11:07:47 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:47 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 11:07:47 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:47 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 11:07:52 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:52 - WARNING - __main__ - Phase 1 (SETUP) not yet complete. Pytest reported collection errors or did not run successfully.
+08/11/2025 11:07:52 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:52 - INFO - __main__ - === Starting Iteration 2/15 [Phase: SETUP] ===
+08/11/2025 11:07:52 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:52 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 11:07:52 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:52 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 11:07:58 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:58 - INFO - __main__ - Executing 2 command(s)...
+08/11/2025 11:07:58 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:58 - INFO - __main__ - Executing command in '/app/repo_to_process': pip install aiounittest playwright
+08/11/2025 11:08:09 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:08:09 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 11:08:09 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:08:09 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 11:16:23 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:16:23 - INFO - __main__ - ✅ Phase 1 (SETUP) complete: `pytest` is now executable without collection errors.
+08/11/2025 11:16:23 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:16:23 - INFO - __main__ - === Starting Iteration 3/15 [Phase: TRACING] ===
+08/11/2025 11:16:23 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:16:23 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 11:16:23 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:16:23 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 11:16:29 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:16:29 - INFO - __main__ - Found file block: conftest.py
+08/11/2025 11:16:29 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:16:29 - INFO - __main__ - Model provided a shorthand for conftest.py. Expanding to full content.
+08/11/2025 11:16:29 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:16:29 - INFO - __main__ - Created file: /app/repo_to_process/conftest.py
+08/11/2025 11:16:29 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:16:29 - INFO - __main__ - Executing 1 command(s)...
+08/11/2025 11:16:29 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:16:29 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 11:16:29 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:16:29 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 11:37:06 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:37:06 - INFO - __main__ - === Starting Iteration 4/15 [Phase: TRACING] ===
+08/11/2025 11:37:06 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:37:06 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 11:37:06 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:37:06 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 11:37:10 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:37:10 - INFO - __main__ - 🎉 Model reported final success. Terminating.
+08/11/2025 11:37:10 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:37:10 - INFO - __main__ - 🏁 Pipeline finished for repo_to_process with status: success
+08/11/2025 11:37:10 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:37:10 - INFO - __main__ - ✅ Agent completed successfully.
+08/11/2025 11:37:10 - INFO - __main__ - Agent finished with exit code: 0
+08/11/2025 11:37:10 - INFO - __main__ - Copying all generated files from container 'agent-run-openmdao:/app/new_test_detection_logs/openmdao'...
+08/11/2025 11:37:10 - INFO - __main__ - Successfully copied agent-generated files to 'output_results\openmdao'.
+08/11/2025 11:37:10 - INFO - __main__ - Copying pytest reports from container repo root 'agent-run-openmdao:/app/repo_to_process'...
+08/11/2025 11:37:11 - INFO - __main__ - Successfully copied 'report_files.jsonl' to 'output_results\openmdao'.
+08/11/2025 11:37:11 - INFO - __main__ - Successfully copied 'report_functions.jsonl' to 'output_results\openmdao'.
+08/11/2025 11:37:11 - INFO - __main__ - Agent completed successfully and all required files were generated. Container will be preserved for reuse.
+08/11/2025 11:37:11 - INFO - __main__ - Stopping container 'agent-run-openmdao' to conserve resources. It will be reused later.
+08/11/2025 11:37:21 - INFO - __main__ - --- Finished processing repository: openmdao ---
+

@@ -1,0 +1,25 @@
+{"task_id": "phonopy_1", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_1", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_1", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_1", "experiment_type": "oracle", "sample_id": 3, "response": "npy.zeros(1)", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_1", "experiment_type": "oracle", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_59", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'Na', 'Cl', 'Cl1'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_59", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'Na', 'Cl', 'Cl1'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_59", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'Na', 'Cl', 'Cl1'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_59", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'Na', 'Cl', 'Cl1'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_59", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'Na', 'Cl', 'Cl1'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_60", "experiment_type": "oracle", "sample_id": 0, "response": "python\n['Na', 'Na', 'Na', 'Na', 'Cl', 'Cl', 'Cl1', 'Cl1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_60", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n['Na', 'Na', 'Na', 'Na', 'Cl', 'Cl', 'Cl1', 'Cl1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_60", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n['Na', 'Na', 'Na', 'Na', 'Cl', 'Cl', 'Cl1', 'Cl1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_60", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n['Na', 'Na', 'Na', 'Na', 'Cl', 'Cl', 'Cl1', 'Cl1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_60", "experiment_type": "oracle", "sample_id": 4, "response": "python\n['Na', 'Na', 'Na', 'Na', 'Cl', 'Cl', 'Cl1', 'Cl1']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_61", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n['Na', 'Na', 'Na2', 'Na3', 'Cl', 'Clu', 'Cl', 'Cld']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_61", "experiment_type": "oracle", "sample_id": 1, "response": "array(['Na', 'Na', 'Na2', 'Na3', 'Cl', 'Clu', 'Cl', 'Cld'], dtype='<U3')", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_61", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n['Na', 'Na', 'Na2', 'Na3', 'Cl', 'Clu', 'Cl', 'Cld']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_61", "experiment_type": "oracle", "sample_id": 3, "response": "0", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_61", "experiment_type": "oracle", "sample_id": 4, "response": "text\n```output\n['Na', 'Na', 'Na2', 'Na3', 'Cl', 'Clu', 'Cl', 'Cld']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_70", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nvasp4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_70", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nvasp4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_70", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nNaCl-vasp.yaml\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_70", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'NaCl'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "phonopy_70", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nNaCl\n```", "finish_reason": "stop", "usage": null}

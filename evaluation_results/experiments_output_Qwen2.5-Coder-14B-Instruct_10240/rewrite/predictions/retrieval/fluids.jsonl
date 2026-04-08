@@ -1,0 +1,20 @@
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2432902008176640000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2432902008176640000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2432902008176640000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2432902008176640000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_107", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2432902008176640000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['Beattie Whalley', 'Cicchitti', 'Fourar Bories', 'Lin Kwok', 'McAdams']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['Beattie Whalley', 'Fourar Bories', 'McAdams']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['Beattie Whalley', 'Fourar Bories', 'McAdams', 'Cicchitti', 'Lin Kwok']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 3, "response": "0.0", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_136", "experiment_type": "retrieval", "sample_id": 4, "response": "0.99", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['Beattie Whalley', 'Cicchitti', 'Duckler', 'Fourar Bories', 'Lin Kwok', 'McAdams']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['Beattie Whalley', 'Cicchitti', 'Duckler', 'Fourar Bories', 'Lin Kwok', 'McAdams']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['Beattie Whalley', 'Cicchitti', 'Duckler', 'Fourar Bories', 'Lin Kwok', 'McAdams']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 3, "response": "display", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_137", "experiment_type": "retrieval", "sample_id": 4, "response": "textwrap.dedent(\"\"\"\n['Beattie Whalley', 'Fourar Bories', 'Duckler', 'McAdams', 'Cicchitti', 'Lin Kwok']\n\"\"\").strip().splitlines()", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "fluids_135", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}

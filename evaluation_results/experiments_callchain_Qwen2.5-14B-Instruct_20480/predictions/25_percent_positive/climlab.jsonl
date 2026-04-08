@@ -1,0 +1,5 @@
+{"task_id": "climlab_0", "test_file": "climlab/tests/test_bandrc.py", "sample_id": 0, "ratio": 0.25, "response": "chain. Your output should match the required format.", "finish_reason": "stop"}
+{"task_id": "climlab_4", "test_file": "climlab/tests/test_domain2D.py", "sample_id": 0, "ratio": 0.25, "response": "'s call chain. Please adhere to the provided rules.", "finish_reason": "stop"}
+{"task_id": "climlab_8", "test_file": "climlab/tests/test_ebm.py", "sample_id": 0, "ratio": 0.25, "response": "chain and output them in the required format. Remember, your output must strictly adhere to the rules provided and should not include any explanations or reasoning.", "finish_reason": "stop"}
+{"task_id": "climlab_14", "test_file": "climlab/tests/test_grey_radiation.py", "sample_id": 0, "ratio": 0.25, "response": "call chain. Your response should follow the specified format.", "finish_reason": "stop"}
+{"task_id": "climlab_20", "test_file": "climlab/tests/test_rrtm.py", "sample_id": 0, "ratio": 0.25, "response": "call chain, excluding the test file itself. Your answer should follow the specified output format.", "finish_reason": "stop"}

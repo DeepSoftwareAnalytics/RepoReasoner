@@ -1,0 +1,805 @@
+{"task_id": "plotly_0", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_0", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_0", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_0", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_0", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_2", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_2", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_2", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_2", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_2", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_1", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_1", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_1", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_1", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_1", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_3", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_3", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_3", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_3", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_3", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_354", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nnp.array(val, dtype=np.float64)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_354", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_354", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_354", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nnp.float64(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_354", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n90.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_356", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_356", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_356", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_356", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_356", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_358", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nnp.array([expected])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_358", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nnp.array([-180])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_358", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nnp.array([-180])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_358", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nnp.array([-180])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_358", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[expected]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_355", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_355", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_355", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_355", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_355", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_76", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_76", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_76", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_76", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_76", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_8", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[<plotly.graph_objs._deprecations.Data object at ...>]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_8", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[<plotly.graph_objs._deprecations.Data object at 0x...>]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_8", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[<plotly.graph_objs._deprecations.Data object at ...>]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_8", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[<plotly.graph_objs._deprecations.Data object at 0x...>]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_8", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[<plotly.graph_objs._deprecations.Data object at 0x...>]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_9", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[{{}}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_9", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[{}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_9", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[{}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_9", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[Annotations([{}])]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_9", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[{}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_6", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[{}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_6", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[{'': None}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_6", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[{'': None}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_6", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[{}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_6", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[{'': None}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_7", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[{'font': 12345}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_7", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[{'font': 12345}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_7", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[{'font': 12345}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_7", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[{'font': 12345}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_7", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[{'font': 12345}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_4", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n''\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_4", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nAnnotations('')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_4", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nAnnotations('')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_4", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n''\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_4", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n''\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_359", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_359", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_359", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_359", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_359", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_360", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_360", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_360", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_360", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_360", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_361", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_361", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_361", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_361", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_361", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_370", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'scatter'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_370", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'scatter'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_370", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'scatter'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_370", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'scatter'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_370", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'scatter'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_372", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[{'type': 'scatter', 'mode': 'markers', 'marker': {'color': 255}}, {'type': 'box'}, {'type': 'scatter', 'mode': 'lines+markers', 'x': []}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_372", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[{'type': 'scatter', 'mode': 'markers', 'marker': {'color': 255}}, {'type': 'box'}, {'type': 'scatter', 'mode': 'lines+markers', 'x': []}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_372", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[{'type': 'scatter', 'mode': 'markers', 'marker': {'color': 255}}, {'type': 'box'}, {'type': 'scatter', 'mode': 'lines+markers', 'x': []}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_372", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[{'mode': 'markers', 'type': 'scatter'}, {'type': 'box'}, {'mode': 'lines+markers', 'type': 'scatter', 'x': []}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_372", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[{'type': 'scatter', 'mode': 'markers', 'marker': {'color': 255}}, {'type': 'box'}, {'type': 'scatter', 'mode': 'lines+markers', 'x': []}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_381", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_381", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_381", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_381", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_381", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_383", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'pink'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_383", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'pink'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_383", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'pink'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_383", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'pink'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_383", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'pink'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_384", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n('green', 'rgba(0,0,0,0)')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_384", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_384", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ntuple(tuple('green'), tuple('rgba(0,0,0,0)'))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_384", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_384", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ntuple(tuple('green',), tuple('rgba(0,0,0,0)',))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_382", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_382", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_382", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_382", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_382", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_373", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_373", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_373", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_373", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_373", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_379", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[[0.0, 'cyan'], [0.2, 'rgb(0,255,255)'], [0.8, '#123ABC'], [0, 'navy'], [0.5, 'gold'], [1.0, 'rgba(0,255,255,0.5)], [0.0, 'black'], [0.0, 'black'], [1.0, 'white']]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_379", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[[0.0, 'cyan'], [0.2, 'rgb(0,255,255)'], [0.8, '#123ABC'], [0, 'navy'], [0.5, 'gold'], [1.0, 'rgba(0,255,255,0.5)'], [0.0, 'black'], [1.0, 'white']]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_379", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[[0.0, 'cyan'], [0.2, 'rgb(0,255,255)'], [0.8, '#123ABC']]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_379", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[[0.0, 'cyan'], [0.2, 'rgb(0,255,255)'], [0.8, '#123abc']]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_379", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[[0.0, 'cyan'], [0.2, 'rgb(0,255,255)'], [0.8, '#123ABC'], [0, 'navy'], [0.5, 'gold'], [1.0, 'rgba(0,255,255,0.5)'], [0.0, 'black'], [0.0, 'black'], [1.0, 'white']]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_380", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nexpected_present\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_380", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nexpected_present\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_380", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nexpected_present\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_380", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n((0, 'RED'), (1.0, 'rgb(0, 0, 255)'), (0.5, '#FFFFFF'), (0.8, 'Blue'), (0.25, 'Teal'), (0.5, 'olive'), (0.75, 'RGBA(0,255,0,0.25)'), (1.0, 'green'), (0, 'black'), (1, 'white'))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_380", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nexpected_present\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_374", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_374", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_374", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_374", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_374", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_375", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'#FFFFFF'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_375", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_375", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_375", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_375", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_376", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_376", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_376", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_376", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_376", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_377", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ncustom_seq\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_377", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_377", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ncustom_seq\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_377", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ncustom_seq\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_377", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ncustom_seq\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_378", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_378", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(('0.0', '#0000ff'), ('0.5', '#ffff00'), ('1.0', '#ff0000'))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_378", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(('0.0', 'blue'), ('1.0', 'red'))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_378", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_378", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nexpected_tuples\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_392", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'#FF00FF'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_392", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'#FF00FF'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_392", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'#FF00FF'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_392", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'#FF00FF'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_392", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'#FF00FF'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_393", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n99.9\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_393", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n99.9\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_393", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n99.9\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_393", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n99.9\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_393", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n99.9\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_396", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_396", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_396", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_396", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_396", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_397", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'opacity': 1, 'size': 1000000000.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_397", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'opacity': 1, 'size': 1000000000.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_397", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'opacity': 1, 'size': 1000000000.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_397", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'opacity': 1, 'size': 1000000000.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_397", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'opacity': 1, 'size': 1000000000.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_385", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n-999999999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_385", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_385", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'-999999999'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_385", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'-999999999'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_385", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'-inf'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_386", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'1000000000'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_386", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n1000000000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_386", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n1000000000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_386", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n1000000000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_386", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n1000000000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_387", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n500.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_387", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'500.5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_387", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n500.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_387", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n500.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_387", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n500.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_388", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'-123456789'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_388", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'-123456789'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_388", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'-123456789'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_388", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n-123456789\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_388", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'-123456789'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_389", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n1.1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_389", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'1.1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_389", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n1.1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_389", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'1.1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_389", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'1.1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_390", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n10000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_390", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n10000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_390", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n10000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_390", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n10000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_390", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n10000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_391", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[{'opacity': '', 'sizex': 0, 'sizey': 22, 'x': -999999}, {'bogus': {'a': 0}, 'sizey': 0, 'x': 0}, {'opacity': None, 'sizex': 'invalidsizex', 'x': 1.5}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_391", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[{'sizex': 0, 'x': -999999, 'sizey': 22}, {'sizey': 0, 'x': 0}, {'x': 1.5}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_391", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[{'opacity': 1, 'sizex': 0, 'sizey': 22, 'x': -999999}, {'opacity': 1, 'sizey': 0, 'x': 0}, {'opacity': 1, 'sizex': 0, 'sizey': 1, 'x': 1.5}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_391", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[{'sizex': 0, 'x': -999999, 'sizey': 22}, {'sizey': 0, 'x': 0}, {'x': 1.5}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_391", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[{'opacity': 1, 'sizex': 0, 'sizey': 22, 'x': -999999}, {'opacity': 1, 'sizey': 0, 'x': 0}, {'opacity': 1, 'sizex': 0, 'sizey': 0, 'x': 1.5}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_399", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n('0px', '0px', '0px')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_399", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'0px 0px 0px'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_399", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'0px 0px 0px'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_399", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'0px 0px 0px'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_399", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n('0px', '0px', '0px')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_398", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_398", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_398", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_398", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_398", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_12", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[{'type': 'scatter', 'x': [], 'y': [], 'mode': ''}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_12", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[{'type': 'scatter', 'x': [], 'y': [], 'mode': ''}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_12", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[{'type': 'scatter', 'x': [], 'y': [], 'mode': ''}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_12", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[{'type': 'scatter', 'x': [], 'y': [], 'mode': ''}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_12", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[{'type': 'scatter', 'x': [], 'y': [], 'mode': ''}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_16", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[{'foo': 'bar'}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_16", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[{'foo': 'bar'}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_16", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[{'foo': 'bar'}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_16", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[[{'foo': 'bar'}]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_16", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[{'foo': 'bar'}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_17", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[Annotations([{}])]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_17", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[{'annotationdefaults': {'font': {'size': 0, 'color': ''}}}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_17", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[{'annotationdefaults': {'font': {'size': 0, 'color': ''}}}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_17", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[<plotly.graph_objs._deprecations.Annotations object at 0x...>]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_17", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[<plotly.graph_objs._deprecations.Annotations object at ...>]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_13", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[{'': None}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_13", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[{'': None}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_13", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[{'': None}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_13", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[{'': None}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_13", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[{'': None}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_14", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[{'marker': 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_14", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[{'marker': 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_14", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[{'marker': ('A' * 500)}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_14", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[{'marker': 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_14", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[{'marker': 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_15", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[{'type': -123.456}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_15", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[{'type': -123.456}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_15", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nTypeError(\"Data.__init__() got an unexpected keyword argument 'type'\")\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_15", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[{'type': -123.456}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_15", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[{'type': -123.456}]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_10", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n''\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_10", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nFalse\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_10", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nFalse\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_10", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_10", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_400", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_400", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_400", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_400", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_400", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_47", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_47", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_47", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_47", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_47", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_48", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_48", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_48", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_48", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_48", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_49", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_49", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_49", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_49", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_49", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_50", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n\"480px by 480px\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_50", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'{\"rows\": 2, \"columns\": 4}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_50", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'{\"_subplot_ids\": {\"xaxis1\": {\"domain\": [0, 1], \"anchor\": \"y\", \"type\": \"linear\"}, \"xaxis2\": {\"domain\": [0, 1], \"anchor\": \"y2\", \"type\": \"linear\"}, \"xaxis3\": {\"domain\": [0, 1], \"anchor\": \"y3\", \"type\": \"linear\"}, \"xaxis4\": {\"domain\": [0, 1], \"anchor\": \"y4\", \"type\": \"linear\"}, \"yaxis1\": {\"domain\": [0.8, 1], \"anchor\": \"x\", \"type\": \"linear\"}, \"yaxis2\": {\"domain\": [0.6, 0.8], \"anchor\": \"x2\", \"type\": \"linear\"}, \"yaxis3\": {\"domain\": [0.4, 0.6], \"anchor\": \"x3\", \"type\": \"linear\"}, \"yaxis4\": {\"domain\": [0.2, 0.4], \"anchor\": \"x4\", \"type\": \"linear\"}}}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_50", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'fig_subplots._grid_str'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_50", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'fig'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_51", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'data': [{'type': 'bar', 'y': [-1000, 0, 1000]}], 'layout': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_51", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'data': [{'type': 'bar', 'y': [-1000, 0, 1000]}], 'layout': {}, 'frames': []}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_51", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'data': [{'type': 'bar', 'y': [-1000, 0, 1000]}], 'layout': {}, 'frames': []}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_51", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'data': [{'type': 'bar', 'y': [-1000, 0, 1000]}], 'layout': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_51", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'data': [{'type': 'bar', 'y': [-1000, 0, 1000]}], 'layout': {}, 'frames': []}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_52", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_52", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_52", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_52", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_52", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfig1.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_53", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_53", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_53", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_53", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_53", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfig_subplots.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_54", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'data': [{'type': 'bar', 'y': [float('inf'), float('-inf'), 0.0]}], 'layout': {'xaxis4': {}, 'yaxis4': {}}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_54", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'data': [{'type': 'bar', 'y': [inf, -inf, 0.0]}], 'layout': {'grid': {'rows': 4, 'columns': 4}}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_54", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'data': [{'type': 'bar', 'y': [float('inf'), float('-inf'), 0.0]}], 'layout': {'xaxis': {'domain': [0.0, 0.3333333333333333]}, 'yaxis': {'domain': [0.6666666666666666, 1.0]}, 'xaxis2': {'domain': [0.3333333333333333, 0.6666666666666666], 'anchor': 'y2'}, 'yaxis2': {'domain': [0.0, 0.3333333333333333], 'anchor': 'x2'}, 'xaxis3': {'domain': [0.6666666666666666, 1.0], 'anchor': 'y3'}, 'yaxis3': {'domain': [0.3333333333333333, 0.6666666666666666], 'anchor': 'x3'}, 'xaxis4': {'domain': [0.0, 0.3333333333333333], 'anchor': 'y4'}, 'yaxis4': {'domain': [0.0, 0.3333333333333333], 'anchor': 'x4'}}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_54", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'data': [{'type': 'bar', 'y': [inf, -inf, 0.0]}, {'type': 'bar', 'y': [inf, -inf, 0.0]}], 'layout': {'xaxis': {}, 'yaxis': {}, 'grid': {'rows': 4, 'columns': 4}}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_54", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'data': [{'type': 'bar', 'y': [inf, -inf, 0.0]}, {'type': 'bar', 'y': [inf, -inf, 0.0]}], 'layout': {'xaxis': {'anchor': 'x1'}, 'yaxis': {'anchor': 'y1'}, 'xaxis2': {'anchor': 'x2'}, 'yaxis2': {'anchor': 'y2'}, 'xaxis3': {'anchor': 'x3'}, 'yaxis3': {'anchor': 'y3'}, 'xaxis4': {'anchor': 'x4'}, 'yaxis4': {'anchor': 'y4'}, 'grid': {'rows': 2, 'columns': 2, 'subplots': [['xy', 'x2y2'], ['x3y3', 'x4y4']]}}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_402", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'bar9999'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_402", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'baz'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_402", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'baz'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_402", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'baz'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_402", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'baz'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_403", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'baz'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_403", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'baz'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_403", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'baz'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_403", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'baz'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_403", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'baz'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_404", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'bar1024'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_404", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'bar1024'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_404", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'bar1024'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_404", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'bar1024'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_404", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'bar1024'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_401", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'third'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_401", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'3rd'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_401", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'third'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_401", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'third'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_401", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'third'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_18", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'value': 0, 'typ': '', 'color': None, 'array': [-1, 0, 1000000.0]}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_18", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'value': 0, 'typ': '', 'color': None, 'array': [-1, 0, 1000000.0]}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_18", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'value': 0, 'typ': '', 'color': None, 'array': [-1, 0, 1000000.0]}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_18", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'value': 0, 'typ': '', 'color': None, 'array': [-1, 0, 1000000.0]}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_18", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'value': 0, 'typ': '', 'color': None, 'array': [-1, 0, 1000000.0]}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_406", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_406", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_406", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_406", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_406", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_405", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_405", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_405", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_405", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_405", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfig.to_dict()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_19", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nLayout(height=None, autosize=True, title=Title(text='', pad=Pad(l=0, r=0, t=0, b=0), x=0.5, y=1, xanchor='center', yanchor='top'), template=None, annotations=[], shapes=[], images=[], legend=Legend(), barmode='overlay', bargap=0.2, bargroupgap=0.0, boxmode='overlay', violinmode='overlay', polar=Dict(layout=Dict(bgcolor='rgba(255, 255, 255, 0)', radialaxis=Dict(showticklabels=True, ticks='', ticklen=5, gridcolor='rgb(204, 204, 204)', griddash='solid', linecolor='rgb(204, 204, 204)', linewidth=1, mirror=False, range=[0, 1], showline=False, tickcolor='rgb(102, 102, 102)', tickfont=Dict(color='', family='', size=12), tickwidth=1), angularaxis=Dict(showticklabels=True, ticks='', ticklen=5, gridcolor='rgb(204, 204, 204)', griddash='solid', linecolor='rgb(204, 204, 204)', linewidth=1, mirror=False, range=[0, 360], showline=False, tickcolor='rgb(102, 102, 102)', tickfont=Dict(color='', family='', size=12), tickwidth=1)), domain=Dict(x=[0, 1], y=[0, 1]), radialaxis_domain=Dict(x=[0, 1], y=[0, 1]), angularaxis_domain=Dict(x=[0, 1], y=[0, 1]), sector=[0, 360], bgcolor='rgba(255, 255, 255, 0)', paper_bgcolor='rgba(255, 255, 255, 0)', separators='', showlegend=False, dragmode='zoom', hovermode='closest', spikedistance=1000, xaxis=Dict(anchor='free', autorange=True, backgroundcolor='rgba(0,", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_19", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nLayout(grid=Grid(rows=3, columns=1, pattern=None, roworder='top to bottom', columnorder='left to right', xaxes=(XAxis(domain=[0.0, 1.0], anchor='y'), XAxis(domain=[0.0, 1.0], anchor='y2'), XAxis(domain=[0.0, 1.0], anchor='y3')), yaxes=(YAxis(domain=[0.0, 0.3333333333333333], anchor='x'), YAxis(domain=[0.3333333333333333, 0.6666666666666666], anchor='x2'), YAxis(domain=[0.6666666666666666, 1.0], anchor='x3')), subplots={'x1y1': {'row': 1, 'col': 1}, 'x2y2': {'row': 2, 'col': 1}, 'x3y3': {'row': 3, 'col': 1}}, traces=dict(x1y1=[], x2y2=[], x3y3=[]), annotations=Annotations(), shapes=Shapes(), images=Images(), legend=Legend(), title=Title(text='', font=None, standoff=0, xanchor='center', yanchor='top', x=0.5, y=1.0, xref='paper', yref='paper', bgcolor=None, bordercolor=None, borderwidth=0, itemsizing='constant', orientation='v', traceorder='normal', uirevision=None, groupclick=None, itemclick=None, itemdoubleclick=None, selected={trace: []}, unselected={trace: []}), annotations=Annotations(), shapes=Shapes(), images=Images(), legend=Legend(), title=Title(text='', font=None, standoff=0, xanchor='center', yanchor='top', x=0.5, y=1.0, xref='paper', yref='paper', bgcolor=None, bordercolor=None, borderwidth=0, itemsizing='constant', orientation='v', traceorder='normal', uirevision=None, groupclick=None, itemclick=None, itemdoubleclick=None, selected={trace: []}, unselected={trace: []", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_19", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_19", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'grid': {'rows': 3, 'cols': 1, 'roworder': 'top to bottom', 'columnorder': 'left to right'}, 'xaxis': {'anchor': 'y', 'domain': [0.0, 1.0]}, 'yaxis': {'anchor': 'x', 'domain': [0.0, 1.0]}, 'xaxis2': {'anchor': 'y2', 'domain': [0.0, 1.0]}, 'yaxis2': {'anchor': 'x2', 'domain': [0.333333, 1.0]}, 'xaxis3': {'anchor': 'y3', 'domain': [0.0, 1.0]}, 'yaxis3': {'anchor': 'x3', 'domain': [0.666667, 1.0]}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_19", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_407", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'lines+markers+text'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_407", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'lines+markers+text'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_407", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'special_flaglist'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_407", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'lines+markers+text'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_407", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'lines+markers+text'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_412", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_412", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_412", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_412", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_412", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_411", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'markers+text+lines'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_411", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'markers+text+lines'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_411", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'markers+text+lines'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_411", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'markers+text+lines'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_411", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'markers+text+lines'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_409", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_409", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_409", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_409", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_409", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_408", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'lines+markers+text'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_408", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ncoerce_val\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_408", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'lines+markers+text'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_408", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'lines+markers+text'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_408", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ncoerce_val\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_410", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'none'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_410", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'none'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_410", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'none'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_410", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'all'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_410", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'none'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_55", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n\"<html>\\n<head>\\n\\t<script src=\\\"https://cdn.plot.ly/plotly-latest.min.js\\\"></script>\\n</head>\\n<body>\\n\\t<div id=\\\"my-custom-div-edge-case-42\\\" style=\\\"height: 100%; width: 100%;\\\"></div>\\n\\t<script>\\n\\t\\tPlotly.newPlot('my-custom-div-edge-case-42', [], {}, {});\\n\\t</script>\\n</body>\\n</html>\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_55", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'<html><head><script src=\"https://cdn.plot.ly/plotly-latest.min.js\"></script></head><body><div id=\"my-custom-div-edge-case-42\" style=\"height:100vh;width:100%;\"><script>Plotly.newPlot(\"my-custom-div-edge-case-42\", [], {});</script></div></body></html>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_55", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'<html><head><script src=\"https://cdn.plot.ly/plotly-latest.min.js\"></script></head><body><div id=\"my-custom-div-edge-case-42\" style=\"height:100%; width:100%\"></div><script>Plotly.newPlot(\"my-custom-div-edge-case-42\", [], {});</script></body></html>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_55", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'<div id=\"my-custom-div-edge-case-42\" class=\"plotly-graph-div\" style=\"height:100%; width:100%;\"></div><script src=\"https://cdn.plot.ly/plotly-latest.min.js\"></script><script>Plotly.newPlot(\"my-custom-div-edge-case-42\", [], {}, {})</script>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_55", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'<div id=\"my-custom-div-edge-case-42\" style=\"height: 100%; width: 100%;\"></div><script src=\"https://cdn.plot.ly/plotly-latest.min.js\"></script><script>Plotly.newPlot(\"my-custom-div-edge-case-42\", [], {}, {});</script>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_413", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_413", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_413", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_413", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_413", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_86", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'jpeg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_86", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'jpeg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_86", "experiment_type": "oracle", "sample_id": 2, "response": "```output\njpeg\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_86", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'jpeg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_86", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'jpeg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_87", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n1234.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_87", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n1234.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_87", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n1234.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_87", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n1234.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_87", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n1234.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_88", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_88", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n5678.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_88", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n5678.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_88", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n5678.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_88", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n5678.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_89", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'webp'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_89", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'webp'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_89", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'webp'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_89", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nwebp\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_89", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'webp'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_90", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'-1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_90", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'???'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_90", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'-1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_90", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n-1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_90", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'700'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_91", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_91", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_91", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_91", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_91", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_92", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'/abs/path/to/topo.json'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_92", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'/abs/path/to/topo.json'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_92", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n/abs/path/to/topo.json\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_92", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'/abs/path/to/topo.json'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_92", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'/abs/path/to/topo.json'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_93", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'invalid-url'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_93", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'invalid-url'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_93", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ninvalid-url\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_93", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'invalid-url'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_93", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'invalid-url'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_94", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'png'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_94", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'png'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_94", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'png'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_94", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'png'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_94", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'png'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_95", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_95", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_95", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_95", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_95", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_96", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_96", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_96", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_96", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_96", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_97", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'webp'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_97", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'webp'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_97", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'png'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_97", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'jpeg'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_97", "experiment_type": "oracle", "sample_id": 4, "response": "```output\npng\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_98", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'700'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_98", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'700'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_98", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n700\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_98", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'700'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_98", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'auto'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_99", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_99", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_99", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_99", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_99", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_100", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'???'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_100", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'/abs/path/to/topo.json'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_100", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_100", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_100", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_101", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_101", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_101", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_101", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_101", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_102", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nb'mock image data'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_102", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nb'mock image data'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_102", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nb'mock image data'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_102", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nb'\\xff\\xd8\\xff\\xe0\\x00\\x10JFIF\\x00\\x01\\x01\\x00\\x00\\x01\\x00\\x01\\x00\\x00\\xff\\xdb\\x00\\x43\\x00\\x06\\x04\\x04\\x04\\x04\\x03\\x08\\x0b\\x04\\x04\\x04\\x04\\x04\\x04\\x08\\x0c\\x0c\\x0c\\x0c\\x0c\\x03\\x04\\x04\\x04\\x04\\x10\\x0e\\x0f\\x0f\\x10\\x10\\x10\\x0c\\x0c\\x0c\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_102", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nb'mock image data'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_103", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_103", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_103", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_103", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_103", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_104", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'webp'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_104", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'webp'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_104", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'webp'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_104", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'webp'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_104", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'webp'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_105", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'-1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_105", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'-1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_105", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n-1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_105", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'-1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_105", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'-1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_106", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_106", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_106", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_106", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_106", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_107", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'/abs/path/to/topo.json'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_107", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'/abs/path/to/topo.json'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_107", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n/abs/path/to/topo.json\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_107", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'/abs/path/to/topo.json'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_107", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'/abs/path/to/topo.json'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_108", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'invalid-url'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_108", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'invalid-url'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_108", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'invalid-url'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_108", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_108", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'invalid-url'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_112", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_112", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_112", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_112", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_112", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_111", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_111", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_111", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_111", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_111", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ntest_fig\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_181", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_181", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_181", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_181", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_181", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_180", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_180", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_180", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_180", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_180", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_432", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_432", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_432", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_432", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_432", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_436", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_436", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_436", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_436", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_436", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_435", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nnp.inf\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_435", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n-9999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_435", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n2.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_435", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_435", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_434", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_434", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_434", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_434", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_434", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_433", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_433", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_433", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_433", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_433", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_437", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n((- 1.0), 1.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_437", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n((-1.0), 1.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_437", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n((- 1.0), 1.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_437", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n((-1.0,), 1.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_437", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n((-1.0), 1.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_182", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n<class 'plotly.graph_objs._figure.Figure'>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_182", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nFigure\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_182", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n<class 'plotly.graph_objs._figure.Figure'>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_182", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ngo.Figure\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_182", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ngo.Figure\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_444", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ncategory\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_444", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ncategory\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_444", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ncategory\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_444", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ncategory\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_444", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ncategory\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_445", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'<U21'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_445", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'U'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_445", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'<U21'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_445", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'U'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_445", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'<U21'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_442", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_442", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_442", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_442", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_442", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_441", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_441", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_441", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_441", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_441", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_447", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_447", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_447", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_447", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_447", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_446", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ndatetime64[D]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_446", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_446", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_446", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_446", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ndatetime64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_439", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_439", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nnumeric_pandas.dtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_439", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_439", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'i'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_439", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nnumeric_pandas.dtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_440", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_440", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_440", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_440", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_440", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_438", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_438", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_438", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_438", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_438", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_56", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nreplace_div_id(sio_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_56", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nreplace_div_id(sio_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_56", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nreplace_div_id(sio_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_56", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nreplace_div_id(sio_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_56", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nreplace_div_id(sio_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_57", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nreplace_div_id(pl_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_57", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nreplace_div_id(pl_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_57", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nreplace_div_id(pl_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_57", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'replace_div_id(pl_html)'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_57", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nreplace_div_id(pl_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_58", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nreplace_div_id(fd_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_58", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nreplace_div_id(fd_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_58", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nreplace_div_id(fd_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_58", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nreplace_div_id(fd_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_58", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nreplace_div_id(fd_html)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_23", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_23", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_23", "experiment_type": "oracle", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_23", "experiment_type": "oracle", "sample_id": 3, "response": "code\n\n```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_23", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_24", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_24", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_24", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_24", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_24", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_25", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_25", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_25", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_25", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_25", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_26", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_26", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_26", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_26", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_26", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_27", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nArial\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_27", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_27", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_27", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nArial\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_27", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_28", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_28", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_28", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_28", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_28", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'Arial'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_29", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'percent'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_29", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'percent'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_29", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'percent'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_29", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'percent'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_29", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'percent'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_21", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'#FF0000'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_21", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'#FF0000'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_21", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'#FF0000'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_21", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'#FF0000'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_21", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'#FF0000'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_22", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'#FF0000'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_22", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'#FF0000'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_22", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'#FF0000'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_22", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'#FF0000'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_22", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'#FF0000'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_35", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n42\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_35", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n42\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_35", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n42\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_35", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n42\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_35", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n42\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_36", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_36", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_36", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[((-1), 3.3), ((-1), 4.4)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_36", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[((-1, 0),)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_36", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[((-1, 0),)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_30", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'type': 'scatter', 'x': [0, -100, 1000000000000.0, 2.5, -3.1], 'y': [0.0, -50, 1000000000.0, 4, -7], 'name': '', 'visible': False, 'text': ''}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_30", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\n    \"type\": \"scatter\",\n    \"x\": [0, -100, 1000000000000.0, 2.5, -3.1],\n    \"y\": [0.0, -50, 1000000000.0, 4, -7],\n    \"name\": \"\",\n    \"visible\": false,\n    \"text\": \"\"\n}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_30", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\n    'type': 'scatter',\n    'x': [0, -100, 1000000000000.0, 2.5, -3.1],\n    'y': [0.0, -50, 1000000000.0, 4, -7],\n    'name': '',\n    'visible': False,\n    'text': ''\n}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_30", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'type': 'scatter', 'x': [0, -100, 1000000000000.0, 2.5, -3.1], 'y': [0.0, -50, 1000000000.0, 4, -7], 'name': '', 'visible': False, 'text': ''}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_30", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'type': 'scatter', 'x': [0, -100, 1000000000000.0, 2.5, -3.1], 'y': [0.0, -50, 1000000000.0, 4, -7], 'name': '', 'visible': False, 'text': ''}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_82", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[[0, 0], [-120.5, 85.354], [1000000.0, -1000000.0], [42, -42], []]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_82", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[[[0, 0], [-120.5, 85.354], [1000000.0, -1000000.0], [42, -42], []]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_82", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[[[0, 0], [-120.5, 85.354], [1000000.0, -1000000.0], [42, -42], []]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_82", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[[[0, 0], [-120.5, 85.354], [1000000.0, -1000000.0], [42, -42], []]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_82", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[[0, 0], [-120.5, 85.354], [1000000.0, -1000000.0], [42, -42], []]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_83", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[[[-180.0, 90.0], [180.0, -90.0], [0.0, 0.0]]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_83", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[[180, -90.0], [0, 0]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_83", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[[-180, 90.0], [180, -90.0], [0, 0]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_83", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[[180.0, -90.0], [0.0, 0.0], [-180.0, 90.0]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_83", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[[-180, 90.0], [180, -90.0], [0, 0]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_84", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[-1000.5, 1000.0]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_84", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[-1000.5, 1000]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_84", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[-1000.5, 1000]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_84", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n[-1000.5, 1000.0]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_84", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[-1000.5, 1000]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_448", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_448", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_448", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_448", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_448", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_453", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_453", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_453", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n('non-empty', 'LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_453", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n('non-empty', 'LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_LARGE_STRING_')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_453", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_452", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'foo'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_452", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_452", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_452", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_452", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_450", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'non-empty'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_450", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval.strip()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_450", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval.strip()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_450", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_450", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_454", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_454", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_454", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ntuple(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_454", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n('non-empty', 'space')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_454", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n('non-empty', 'space', 'symbol', 'name', '€', 'foo', 'bar', 'baz', 'qux')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_451", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nstr(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_451", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nstr(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_451", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nstr(val)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_451", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval.strip()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_451", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nstr(val).strip()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_449", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_449", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_449", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'foo'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_449", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'foo'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_449", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_455", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_455", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_455", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_455", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_455", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nval\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_38", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_38", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_38", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_38", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_38", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_39", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_39", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_39", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_39", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_39", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_42", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_42", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_42", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_42", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_42", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_43", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'x1 domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_43", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'x1 domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_43", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nx1 domain\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_43", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nx1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_43", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nx1 domain\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_44", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'y'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_44", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_44", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_44", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_44", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_45", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'x2 domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_45", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'x2 domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_45", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'x domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_45", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'x domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_45", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'x domain'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_41", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_41", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_41", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_41", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_41", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_40", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_40", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_40", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_40", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_40", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'y2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_46", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'3'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_46", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n20\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_46", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'hello'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_46", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_46", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_352", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'', 'Z', '2024-01-01T00:00:00', '2024-01-01T23:59:59.999999'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_352", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'', '2024-01-01T00:00:00', '2024-01-01T23:59:59.999999', 'Z'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_352", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'', '2024-01-01T00:00:00', '2024-01-01T23:59:59.999999', 'Z'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_352", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'', 'Z', '2024-01-01T00:00:00', '2024-01-01T23:59:59.999999'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_352", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'', 'Z', '2024-01-01T00:00:00', '2024-01-01T23:59:59.999999'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_353", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nnp.datetime64('2024-01-01T00:00:00')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_353", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'2024-01-01T00:00:00'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_353", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nnp.datetime64('2024-01-01')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_353", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'2024-01-01T00:00:00'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_353", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'y'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_460", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'float64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_460", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_460", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_460", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_460", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_459", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_459", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_459", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_459", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_459", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_457", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_457", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nnumeric_xarray.dtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_457", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nint32\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_457", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nint32\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_457", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nnumeric_xarray.dtype\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_458", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_458", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_458", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_458", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_458", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_456", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_456", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'int32'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_456", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_456", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "plotly_456", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfloat64\n```", "finish_reason": "stop", "usage": null}

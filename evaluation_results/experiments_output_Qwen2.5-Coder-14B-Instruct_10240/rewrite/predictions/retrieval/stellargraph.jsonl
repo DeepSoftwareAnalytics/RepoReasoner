@@ -1,0 +1,675 @@
+{"task_id": "stellargraph_767", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_767", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_767", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_767", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_767", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_768", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n((batch_size if (batch_size > 0) else 1), len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_768", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(batch_size if (batch_size > 0) else 1), len(barbell.nodes())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_768", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(batch_size if (batch_size > 0) else 1, 1, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_768", "experiment_type": "retrieval", "sample_id": 3, "response": "stacklevel=2)", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_768", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n((batch_size if (batch_size > 0) else 1), 1, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_769", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(batch_size if (batch_size > 0) else 1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_769", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(batch_size if (batch_size > 0) else 1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_769", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(batch_size if (batch_size > 0) else 1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_769", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(batch_size if (batch_size > 0) else 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_769", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(batch_size if (batch_size > 0) else 1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_770", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n((batch_size if (batch_size > 0) else 1), 1, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_770", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n((batch_size if (batch_size > 0) else 1), num_powers, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_770", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n((batch_size if (batch_size > 0) else 1), num_powers, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_770", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(batch_size if (batch_size > 0) else 1, num_powers, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_770", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(batch_size if (batch_size > 0) else 1), 1, len(barbell.nodes()), num_powers\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_771", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(batch_size,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_771", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(batch_size,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_771", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(batch_size,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_771", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(batch_size,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_771", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(batch_size,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_772", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(batch_size, npw, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_772", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(batch_size, num_powers, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_772", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(batch_size, num_powers, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_772", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(batch_size, npw, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_772", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(batch_size, num_powers, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_773", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(batch_size, num_powers + 1, len(barbell.nodes()), len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_773", "experiment_type": "retrieval", "sample_id": 1, "response": "elliptic", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_773", "experiment_type": "retrieval", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_773", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(batch_size, npw, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_773", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(batch_size, 1 + npw, len(barbell.nodes()))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_764", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_764", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_764", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_764", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_764", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_765", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(8, num_nodes, num_nodes)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_765", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(8, num_nodes, num_nodes)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_765", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(8, num_nodes, num_nodes)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_765", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(8, num_nodes, num_nodes)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_765", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(8, num_nodes, num_nodes)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_766", "experiment_type": "retrieval", "sample_id": 0, "response": "pandas.core.frame.DataFrame", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_766", "experiment_type": "retrieval", "sample_id": 1, "response": "pandas.core.series.Series", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_766", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(num_nodes, num_nodes)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_766", "experiment_type": "retrieval", "sample_id": 3, "response": "pandas.core.series.Series", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_766", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(num_nodes, 8, num_nodes)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_794", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_794", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_794", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_794", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_794", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_795", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_795", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_795", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_795", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_795", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_796", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_796", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_796", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(len(node_ids), 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_796", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(len(node_ids), 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_796", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(len(node_ids), 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_797", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_797", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_797", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_797", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_797", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_798", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_798", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_798", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_798", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_798", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_799", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_799", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_799", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_799", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_799", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(len(node_ids), 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_800", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(4, 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_800", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(4, 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_800", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(4, 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_800", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(4, 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_800", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(4, 4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_801", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_801", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_801", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nnodes.loc[(node, 0)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_801", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_801", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_46", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[expected_missing]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_46", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[expected_missing]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_46", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n-1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_46", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n255\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_46", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nnp.iinfo(np.uint32).max\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_366", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_366", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_366", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_366", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_366", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_367", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_367", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_367", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_367", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_367", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_47", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nargs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_47", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n('a', 'b')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_47", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n('a', 'b')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_47", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'???' is an undefined placeholder in the provided context.\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_47", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n('a', 'b', 1, 2.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_48", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nkwargs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_48", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nkwargs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_48", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nkwargs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_48", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nkwargs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_48", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nkwargs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_49", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nargs, kwargs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_49", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_49", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n('method', 'args', 'kwargs')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_49", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_49", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n('method', 'argument')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_818", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'reversed'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_818", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'reversed'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_818", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'reversed'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_818", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'reversed'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_818", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'reversed'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_823", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'negated'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_823", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'negated'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_823", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'negated'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_823", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'FullBatchNodeGenerator'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_823", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'negated'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_814", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(25, 25)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_814", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(25, 25)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_814", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(25, 25)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_814", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(25, 25)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_814", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(25, 25)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_815", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(25, 12)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_815", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(25, 12)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_815", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(25, 12)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_815", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(25, 12)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_815", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(25, 12)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_819", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_819", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_819", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_819", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_819", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_820", "experiment_type": "retrieval", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_820", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_820", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_820", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_820", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_816", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(5,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_816", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(5, 100)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_816", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_816", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(5,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_816", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(5, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_817", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_817", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n10120\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_817", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n-9888\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_817", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n10190\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_817", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n9990\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_821", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(4,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_821", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_821", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(4,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_821", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(4,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_821", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_822", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n123456789\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_822", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n123456789\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_822", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n113456789\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_822", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n123456789\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_822", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n113456789\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_558", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_558", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_558", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_558", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_558", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_559", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nelu\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_559", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nelu\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_559", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nelu\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_559", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nelu\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_559", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nelu\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_560", "experiment_type": "retrieval", "sample_id": 0, "response": "output\n```output\nGlorotUniform\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_560", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nGlorotUniform\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_560", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nGlorotUniform\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_560", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nGlorotUniform\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_560", "experiment_type": "retrieval", "sample_id": 4, "response": "input", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_561", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nZeros\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_561", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nZeros\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_561", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nZeros\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_561", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nZeros\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_561", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nZeros\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_562", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_562", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_562", "experiment_type": "retrieval", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_562", "experiment_type": "retrieval", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_562", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_563", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_563", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_563", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_563", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_563", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_564", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_564", "experiment_type": "retrieval", "sample_id": 1, "response": "index", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_564", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_564", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_564", "experiment_type": "retrieval", "sample_id": 4, "response": "array([[0, 0]], dtype=int32)", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_565", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_565", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_565", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_565", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_565", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_571", "experiment_type": "retrieval", "sample_id": 0, "response": "input_dim", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_571", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'relu'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_571", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['relu', 'relu', 'relu', 'relu']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_571", "experiment_type": "retrieval", "sample_id": 3, "response": "input", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_571", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'relu'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_572", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['tanh', 'tanh', 'tanh']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_572", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['tanh', 'tanh', 'tanh']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_572", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['tanh', 'tanh']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_572", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['tanh', 'tanh']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_572", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'tanh'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_573", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['tanh', 'tanh']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_573", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['tanh', 'tanh']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_573", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['tanh', 'tanh']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_573", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['tanh', 'tanh']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_573", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['tanh', 'tanh', 'tanh']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_574", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_574", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_574", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_574", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_574", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_575", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_575", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_575", "experiment_type": "retrieval", "sample_id": 2, "response": "group", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_575", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_575", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_566", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['tanh', 'sigmoid', 'elu']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_566", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['tanh', 'sigmoid', 'elu']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_566", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['tanh', 'sigmoid', 'elu']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_566", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['tanh', 'sigmoid', 'elu']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_566", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['tanh', 'sigmoid', 'elu']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_567", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_567", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_567", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_567", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_567", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_568", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['relu', 'sigmoid']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_568", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['relu', 'sigmoid']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_568", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['relu', 'sigmoid']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_568", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['relu', 'sigmoid']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_568", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['relu', 'sigmoid']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_569", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[6, 12]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_569", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[6, 12]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_569", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[6, 12]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_569", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[6, 12]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_569", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[6, 12]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_570", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_570", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_570", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_570", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_570", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_829", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n140\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_829", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_829", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n120\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_829", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nexpected_embed_dim\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_829", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n66\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_827", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(batch_size, expected_embed_dim)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_827", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(batch_size, expected_embed_dim)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_827", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(batch_size, expected_embed_dim)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_827", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(batch_size, expected_embed_dim)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_827", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(batch_size, expected_embed_dim)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_828", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(batch_size, expected_embed_dim) if barbell.number_of_nodes() % batch_size != 0 else (barbell.number_of_nodes() % batch_size, expected_embed_dim)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_828", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(barbell.number_of_nodes() % batch_size, expected_embed_dim)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_828", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(barbell.number_of_nodes() % batch_size, expected_embed_dim)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_828", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(barbell.number_of_nodes() % batch_size, expected_embed_dim)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_828", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(barbell.number_of_nodes() % batch_size, expected_embed_dim)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_826", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_826", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_826", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nrepeat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_826", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nrepeat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_826", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_824", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(25,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_824", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(25,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_824", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(25,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_824", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(25, 25)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_824", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(4,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_825", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(25, 25)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_825", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(25, 25)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_825", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(25, 25)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_825", "experiment_type": "retrieval", "sample_id": 3, "response": "n x n", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_825", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(25, 25)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_394", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_394", "experiment_type": "retrieval", "sample_id": 1, "response": "code error", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_394", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_394", "experiment_type": "retrieval", "sample_id": 3, "response": "code error", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_394", "experiment_type": "retrieval", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_395", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_395", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_395", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_395", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_395", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_396", "experiment_type": "retrieval", "sample_id": 0, "response": "pandas.core.series.Series", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_396", "experiment_type": "retrieval", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_396", "experiment_type": "retrieval", "sample_id": 2, "response": "code\n\n```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_396", "experiment_type": "retrieval", "sample_id": 3, "response": "code: ```python\nassert (len(subgraphs) == '???')\n```\n\n# Analysis\n1. The test function `test_walk_generation_many_root_nodes` is designed to check the number of subgraphs generated by the `SampledHeterogeneousBreadthFirstWalk` class.\n2. The function creates a test graph `g` with self-loops enabled.\n3. It initializes a `SampledHeterogeneousBreadthFirstWalk` object `bfw` with the graph `g`.\n4. The `_conv` function is defined to convert node IDs to their respective indices in the graph.\n5. The `nodes` variable is set to a list of node indices obtained by converting `[1, 4]` using the `_conv` function.\n6. The parameters `n` and `n_size` are set to `4` and `[2, 3]` respectively.\n7. The `run` method of `bfw` is called with the specified parameters, generating `subgraphs`.\n\nTo determine the correct value for the \"???\", we need to understand how the `run` method generates subgraphs.\n\n- The `run` method performs a breadth-first search (BFS) starting from the given `nodes`.\n- For each node, it generates a subgraph by exploring up to `n` levels deep, with each level having a branching factor defined by `n_size`.\n\nGiven the parameters:\n- `n = 4`: The BFS will explore up to 4 levels deep.\n- `n_size = [2, 3]`: The first level will have 2 neighbors, the second level will have 3 neighbors, and so on.\n\nSince the BFS explores 4 levels deep, and each level has a branching factor defined by `n_size`, the total number of subgraphs generated will be equal to the number of root nodes provided.\n\nIn this case, the root nodes are `[1, 4]`, which means there are 2 root nodes.\n\nTherefore, the length of the `subgraphs` list should be equal to the number of root nodes, which is 2.\n\n# Conclusion\nThe correct value for the \"???\" placeholder is `2`.\n\n```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_396", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_397", "experiment_type": "retrieval", "sample_id": 0, "response": "text\n```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_397", "experiment_type": "retrieval", "sample_id": 1, "response": "u'1'", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_397", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_397", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_397", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_398", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n15\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_398", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n15\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_398", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n15\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_398", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n45\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_398", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_399", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_399", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_399", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_399", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_399", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_400", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_400", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_400", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_400", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_400", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_401", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_401", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_401", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_401", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_401", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_402", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_402", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_402", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_402", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_402", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_403", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_403", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_403", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_403", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_403", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_404", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n75\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_404", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n75\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_404", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n75\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_404", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n75\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_404", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n75\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_386", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_386", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_386", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_386", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_386", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_387", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_387", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_387", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_387", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_387", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_388", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_388", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_388", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_388", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_388", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_389", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_389", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_389", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_389", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_389", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_390", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_390", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_390", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_390", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_390", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_391", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_391", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_391", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_391", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_391", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_392", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_392", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_392", "experiment_type": "retrieval", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_392", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_392", "experiment_type": "retrieval", "sample_id": 4, "response": "output\n```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_372", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_372", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_372", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_372", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_372", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_373", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_373", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_373", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_373", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n-1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_373", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_374", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_374", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_374", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ng.node_ids_to_ilocs([0])[0]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_374", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_374", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_375", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_375", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_375", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_375", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_375", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_376", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_376", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_376", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_376", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_376", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_377", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_377", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_377", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_377", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_377", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n7\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1049", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(4, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1049", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(4, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1049", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(4, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1049", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(4, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1049", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(4, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1050", "experiment_type": "retrieval", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1050", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(4,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1050", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1050", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(4,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1050", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1048", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(4, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1048", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(4, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1048", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(4, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1048", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(4, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1048", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(4, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1051", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(4,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1051", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nvs.shape[:(-1)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1051", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nvs.shape[:(- 1)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1051", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(4,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1051", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(4,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1052", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nvs.shape[:(- 1)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1052", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nvs.shape[:(- 1)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1052", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nvs.shape[:(- 1)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1052", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nvs.shape[:(- 1)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1052", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nvs.shape[:(- 1)]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1047", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(4, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1047", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(4, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1047", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(4, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1047", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(4, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1047", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(4, 3)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_155", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_155", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_155", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nrange(0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_155", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_155", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_156", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nnp.arange(len(values))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_156", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_156", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nrange(0, 30, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_156", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nnp.arange(values.shape[0])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_156", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_831", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_831", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nshould_be_equal\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_831", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nshould_be_equal\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_831", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_831", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nshould_be_equal\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_714", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(1, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_714", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(1, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_714", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(1, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_714", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(1, 1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_714", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(1, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_689", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_689", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[[0.]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_689", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_689", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[0.]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_689", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_690", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n-1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_690", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n-1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_690", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n-1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_690", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n-1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_690", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n-1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_691", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1.0e+12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_691", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1000000000000.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_691", "experiment_type": "retrieval", "sample_id": 2, "response": "generator.input_dim * generator.input_dim", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_691", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1e+18\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_691", "experiment_type": "retrieval", "sample_id": 4, "response": "input(self.d)", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_692", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_692", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_692", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_692", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_692", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_701", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_701", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_701", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_701", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_701", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_702", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n-1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_702", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n-1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_702", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[-1.]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_702", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n-1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_702", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n-1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_703", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_703", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(self.d,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_703", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(2.0,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_703", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(self.d,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_703", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_704", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_704", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_704", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_704", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_704", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_706", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_706", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_706", "experiment_type": "retrieval", "sample_id": 2, "response": "input", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_706", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_706", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_707", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_707", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[[0.]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_707", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n[[0.]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_707", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n[[0.]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_707", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[[0.]]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_708", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1000000000000.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_708", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1e+12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_708", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1000000000000.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_708", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1e+12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_708", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_709", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_709", "experiment_type": "retrieval", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_709", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_709", "experiment_type": "retrieval", "sample_id": 3, "response": "epgm", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_709", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_711", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_711", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_711", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_711", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_711", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n[1]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_712", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_712", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_712", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_712", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_712", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_693", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_693", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n-1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_693", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n-1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_693", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_693", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_694", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_694", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n[1.]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_694", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_694", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_694", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_695", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_695", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_695", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_695", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_695", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_696", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_696", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_696", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_696", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_696", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_697", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(1, 1, 100)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_697", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(1, 1, self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_697", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(1, 1, 100)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_697", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(1, 1, self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_697", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(1, 1, self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_698", "experiment_type": "retrieval", "sample_id": 0, "response": "array((1, 1, 2 * self.d))", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_698", "experiment_type": "retrieval", "sample_id": 1, "response": "u'1, 1, 2*d'", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_698", "experiment_type": "retrieval", "sample_id": 2, "response": "n", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_698", "experiment_type": "retrieval", "sample_id": 3, "response": "text\n```output\n(1, 1, 2 * self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_698", "experiment_type": "retrieval", "sample_id": 4, "response": "u'1, 1, 2*d'", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_705", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(1, 1, 50)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_705", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(1, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_705", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(1, 1, d_out)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_705", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(1, 1, self.d_out)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_705", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(1, 1, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_710", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(1, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_710", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(1, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_710", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(1, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_710", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(1, 1, self.d_out)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_710", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(1, 1, d_out)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_713", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(1, 1, d_out)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_713", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(1, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_713", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(1, 1, self.d_out)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_713", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(1, 1, d_out)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_713", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(1, 1, d_out)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_699", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(1, self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_699", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(1, self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_699", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(1, self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_699", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(1, self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_699", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(1, self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_700", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(1, self.d * 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_700", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(1, 2 * self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_700", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(1, 2 * self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_700", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(1, 2 * self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_700", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(1, 2 * self.d)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_42", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nexpected_loss\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_42", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nexpected_loss\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_42", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nexpected_loss\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_42", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nexpected_loss\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_42", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nexpected_loss\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1029", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1029", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1029", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1029", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1029", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1030", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1030", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1030", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1030", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1030", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1026", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(2, 7, 16)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1026", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1026", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1026", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(2, 7, 14)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1026", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1027", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1027", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1027", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1027", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(2, 7, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1027", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1028", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1028", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1028", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1028", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1028", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1024", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1024", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1024", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1024", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1024", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1023", "experiment_type": "retrieval", "sample_id": 0, "response": "code_snippet_not_provided", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1023", "experiment_type": "retrieval", "sample_id": 1, "response": "code error", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1023", "experiment_type": "retrieval", "sample_id": 2, "response": "code error: NameError: name 'PaddedGraphGenerator' is not defined", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1023", "experiment_type": "retrieval", "sample_id": 3, "response": "code is incomplete and does not provide the definition of `PaddedGraphGenerator` or the variable `graphs`. Without this information, it is not possible to determine the value of the placeholder.", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1023", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1031", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1031", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1031", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1031", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1031", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1032", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(2, 7, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1032", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(2, 7, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1032", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(2, 7, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1032", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(2, 7, 8)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1032", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(2, 7, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1033", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(2, 7, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1033", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(2, 7, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1033", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(2, 7, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1033", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(2, 7, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1033", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(2, 7, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1034", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(2,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1034", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(2, 7, 8)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1034", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1034", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(2, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1034", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1035", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1035", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(2, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1035", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(2, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1035", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(2,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_1035", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(2,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_757", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nZeros\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_757", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nZeros\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_757", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nZeros\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_757", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nZeros\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_757", "experiment_type": "retrieval", "sample_id": 4, "response": "input", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_763", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(10, 16)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_763", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(barbell.number_of_nodes(), 16)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_763", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(4, 16)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_763", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(8, 16)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_763", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(barbell.order(), 16)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_759", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_759", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_759", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_759", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_759", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_760", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_760", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_760", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_760", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_760", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_761", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n128\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_761", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n128\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_761", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n128\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_761", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n128\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "stellargraph_761", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n128\n```", "finish_reason": "stop", "usage": null}

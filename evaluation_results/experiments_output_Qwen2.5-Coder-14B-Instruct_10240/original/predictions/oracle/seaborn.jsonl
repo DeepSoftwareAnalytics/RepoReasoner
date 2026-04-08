@@ -1,0 +1,330 @@
+{"task_id": "seaborn_2", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(100, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_2", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(n_boot, x.shape[0])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_2", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(n_boot, x.shape[0])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_2", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(n_boot, x.shape[0])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_2", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(n_boot, x.shape[1])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_0", "experiment_type": "oracle", "sample_id": 0, "response": "n_boot", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_0", "experiment_type": "oracle", "sample_id": 1, "response": "n_boot", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_0", "experiment_type": "oracle", "sample_id": 2, "response": "n_boot", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_0", "experiment_type": "oracle", "sample_id": 3, "response": "n_boot", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_0", "experiment_type": "oracle", "sample_id": 4, "response": "output\n10000", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1", "experiment_type": "oracle", "sample_id": 0, "response": "n_boot", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1", "experiment_type": "oracle", "sample_id": 1, "response": "n_boot", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1", "experiment_type": "oracle", "sample_id": 2, "response": "n_boot", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1", "experiment_type": "oracle", "sample_id": 3, "response": "n_boot", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1", "experiment_type": "oracle", "sample_id": 4, "response": "n_boot", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_3", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_3", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_3", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_3", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_3", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_4", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_4", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_4", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_4", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_4", "experiment_type": "oracle", "sample_id": 4, "response": "output\n(500, 5)", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1280", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(0.5, 0.5, 0.5, 1.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1280", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(0.5, 0.5, 0.5, 1.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1280", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(0.5, 0.5, 0.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1280", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(0.5, 0.5, 0.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1280", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(0.5, 0.5, 0.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1309", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n('C1', 0.5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1309", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n('C1', 0.5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1309", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n('C1', 0.5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1309", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n('C1', 0.5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1309", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'C1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1304", "experiment_type": "oracle", "sample_id": 0, "response": "*The provided code does not contain a \"???\" placeholder that needs to be inferred based on the test function. Therefore, no answer can be generated for this specific scenario.*", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1304", "experiment_type": "oracle", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1304", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1304", "experiment_type": "oracle", "sample_id": 3, "response": "*The provided context does not contain any direct reference to a 'Mappable' class or its method '_resolve'. Therefore, it is not possible to infer the correct value or expression for the \"???\" placeholder based solely on the given information.*\n\nHowever, if we assume that the 'Mappable' class and its '_resolve' method are similar to those in the Seaborn library, we can infer that the '_resolve' method returns the value of the 'linewidth' property. In this case, the 'linewidth' property is set to the value of the 'val' variable, which is 3.\n\nTherefore, the inferred value for the \"???\" placeholder is 3.\n\n```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1304", "experiment_type": "oracle", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1306", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1306", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1306", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1306", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1306", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1311", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(None, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1311", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(0.0, 0.0, 0.0, 0.8)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1311", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(0.0, 0.0, 0.0, 0.8)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1311", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n('green', 0.8, 1.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1311", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n('green', 0.8, 1.0, 1.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1312", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nmpl.colors.to_rgba('green', 0.2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1312", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n('green', 0.2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1312", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nmpl.colors.to_rgba('green', 0.2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1312", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nmpl.colors.to_rgba(c, fa)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1312", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nmpl.colors.to_rgba(c, fa)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1308", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1308", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1308", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1308", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1308", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1305", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nmpl.rcParams['lines.linewidth']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1305", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nmpl.rcParams['lines.linewidth']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1305", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1305", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1305", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n1.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1298", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'0.5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1298", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'0.5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1298", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'<0.5>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1298", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'0.5'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1298", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1299", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'<CO>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1299", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'<depend:CO>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1299", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'<depend:CO>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1299", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'<depend:CO>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1299", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'<CO>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1300", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n\"<rc:lines.linewidth>\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1300", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n\"<rc:lines.linewidth>\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1300", "experiment_type": "oracle", "sample_id": 2, "response": "orient", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1300", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n\"<rc:'lines.linewidth'>\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1300", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n\"<rc:lines.linewidth>\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1301", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n\"<depend:'color'>\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1301", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1301", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'<depend:color>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1301", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n\"<depend:color>\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1301", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'<depend>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1302", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1302", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1302", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'<auto:True>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1302", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1302", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1303", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1303", "experiment_type": "oracle", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1303", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1303", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1303", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1345", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1345", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1345", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1345", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1345", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1359", "experiment_type": "oracle", "sample_id": 0, "response": "nunique", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1359", "experiment_type": "oracle", "sample_id": 1, "response": "nunique", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1359", "experiment_type": "oracle", "sample_id": 2, "response": "nunique", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1359", "experiment_type": "oracle", "sample_id": 3, "response": "*", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1359", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1355", "experiment_type": "oracle", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1355", "experiment_type": "oracle", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1355", "experiment_type": "oracle", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1355", "experiment_type": "oracle", "sample_id": 3, "response": "text\n100", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1355", "experiment_type": "oracle", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1356", "experiment_type": "oracle", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1356", "experiment_type": "oracle", "sample_id": 1, "response": "nansum(out_part['y'])", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1356", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1356", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1356", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1357", "experiment_type": "oracle", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1357", "experiment_type": "oracle", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1357", "experiment_type": "oracle", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1357", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1357", "experiment_type": "oracle", "sample_id": 4, "response": "r'100\\.\\d*'", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1351", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1351", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1351", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1351", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1351", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1354", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1354", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1354", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1354", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nlong_df.shape[0]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1354", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1347", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(x.min(), x.max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1347", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(x.min(), x.max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1347", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(x.min(), x.max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1347", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(x.min(), x.max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1347", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(x.min(), x.max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1348", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nx.max() - x.min() + 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1348", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nx.max() - x.min() + 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1348", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nx.max() - x.min() + 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1348", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nint(x.max() - x.min() + 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1348", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nint(x.max() - x.min() + 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1349", "experiment_type": "oracle", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1349", "experiment_type": "oracle", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1349", "experiment_type": "oracle", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1349", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(x.min(), x.max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1349", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(x.min(), x.max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1350", "experiment_type": "oracle", "sample_id": 0, "response": "n_bins", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1350", "experiment_type": "oracle", "sample_id": 1, "response": "n_bins", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1350", "experiment_type": "oracle", "sample_id": 2, "response": "n_bins", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1350", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(x.max() - x.min() + 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1350", "experiment_type": "oracle", "sample_id": 4, "response": "n_bins", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1353", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nlong_df.shape[0]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1353", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1353", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1353", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1353", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1343", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(-3.4028234663852886, 3.4028234663852886)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1343", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(-13.778842660126748, 13.856229059139276)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1343", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(long_df['x'].min(), long_df['x'].max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1343", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(-4.0, 4.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1343", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(None, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1344", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nn\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1344", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n24\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1344", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n24\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1344", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nn\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1344", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n24\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1352", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n100.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1352", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1352", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1352", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n100.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1352", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1341", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(1.0, 9.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1341", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(-10.0, 10.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1341", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(-8000.0, 8000.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1341", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(-4.5, 4.5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1341", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(-3.0, 4.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1342", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'sqrt'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1342", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'auto'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1342", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'auto'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1342", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'sqrt'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1342", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'sqrt'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_628", "experiment_type": "oracle", "sample_id": 0, "response": "output\n'a : int\\n    This is a parameter description.'", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_628", "experiment_type": "oracle", "sample_id": 1, "response": "output\n```output\nparam_a_value\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_628", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nparam_a\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_628", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nvalue_of_param_a\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_628", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nparam_a_value\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_630", "experiment_type": "oracle", "sample_id": 0, "response": "code snippet not found", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_630", "experiment_type": "oracle", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_630", "experiment_type": "oracle", "sample_id": 2, "response": "```output\na : int\\n    Description of parameter a.\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_630", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'a : int\\n    Description of parameter a.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_630", "experiment_type": "oracle", "sample_id": 4, "response": "code not found", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_631", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'a : int\\n    Description of parameter a.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_631", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'a : int\\n    Description of parameter a.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_631", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'a : int\\n    The first parameter.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_631", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'a : int\\n    Description of a.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_631", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'a : int\\n    Description of parameter a.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_629", "experiment_type": "oracle", "sample_id": 0, "response": "output\n```output\n'param_a description'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_629", "experiment_type": "oracle", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_629", "experiment_type": "oracle", "sample_id": 2, "response": "output\nvalue_of_param_a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_629", "experiment_type": "oracle", "sample_id": 3, "response": "output\n```output\n'param_a : int\\n    This is parameter a.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_629", "experiment_type": "oracle", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_999", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'a': [3, 2, 1], 'c': None, 'b': ['x', 'y', 'z']}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_999", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'a': [3, 2, 1], 'c': None, 'b': ['x', 'y', 'z']}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_999", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'a': [3, 2, 1], 'c': None, 'b': ['x', 'y', 'z']}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_999", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'a': [3, 2, 1], 'c': None, 'b': ['x', 'y', 'z']}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_999", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'a': [3, 2, 1], 'c': None, 'b': ['x', 'y', 'z']}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_998", "experiment_type": "oracle", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_998", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'a': None, 'c': None, 'b': None}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_998", "experiment_type": "oracle", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_998", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'a': None, 'c': None, 'b': None}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_998", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'a': None, 'c': None, 'b': None}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_715", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_715", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_715", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_715", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_715", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_716", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(5, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_716", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(5, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_716", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(5, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_716", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(5, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_716", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(5, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_717", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(6, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_717", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(6, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_717", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(6, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_717", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(6, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_717", "experiment_type": "oracle", "sample_id": 4, "response": "color_palette", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1368", "experiment_type": "oracle", "sample_id": 0, "response": "nansum", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1368", "experiment_type": "oracle", "sample_id": 1, "response": "*", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1368", "experiment_type": "oracle", "sample_id": 2, "response": "*", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1368", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n['x', 'y', 'group']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1368", "experiment_type": "oracle", "sample_id": 4, "response": "*output\n['x', 'y', 'group']", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1156", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1156", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1156", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1156", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1156", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1157", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1157", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1157", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1157", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1157", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1158", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1158", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1158", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1158", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1158", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1159", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1159", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1159", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1159", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1159", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1160", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1160", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1160", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1160", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1160", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1161", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1161", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1161", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1161", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1161", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1162", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1162", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1162", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1162", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1162", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1163", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1163", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1163", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1163", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1163", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1164", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1164", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1164", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1164", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1164", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1165", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1165", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1165", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1165", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1165", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1166", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1166", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1166", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1166", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1166", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1167", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1167", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1167", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1167", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1167", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1168", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1168", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1168", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1168", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1168", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1169", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1169", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1169", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1169", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1169", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1170", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1170", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1170", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1170", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1170", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1171", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1171", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1171", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1171", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1171", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1172", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1172", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1172", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1172", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1172", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1173", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1173", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1173", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1173", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1173", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1174", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1174", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1174", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1174", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1174", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1175", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1175", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1175", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1175", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1175", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}

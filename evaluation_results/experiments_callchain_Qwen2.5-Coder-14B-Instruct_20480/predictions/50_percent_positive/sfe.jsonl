@@ -1,0 +1,1 @@
+{"task_id": "sfe_2", "test_file": "tests/test_basis.py", "sample_id": 0, "ratio": 0.5, "response": "Only include the files that are directly required for the test's execution.", "finish_reason": "stop"}

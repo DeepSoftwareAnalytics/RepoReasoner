@@ -1,0 +1,25 @@
+{"task_id": "sfe_2", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_2", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_2", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_2", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_2", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_3", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nMeshQuad\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_3", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nMeshQuad\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_3", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nMeshQuad\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_3", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nMeshQuad\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_3", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nMeshQuad\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_4", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nElementQuad0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_4", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nElementQuad0()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_4", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nElementQuad0()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_4", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nElementQuad0()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_4", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nElementQuad0()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_5", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nbasis.mapping\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_5", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nMappingAffine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_5", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nMappingAffine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_5", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nMappingAffine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_5", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'MappingAffine'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_6", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(basis.mesh.p, basis.mesh.t)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_6", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(basis.X, basis.W)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_6", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nbasis.quadrature\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_6", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(basis.X, basis.W)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "sfe_6", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(basis.X, basis.W)\n```", "finish_reason": "stop", "usage": null}

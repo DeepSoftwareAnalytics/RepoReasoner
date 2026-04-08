@@ -1,0 +1,410 @@
+{"task_id": "geopandas_15", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n['float_col', 'geom2', 'pop_est', 'continent', 'geometry', 'gdp_md_est', 'name']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_15", "experiment_type": "oracle", "sample_id": 1, "response": "output\n['float_col', 'geom2', 'pop_est', 'continent', 'geometry', 'gdp_md_est', 'name']", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_15", "experiment_type": "oracle", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_15", "experiment_type": "oracle", "sample_id": 3, "response": "output\n```output\n['float_col', 'geom2', 'pop_est', 'continent', 'geometry', 'gdp_md_est', 'name']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_15", "experiment_type": "oracle", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_0", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n0.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_0", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n0.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_0", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n0.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_0", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'0.1.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_0", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'0.1.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_1", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ngeometry\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_1", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'geometry'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_1", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ngeometry\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_1", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ngeometry\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_1", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ngeometry\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_2", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'WKB'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_2", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nWKB\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_2", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'WKB'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_2", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'WKB'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_2", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'WKB'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_3", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nexpected_types\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_3", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n['LineString', 'Point', 'Polygon']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_3", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n['LineString', 'Point', 'Polygon']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_3", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n['LineString', 'Point', 'Polygon']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_3", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n['LineString', 'Point', 'Polygon']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_4", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ngeopandas\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_4", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ngeopandas\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_4", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ngeopandas\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_4", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ngeopandas\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_4", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ngeopandas\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_5", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'0.13.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_5", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ngeopandas.__version__\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_5", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'0.10.2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_5", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'0.13.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_5", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'0.13.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_6", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'1.1.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_6", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'1.1.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_6", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n1.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_6", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'1.1.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_6", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n1.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_7", "experiment_type": "oracle", "sample_id": 0, "response": "```output\npoint\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_7", "experiment_type": "oracle", "sample_id": 1, "response": "```output\npoint\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_7", "experiment_type": "oracle", "sample_id": 2, "response": "```output\npoint\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_7", "experiment_type": "oracle", "sample_id": 3, "response": "```output\npoint\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_7", "experiment_type": "oracle", "sample_id": 4, "response": "```output\npoint\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_8", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nWKB\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_8", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'WKB'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_8", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nWKB\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_8", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'WKB'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_8", "experiment_type": "oracle", "sample_id": 4, "response": "output\n```output\nWKB\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_9", "experiment_type": "oracle", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_9", "experiment_type": "oracle", "sample_id": 1, "response": "output\ncrs_expected", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_9", "experiment_type": "oracle", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_9", "experiment_type": "oracle", "sample_id": 3, "response": "output\n```output\n'{\"type\": \"NamedCRS\", \"properties\": {\"name\": \"WGS 84\"}, \"coordinate_system\": {\"compound\": {\"head\": {\"horizontal\": {\"ellipsoidal\": {\"name\": \"WGS 84\", \"semi_major_axis\": 6378137.0, \"inverse_flattening\": 298.257223563}}, \"axis\": [{\"name\": \"Latitude\", \"abbreviation\": \"Lat\", \"direction\": \"north\", \"unit\": {\"type\": \"LinearUnit\", \"name\": \"degree\", \"conversion_factor\": 0.0174532925199433}}, {\"name\": \"Longitude\", \"abbreviation\": \"Lon\", \"direction\": \"east\", \"unit\": {\"type\": \"LinearUnit\", \"name\": \"degree\", \"conversion_factor\": 0.0174532925199433}}]}, \"tail\": null}}, \"area\": {\"type\": \"BoundingArea\", \"name\": \"World\"}, \"scope\": \"Horizontal component of 3D Cartesian coordinate system. Used by GPS and other satellite navigation systems.\", \"id\": {\"authority\": \"EPSG\", \"code\": 4326}}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_9", "experiment_type": "oracle", "sample_id": 4, "response": "output\n```output\ncrs_expected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_10", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n['Point Z', 'LineString Z', 'Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_10", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n['Point Z', 'LineString Z', 'Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_10", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n['Point Z', 'LineString Z', 'Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_10", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n['Point Z', 'LineString Z', 'Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_10", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n['Point Z', 'LineString Z', 'Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_11", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n['Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_11", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n['Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_11", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n['Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_11", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n['Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_11", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n['MultiPolygon Z', 'Polygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_12", "experiment_type": "oracle", "sample_id": 0, "response": "output\n```output\ncrs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_12", "experiment_type": "oracle", "sample_id": 1, "response": "output\ncrs", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_12", "experiment_type": "oracle", "sample_id": 2, "response": "output\n```output\ncrs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_12", "experiment_type": "oracle", "sample_id": 3, "response": "output\n```output\ncrs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_12", "experiment_type": "oracle", "sample_id": 4, "response": "output\n```output\ncrs\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_14", "experiment_type": "oracle", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_14", "experiment_type": "oracle", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_14", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'foo': [99, 'bar'], 'baz': {'x': 12.5}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_14", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'foo': [99, 'bar'], 'baz': {'x': 12.5}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_14", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'foo': [99, 'bar'], 'baz': {'x': 12.5}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_13", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nb'{\"x\": [1, 2, 3], \"y\": \"z\"}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_13", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nb'{\"x\": [1, 2, 3], \"y\": \"z\"}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_13", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nb'{\"x\": [1, 2, 3], \"y\": \"z\"}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_13", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nb'{\"x\": [1, 2, 3], \"y\": \"z\"}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_13", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nb'{\"x\": [1, 2, 3], \"y\": \"z\"}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_25", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'Gabon', 'Niger', 'Nigeria', 'Eq. Guinea', 'Cameroon', 'Mali', 'Congo', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_25", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'Gabon', 'Eq. Guinea', 'Niger', 'Mali', 'France', 'Nigeria', 'Congo', 'Cameroon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_25", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'Cameroon', 'Gabon', 'Eq. Guinea', 'Niger', 'Mali', 'Nigeria', 'France', 'Congo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_25", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'Gabon', 'Eq. Guinea', 'Niger', 'Nigeria', 'Mali', 'France', 'Cameroon', 'Congo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_25", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'Cameroon', 'Congo', 'Eq. Guinea', 'France', 'Gabon', 'Mali', 'Niger', 'Nigeria'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_27", "experiment_type": "oracle", "sample_id": 0, "response": "output\n```output\n{'pop_est', 'geometry'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_27", "experiment_type": "oracle", "sample_id": 1, "response": "output\n{'pop_est', 'geometry'}", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_27", "experiment_type": "oracle", "sample_id": 2, "response": "output\n{'pop_est', 'geometry'}", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_27", "experiment_type": "oracle", "sample_id": 3, "response": "output\n```output\n{'pop_est', 'geometry'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_27", "experiment_type": "oracle", "sample_id": 4, "response": "output\n{'pop_est', 'geometry'}", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_26", "experiment_type": "oracle", "sample_id": 0, "response": "output\n```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_26", "experiment_type": "oracle", "sample_id": 1, "response": "output\n```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_26", "experiment_type": "oracle", "sample_id": 2, "response": "code\n\n```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_26", "experiment_type": "oracle", "sample_id": 3, "response": "output\n```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_26", "experiment_type": "oracle", "sample_id": 4, "response": "output\n```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_31", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_31", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_31", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_31", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_31", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_32", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_32", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_32", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_32", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_32", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_24", "experiment_type": "oracle", "sample_id": 0, "response": "output\n```output\nPOINT (-2.5 3.14)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_24", "experiment_type": "oracle", "sample_id": 1, "response": "output\nPOINT (-2.5 3.14)", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_24", "experiment_type": "oracle", "sample_id": 2, "response": "output\n```output\nPOINT (-2.5 3.14)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_24", "experiment_type": "oracle", "sample_id": 3, "response": "output\nPOINT (-2.5 3.14)", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_24", "experiment_type": "oracle", "sample_id": 4, "response": "output\nPoint(-2.5 3.14)", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_30", "experiment_type": "oracle", "sample_id": 0, "response": "output\n```output\n{'simple3'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_30", "experiment_type": "oracle", "sample_id": 1, "response": "output\n```output\n{'simple3'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_30", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'simple3'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_30", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'simple1', 'simple3'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_30", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'simple3'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_28", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'Togo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_28", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'Togo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_28", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'Togo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_28", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'Togo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_28", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'Togo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_29", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'Cambodia', 'Indonesia', 'Malaysia'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_29", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'France', 'Guernsey', 'Isle of Man', 'Jersey'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_29", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'Saint Martin', 'Niue', 'Saint Pierre and Miquelon', 'Cook Islands', 'Anguilla', 'Tokelau', 'Wallis and Futuna', 'Montserrat', 'Turks and Caicos Islands', 'British Virgin Islands', 'Faroe Islands', 'Northern Mariana Islands', 'Falkland Islands', 'French Polynesia', 'French Southern Territories', 'Guam', 'Guernsey', 'Heard Island and McDonald Islands', 'Hong Kong', 'Isle of Man', 'Jersey', 'Kuwait', 'Liechtenstein', 'Luxembourg', 'Macau', 'Maldives', 'Malta', 'Martinique', 'Mayotte', 'Monaco', 'Nauru', 'New Caledonia', 'Norfolk Island', 'Palau', 'Papua New Guinea', 'Puerto Rico', 'Saint Barthélemy', 'Saint Helena, Ascension and Tristan da Cunha', 'Saint Kitts and Nevis', 'Saint Lucia', 'Saint Vincent and the Grenadines', 'San Marino', 'Singapore', 'Somalia', 'South Sudan', 'Svalbard and Jan Mayen', 'Swaziland', 'Taiwan', 'Timor-Leste', 'Tokelau', 'Tuvalu', 'United States Minor Outlying Islands', 'Vatican City', 'Virgin Islands, British', 'Virgin Islands, U.S.', 'Wallis and Futuna', 'Western Sahara'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_29", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'Anguilla', 'Antigua and Barbuda', 'Aruba', 'Bahamas', 'Barbados', 'Belau', 'Bermuda', 'British Virgin Islands', 'Cambodia', 'Cameroon', 'Canada', 'Cape Verde', 'Cayman Islands', 'Christmas Island', 'Cocos (Keeling) Islands', 'Comoros', 'Cook Islands', 'Costa Rica', 'Croatia', 'Curaçao', 'Cyprus', 'Dominica', 'Dominican Republic', 'East Timor', 'Ecuador', 'El Salvador', 'Equatorial Guinea', 'Falkland Islands (Malvinas)', 'Faroe Islands', 'Fiji', 'Finland', 'France', 'French Guiana', 'French Polynesia', 'Gabon', 'Gambia', 'Georgia', 'Germany', 'Ghana', 'Gibraltar', 'Greece', 'Greenland', 'Guadeloupe', 'Guam', 'Guatemala', 'Guernsey', 'Guyana', 'Haiti', 'Heard Island and McDonald Islands', 'Holy See (Vatican City State)', 'Honduras', 'Hong Kong', 'Hungary', 'Iceland', 'India', 'Indonesia', 'Iran, Islamic Republic of', 'Iraq', 'Ireland', 'Isle of Man', 'Israel', 'Italy', 'Jamaica', 'Japan', 'Jersey', 'Jordan', 'Kazakhstan', 'Kenya', 'Kiribati', 'Kuwait', 'Kyrgyzstan', 'Laos', 'Latvia', 'Lebanon', 'Lesotho', 'Liberia', 'Libyan Arab Jamahiriya', 'Liechtenstein', 'Luxembourg', 'Macao', 'Madagascar', 'Malawi', 'Malaysia', 'Maldives', 'Mali', 'Malta', 'Marshall Islands', 'Martinique', 'Mauritania', 'Mauritius', 'Mayotte', 'Mexico', 'Micronesia, Federated States of', 'Moldova, Republic of', 'Monaco', 'Mongolia', 'Montenegro', 'Montserrat', 'Morocco', 'Mozambique', 'Myanmar', 'Namibia', 'Nauru', 'Nepal', 'Netherlands', 'New Caledonia', 'New Zealand', 'Nicaragua', '", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_29", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'Aruba', 'Andorra', 'United Arab Emirates', 'Afghanistan', 'Angola', 'Antigua and Barbuda', 'Albania', 'Armenia', 'Netherlands Antilles', 'Anguilla', 'Antarctica', 'Argentina', 'French Southern and Antarctic Lands', 'Australia', 'Austria', 'Azerbaijan', 'Burundi', 'Belgium', 'Benin', 'Burkina Faso', 'Bangladesh', 'Bulgaria', 'Bahrain', 'Bahamas', 'Oman', 'Botswana', 'Brazil', 'Barbados', 'Brunei', 'Bhutan', 'Belize', 'Cambodia', 'Cameroon', 'Canada', 'Central African Republic', 'Ivory Coast', 'Chad', 'Chile', 'China', 'Christmas Island', 'Cocos Islands', 'Colombia', 'Comoros', 'Cape Verde', 'Costa Rica', 'Cuba', 'Cabo Verde', 'Curacao', 'Cyprus', 'Czech Republic', 'Germany', 'Democratic Republic of the Congo', 'Denmark', 'Dominican Republic', 'Algeria', 'Ecuador', 'Egypt', 'Western Sahara', 'Eritrea', 'Spain', 'Ethiopia', 'Finland', 'Fiji', 'Falkland Islands', 'Micronesia', 'Faroe Islands', 'France', 'Gabon', 'United Kingdom', 'Georgia', 'Guernsey', 'Ghana', 'Gibraltar', 'Guinea', 'Guadeloupe', 'Gambia', 'Guinea-Bissau', 'Equatorial Guinea', 'Greece', 'Greenland', 'Guatemala', 'French Guiana', 'Guyana', 'Honduras', 'Hong Kong', 'Heard Island and McDonald Islands', 'Croatia', 'Haiti', 'Hungary', 'Indonesia', 'India', 'British Indian Ocean Territory', 'Ireland', 'Iran', 'Iraq', 'Iceland', 'Israel', 'Italy', 'Jamaica', 'Japan', 'Kenya', 'Kyrgyzstan', 'Cambodia', 'Kiribati', 'Comoros', 'Saint Kitts and Nevis', 'South Korea', 'Kuwait', 'Laos', 'Lebanon', 'Lesotho', 'Liberia', 'Libya', 'Lie", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_21", "experiment_type": "oracle", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_21", "experiment_type": "oracle", "sample_id": 1, "response": "output\ntrue", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_21", "experiment_type": "oracle", "sample_id": 2, "response": "output\n```output\n\"bbox\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_21", "experiment_type": "oracle", "sample_id": 3, "response": "output\n```output\n'bbox'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_21", "experiment_type": "oracle", "sample_id": 4, "response": "output\n```output\n\"bbox\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_22", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n['xmin', 'ymin', 'xmax', 'ymax']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_22", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n['xmin', 'ymin', 'xmax', 'ymax']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_22", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n['xmin', 'ymin', 'xmax', 'ymax']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_22", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n['xmin', 'ymin', 'xmax', 'ymax']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_22", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n['xmin', 'ymin', 'xmax', 'ymax']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_23", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'xmin': 0.0, 'ymin': 0.0, 'xmax': 1.0, 'ymax': 1.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_23", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'xmin': 0.0, 'ymin': 0.0, 'xmax': 1.0, 'ymax': 1.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_23", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[0.0, 0.0, 4.0, 5.0]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_23", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'xmin': 0.0, 'ymin': 0.0, 'xmax': 1.0, 'ymax': 1.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_23", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'xmin': 0.0, 'ymin': 0.0, 'xmax': 1.0, 'ymax': 1.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_16", "experiment_type": "oracle", "sample_id": 0, "response": "code_version", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_16", "experiment_type": "oracle", "sample_id": 1, "response": "output\nschema_version", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_16", "experiment_type": "oracle", "sample_id": 2, "response": "code_version", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_16", "experiment_type": "oracle", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_16", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nschema_version\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_17", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'MultiPolygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_17", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'Polygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_17", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nPolygon\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_17", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nPolygon\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_17", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'MultiPolygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_18", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'EPSG:3857'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_18", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_18", "experiment_type": "oracle", "sample_id": 2, "response": "output\n```output\n'PROJCS[\"WGS 84 / Pseudo-Mercator\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Mercator_2SP\"],PARAMETER[\"standard_parallel_1\",0],PARAMETER[\"central_meridian\",0],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"X\",EAST],AXIS[\"Y\",NORTH],EXTENSION[\"PROJ4\",\"+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs\"],AUTHORITY[\"EPSG\",\"3857\"]]'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_18", "experiment_type": "oracle", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_18", "experiment_type": "oracle", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_19", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ncrs_expected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_19", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ncrs_expected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_19", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ncrs_expected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_19", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ncrs_expected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_19", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ncrs_expected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_634", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'MultiLineString'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_634", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'MultiLineString'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_634", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'MultiLineString'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_634", "experiment_type": "oracle", "sample_id": 3, "response": "output\nLineString", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_634", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'MultiLineString'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_635", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'MultiPoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_635", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'MultiPoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_635", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'MultiPoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_635", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'MultiPoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_635", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'MultiPoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_631", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n11\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_631", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_631", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n14\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_631", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_631", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_632", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_632", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_632", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_632", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_632", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_633", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_633", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_633", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_633", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nlen(buffered_series)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_633", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_630", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'MultiPolygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_630", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'MultiPolygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_630", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'MultiPolygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_630", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'MultiPolygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_630", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'MultiPolygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_159", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'display_precision', 'use_pygeos', 'io_engine'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_159", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'display_precision', 'use_pygeos', 'io_engine'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_159", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'display_precision', 'use_pygeos', 'io_engine'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_159", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'display_precision', 'use_pygeos', 'io_engine'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_159", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'display_precision', 'use_pygeos', 'io_engine'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_160", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_160", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_160", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_160", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_160", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_161", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'fiona'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_161", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'fiona'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_161", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfiona\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_161", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfiona\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_161", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'fiona'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_326", "experiment_type": "oracle", "sample_id": 0, "response": "output\n```output\nThis is the 3.1415 method.\n\n        It computes the cumulative 2.718.\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_326", "experiment_type": "oracle", "sample_id": 1, "response": "output\n```output\n'\\n        This is the 3.1415 method.\\n\\n        It computes the cumulative 2.718.\\n        '\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_326", "experiment_type": "oracle", "sample_id": 2, "response": "output\n```output\ndocstr\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_326", "experiment_type": "oracle", "sample_id": 3, "response": "output\n```output\n'This is the 3.1415 method.\\n\\nIt computes the cumulative 2.718.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_326", "experiment_type": "oracle", "sample_id": 4, "response": "output\n```output\ndocstr\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_325", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ndocstr\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_325", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_325", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_325", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'        This is the massive_cumavg method.\\n\\n        It computes the cumulative super average.\\n\\n        Examples\\n        --------\\n\\n        >>> cumavg([1000000, -5000000, 1e10])\\n        3333333333.6666665\\n        '\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_325", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ndocstr\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_324", "experiment_type": "oracle", "sample_id": 0, "response": "output\nThis is the  method.\n\nIt computes the cumulative .", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_324", "experiment_type": "oracle", "sample_id": 1, "response": "output\n```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_324", "experiment_type": "oracle", "sample_id": 2, "response": "output\n```output\nThis is the  method.\n\nIt computes the cumulative .\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_324", "experiment_type": "oracle", "sample_id": 3, "response": "output\n```output\nThis is the  method.\n\nIt computes the cumulative .\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_324", "experiment_type": "oracle", "sample_id": 4, "response": "output\nThis is the  method.\n\nIt computes the cumulative .", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_327", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_327", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'\\n        This is the None method.\\n\\n        It computes the cumulative None.\\n        '\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_327", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'This is the None method.\\n\\nIt computes the cumulative None.'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_327", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'docstr'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_327", "experiment_type": "oracle", "sample_id": 4, "response": "output\n```output\n'\\n        This is the None method.\\n\\n        It computes the cumulative None.\\n        '\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_377", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_377", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_377", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_377", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_377", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nlen(locations)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_371", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_371", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_371", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_371", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_371", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_372", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_372", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_372", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_372", "experiment_type": "oracle", "sample_id": 3, "response": "```output\npytest.approx(0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_372", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_373", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_373", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_373", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_373", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_373", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_374", "experiment_type": "oracle", "sample_id": 0, "response": "```output\npytest.approx(179.9999)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_374", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n179.9999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_374", "experiment_type": "oracle", "sample_id": 2, "response": "```output\npytest.approx(test[1])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_374", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n179.9999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_374", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n179.9999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_375", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n-85.05112878\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_375", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n-85.05112878\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_375", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n-85.05112878\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_375", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n-85.05112878\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_375", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n-85.05112878\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_376", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'address_huge'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_376", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'address_huge'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_376", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'address_huge'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_376", "experiment_type": "oracle", "sample_id": 3, "response": "```output\naddress_huge\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_376", "experiment_type": "oracle", "sample_id": 4, "response": "```output\naddress_huge\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_378", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nlen(points)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_378", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nlen(points)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_378", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nlen(points)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_378", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nlen(points)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_378", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nlen(points)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_98", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict([('int32_column', 'int32')])}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_98", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict([(\"int32_column\", \"int32\")])}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_98", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'geometry': 'Point', 'properties': OrderedDict([('int32_column', 'int32')])}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_98", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict([(\"int32_column\", \"int32\")])}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_98", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict([(\"int32_column\", \"int32\")])}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_99", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'geometry': 'Point', 'properties': OrderedDict([('int64_column', 'int')])}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_99", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'geometry': 'Point', 'properties': OrderedDict([('int64_column', 'int')])}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_99", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'geometry': 'Point', 'properties': OrderedDict([('int64_column', 'int')])}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_99", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'geometry': 'Point', 'properties': OrderedDict([('int64_column', 'int')])}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_99", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'geometry': 'Point', 'properties': OrderedDict([('int64_column', 'int')])}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_82", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": [\"MultiLineString\", \"LineString\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_82", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": [\"MultiLineString\", \"LineString\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_82", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'geometry': ['MultiLineString', 'LineString'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_82", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'geometry': ['MultiLineString', 'LineString'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_82", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'geometry': ['MultiLineString', 'LineString'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_89", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": [\"3D Point\", \"Point\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_89", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": [\"3D Point\", \"Point\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_89", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": [\"3D Point\", \"Point\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_89", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": [\"3D Point\", \"Point\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_89", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'geometry': ['3D Point', 'Point'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_93", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'geometry': ['3D Polygon', 'Polygon'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_93", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": [\"3D Polygon\", \"Polygon\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_93", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": [\"3D Polygon\", \"Polygon\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_93", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": [\"3D Polygon\", \"Polygon\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_93", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": [\"3D Polygon\", \"Polygon\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_91", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": [\"3D LineString\", \"LineString\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_91", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": [\"3D LineString\", \"LineString\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_91", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'geometry': ['3D LineString', 'LineString'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_91", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'geometry': ['3D LineString', 'LineString'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_91", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": [\"3D LineString\", \"LineString\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_88", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'geometry': ['MultiPolygon', 'Polygon', 'MultiLineString', 'LineString', 'MultiPoint', 'Point', '3D Point', '3D LineString'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_88", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'geometry': ['MultiPolygon', 'Polygon', 'MultiLineString', 'LineString', 'MultiPoint', 'Point', '3D Point', '3D LineString'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_88", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\n    \"geometry\": [\n        \"3D Point\",\n        \"MultiPolygon\",\n        \"Polygon\",\n        \"MultiLineString\",\n        \"LineString\",\n        \"MultiPoint\",\n        \"Point\"\n    ],\n    \"properties\": OrderedDict()\n}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_88", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'geometry': ['MultiPolygon', 'Polygon', 'MultiLineString', 'LineString', '3D Point', 'Point', '3D LineString'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_88", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\n    \"geometry\": [\n        \"3D Point\",\n        \"MultiPolygon\",\n        \"Polygon\",\n        \"MultiLineString\",\n        \"LineString\",\n        \"MultiPoint\",\n        \"Point\"\n    ],\n    \"properties\": OrderedDict()\n}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_87", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'geometry': ['MultiPolygon', 'Polygon', 'MultiLineString', 'LineString', 'MultiPoint', 'Point'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_87", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'geometry': ['MultiPolygon', 'Polygon', 'MultiLineString', 'LineString', 'MultiPoint', 'Point'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_87", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'geometry': ['MultiPolygon', 'Polygon', 'MultiLineString', 'LineString', 'MultiPoint', 'Point'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_87", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\n    \"geometry\": [\n        \"MultiPolygon\",\n        \"Polygon\",\n        \"MultiLineString\",\n        \"LineString\",\n        \"MultiPoint\",\n        \"Point\"\n    ],\n    \"properties\": OrderedDict()\n}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_87", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'geometry': ['MultiPolygon', 'Polygon', 'MultiLineString', 'LineString', 'MultiPoint', 'Point'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_97", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"Unknown\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_97", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": \"Unknown\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_97", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": \"Unknown\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_97", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"Unknown\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_97", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"Unknown\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_95", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_95", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_95", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_95", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_95", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_96", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"3D Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_96", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'geometry': '3D Point', 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_96", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": \"3D Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_96", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"3D Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_96", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"3D Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_90", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"3D Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_90", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": \"3D Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_90", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": \"3D Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_90", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"3D Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_90", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"3D Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_94", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"3D Polygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_94", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": \"3D Polygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_94", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": \"3D Polygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_94", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"3D Polygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_94", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"3D Polygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_92", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"3D LineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_92", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": \"3D LineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_92", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'geometry': '3D LineString', 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_92", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"3D LineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_92", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"3D LineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_81", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"LineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_81", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'geometry': 'LineString', 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_81", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'geometry': 'LineString', 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_81", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"LineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_81", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"LineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_83", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"MultiLineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_83", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": \"MultiLineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_83", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": \"MultiLineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_83", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"MultiLineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_83", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"MultiLineString\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_80", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"MultiPoint\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_80", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'geometry': 'MultiPoint', 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_80", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": \"MultiPoint\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_80", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"MultiPoint\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_80", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"MultiPoint\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_86", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"MultiPolygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_86", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": \"MultiPolygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_86", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": \"MultiPolygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_86", "experiment_type": "oracle", "sample_id": 3, "response": "pandas.testing.assert_dict_equal(infer_schema(df), {\"geometry\": \"MultiPolygon\", \"properties\": OrderedDict()})", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_86", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"MultiPolygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_78", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_78", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_78", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_78", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_78", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"Point\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_84", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": \"Polygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_84", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": \"Polygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_84", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": \"Polygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_84", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": \"Polygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_84", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": \"Polygon\", \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_79", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'geometry': ['MultiPoint', 'Point'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_79", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": [\"MultiPoint\", \"Point\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_79", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": [\"MultiPoint\", \"Point\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_79", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'geometry': ['MultiPoint', 'Point'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_79", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{\"geometry\": [\"MultiPoint\", \"Point\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_85", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{\"geometry\": [\"MultiPolygon\", \"Polygon\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_85", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{\"geometry\": [\"MultiPolygon\", \"Polygon\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_85", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{\"geometry\": [\"MultiPolygon\", \"Polygon\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_85", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{\"geometry\": [\"MultiPolygon\", \"Polygon\"], \"properties\": OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_85", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n{'geometry': ['MultiPolygon', 'Polygon'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_519", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_519", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_519", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_519", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_519", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_520", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(3, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_520", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(3, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_520", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(6,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_520", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(6, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_520", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_521", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(3, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_521", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(3, 8)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_521", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(3, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_521", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(3, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_521", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(3, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_523", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nPOINT (0 1000)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_523", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nPoint(-1000, 0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_523", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nPoint(-1000, 0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_523", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nPOINT (0 0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_523", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nPOINT (10000000000.0 1000)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_522", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ngeometry\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_522", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ngeometry\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_522", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ngeometry\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_522", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ngeometry\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_522", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ngeometry\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_641", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_641", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_641", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_641", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_641", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_642", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_642", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_642", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_642", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_642", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}

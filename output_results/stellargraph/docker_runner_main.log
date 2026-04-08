@@ -1,0 +1,69 @@
+08/11/2025 15:15:22 - INFO - __main__ - --- Processing repository: stellargraph ---
+08/11/2025 15:15:22 - INFO - __main__ - No existing container found. Creating new container 'agent-run-stellargraph'...
+08/11/2025 15:15:23 - INFO - __main__ - Copying 'python_repos\stellargraph' to new container 'agent-run-stellargraph:/app/repo_to_process'...
+08/11/2025 15:15:27 - INFO - __main__ - Executing agent inside the container...
+08/11/2025 15:15:28 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:28 - INFO - __main__ - --- Starting Agent inside Container ---
+08/11/2025 15:15:28 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:28 - INFO - __main__ - Repository Name: stellargraph
+08/11/2025 15:15:28 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:28 - INFO - __main__ - Repository: /app/repo_to_process
+08/11/2025 15:15:28 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:28 - INFO - __main__ - Language: Python
+08/11/2025 15:15:28 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:28 - INFO - __main__ - Model: gpt-4.1
+08/11/2025 15:15:28 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:28 - INFO - __main__ - Max Iterations: 15
+08/11/2025 15:15:28 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:28 - INFO - __main__ - Command Timeouts (Default/Pytest): 600s / 3600s
+08/11/2025 15:15:30 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:30 - INFO - __main__ - === Starting Iteration 1/15 [Phase: SETUP] ===
+08/11/2025 15:15:30 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:30 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 15:15:30 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:30 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 15:15:37 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:37 - INFO - __main__ - Executing 3 command(s)...
+08/11/2025 15:15:37 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:37 - INFO - __main__ - Executing command in '/app/repo_to_process': pip install -r requirements.txt
+08/11/2025 15:15:38 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:38 - INFO - __main__ - Executing command in '/app/repo_to_process': pip install -e .
+08/11/2025 15:15:38 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:38 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 15:15:38 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:38 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 15:15:42 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:42 - WARNING - __main__ - Phase 1 (SETUP) not yet complete. Pytest reported collection errors or did not run successfully.
+08/11/2025 15:15:42 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:42 - INFO - __main__ - === Starting Iteration 2/15 [Phase: SETUP] ===
+08/11/2025 15:15:42 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:42 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 15:15:42 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:42 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 15:15:48 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:48 - INFO - __main__ - Executing 2 command(s)...
+08/11/2025 15:15:48 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:48 - INFO - __main__ - Executing command in '/app/repo_to_process': pip install networkx scipy
+08/11/2025 15:15:59 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:59 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 15:15:59 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:15:59 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 15:16:01 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:16:01 - WARNING - __main__ - Phase 1 (SETUP) not yet complete. Pytest reported collection errors or did not run successfully.
+08/11/2025 15:16:01 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:16:01 - INFO - __main__ - === Starting Iteration 3/15 [Phase: SETUP] ===
+08/11/2025 15:16:01 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:16:01 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 15:16:01 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:16:01 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 15:16:04 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:16:04 - INFO - __main__ - Executing 2 command(s)...
+08/11/2025 15:16:04 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:16:04 - INFO - __main__ - Executing command in '/app/repo_to_process': pip install matplotlib tensorflow
+08/11/2025 15:18:41 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:18:41 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 15:18:41 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:18:41 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 15:18:47 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:18:47 - WARNING - __main__ - Phase 1 (SETUP) not yet complete. Pytest reported collection errors or did not run successfully.
+08/11/2025 15:18:47 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:18:47 - INFO - __main__ - === Starting Iteration 4/15 [Phase: SETUP] ===
+08/11/2025 15:18:47 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:18:47 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 15:18:47 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:18:47 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 15:18:54 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:18:54 - INFO - __main__ - Executing 2 command(s)...
+08/11/2025 15:18:54 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:18:54 - INFO - __main__ - Executing command in '/app/repo_to_process': pip install scikit-learn
+08/11/2025 15:18:59 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:18:59 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 15:18:59 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:18:59 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 15:22:03 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:22:03 - INFO - __main__ - ✅ Phase 1 (SETUP) complete: `pytest` is now executable without collection errors.
+08/11/2025 15:22:04 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:22:04 - INFO - __main__ - === Starting Iteration 5/15 [Phase: TRACING] ===
+08/11/2025 15:22:04 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:22:04 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 15:22:04 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:22:04 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 15:22:11 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:22:11 - INFO - __main__ - Found file block: conftest.py
+08/11/2025 15:22:11 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:22:11 - INFO - __main__ - Model provided a shorthand for conftest.py. Expanding to full content.
+08/11/2025 15:22:11 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:22:11 - INFO - __main__ - Created file: /app/repo_to_process/conftest.py
+08/11/2025 15:22:11 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:22:11 - INFO - __main__ - Executing 1 command(s)...
+08/11/2025 15:22:11 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:22:11 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 15:22:11 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:22:11 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 15:29:47 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:29:47 - INFO - __main__ - === Starting Iteration 6/15 [Phase: TRACING] ===
+08/11/2025 15:29:47 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:29:47 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 15:29:47 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:29:47 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 15:29:51 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:29:51 - INFO - __main__ - 🎉 Model reported final success. Terminating.
+08/11/2025 15:29:51 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:29:51 - INFO - __main__ - 🏁 Pipeline finished for repo_to_process with status: success
+08/11/2025 15:29:51 - INFO - __main__ - [AGENT-LOG] 08/11/2025 07:29:51 - INFO - __main__ - ✅ Agent completed successfully.
+08/11/2025 15:29:51 - INFO - __main__ - Agent finished with exit code: 0
+08/11/2025 15:29:51 - INFO - __main__ - Copying all generated files from container 'agent-run-stellargraph:/app/new_test_detection_logs/stellargraph'...
+08/11/2025 15:29:51 - INFO - __main__ - Successfully copied agent-generated files to 'output_results\stellargraph'.
+08/11/2025 15:29:51 - INFO - __main__ - Copying pytest reports from container repo root 'agent-run-stellargraph:/app/repo_to_process'...
+08/11/2025 15:29:51 - INFO - __main__ - Successfully copied 'report_files.jsonl' to 'output_results\stellargraph'.
+08/11/2025 15:29:51 - INFO - __main__ - Successfully copied 'report_functions.jsonl' to 'output_results\stellargraph'.
+08/11/2025 15:29:51 - INFO - __main__ - Agent completed successfully and all required files were generated. Container will be preserved for reuse.
+08/11/2025 15:29:51 - INFO - __main__ - Stopping container 'agent-run-stellargraph' to conserve resources. It will be reused later.
+08/11/2025 15:30:02 - INFO - __main__ - --- Finished processing repository: stellargraph ---
+

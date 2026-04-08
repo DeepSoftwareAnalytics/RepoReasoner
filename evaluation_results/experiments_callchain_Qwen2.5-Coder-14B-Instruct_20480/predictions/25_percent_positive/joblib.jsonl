@@ -1,0 +1,8 @@
+{"task_id": "joblib_1", "test_file": "joblib/test/test_backports.py", "sample_id": 0, "ratio": 0.25, "response": ".\n:", "finish_reason": "stop"}
+{"task_id": "joblib_2", "test_file": "joblib/test/test_cloudpickle_wrapper.py", "sample_id": 0, "ratio": 0.25, "response": "```json\n[\n    \"joblib/_cloudpickle_wrapper.py\"\n]\n```", "finish_reason": "stop"}
+{"task_id": "joblib_3", "test_file": "joblib/test/test_config.py", "sample_id": 0, "ratio": 0.25, "response": "chain.\n```", "finish_reason": "stop"}
+{"task_id": "joblib_16", "test_file": "joblib/test/test_disk.py", "sample_id": 0, "ratio": 0.25, "response": "n/a", "finish_reason": "stop"}
+{"task_id": "joblib_17", "test_file": "joblib/test/test_func_inspect.py", "sample_id": 0, "ratio": 0.25, "response": "'s call chain.", "finish_reason": "stop"}
+{"task_id": "joblib_38", "test_file": "joblib/test/test_hashing.py", "sample_id": 0, "ratio": 0.25, "response": "chain for the given test file.\n\n:markdown", "finish_reason": "stop"}
+{"task_id": "joblib_198", "test_file": "joblib/test/test_parallel.py", "sample_id": 0, "ratio": 0.25, "response": ".\n\n```", "finish_reason": "stop"}
+{"task_id": "joblib_211", "test_file": "joblib/test/test_utils.py", "sample_id": 0, "ratio": 0.25, "response": "n/a", "finish_reason": "stop"}

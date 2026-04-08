@@ -1,0 +1,25 @@
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{-3.5*x: 4.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{-3.5*x: 4.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{-3.5: 4*x}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{-3.5*x: 4.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{-3.5: 4*x}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{x: 0.0, y: -4.0, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{x: 0.0, y: -4.0, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{x: 0.0, y: -4.0, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{x: 0.0, y: -4.0, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{x: 0.0, y: -4.0, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 0, "response": "output\n```python\n{x: 0, y: (-8), z: 11.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 1, "response": "output\n```python\n{x: 0, y: (-8), z: 11.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 2, "response": "output\n```python\n{x: 0, y: (-8), z: 11.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 3, "response": "output\n```python\n{x: 0, y: (-8), z: 11.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 4, "response": "output\n```python\n{x: 0, y: (-8), z: 11.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 0, "response": "other operations indicate the result should be in the form of a dictionary mapping variables to coefficients. Based on the pattern, the expected result for `lpDot([(x + y), (y + z), z], a)` would be `{x: 0, y: 1.0, z: 5.5}`.\n\n```output\n{x: 0, y: 1.0, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{x: 0, y: 1, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{x: 0, y: 1.0, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{x: 0, y: 1, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{x: 0, y: 1.0, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{x: 0.0, y: -4.0, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{x: 0.0, y: -4.0, z: 11.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{x: 0.0, y: -4.0, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{x: 0.0, y: -4.0, z: 5.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{x: 0, y: -4, z: 5.5}\n```", "finish_reason": "stop", "usage": null}

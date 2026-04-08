@@ -1,0 +1,330 @@
+{"task_id": "seaborn_2", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(n_boot, x.shape[1])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_2", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(n_boot, x.shape[1])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_2", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(n_boot, x.shape[1])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_2", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(n_boot, x.shape[1])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_2", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(n_boot, x.shape[1])\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_0", "experiment_type": "retrieval", "sample_id": 0, "response": "n_boot", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_0", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_0", "experiment_type": "retrieval", "sample_id": 2, "response": "n_boot", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_0", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_0", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_3", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(n_boot, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_3", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(n_boot, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_3", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_3", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_3", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_4", "experiment_type": "retrieval", "sample_id": 0, "response": "u'???'", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_4", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(n_boot, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_4", "experiment_type": "retrieval", "sample_id": 2, "response": "# Output format\n\n```output\nanswer_of_placeholder\n```\n\n# Example\nHere is an example of a perfect interaction.\n\n## Related files are as follow:\n### file: config.py\n```python\nDEFAULT_TIMEOUT = 50\n```\n\n### file: get_timeout.py\n```python\nfrom config import DEFAULT_TIMEOUT\ndef get_timeout():\n    return DEFAULT_TIMEOUT\n```\n\n## Test function is as follows:\n### test\n```python\ndef test_timeout():\n    from get_timeout import get_timeout\n    assert get_timeout() == '???'\n```\n\n### Your Correct Output:```output\n50\n```\n\n\n```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_4", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(500, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_4", "experiment_type": "retrieval", "sample_id": 4, "response": "n_boot, 5", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1280", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(0.5, 0.5, 0.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1280", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(0.5, 0.5, 0.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1280", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(0.5, 0.5, 0.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1280", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(0.5, 0.5, 0.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1280", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(0.5, 0.5, 0.5, 0.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1309", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n('C1', 0.5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1309", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n('C1', 0.5, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1309", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n('C1', 0.5, 1.0, 1.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1309", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n('C1', 0.5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1309", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n('C1', 0.5, 1.0, 1.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1304", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1304", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1304", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1304", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1304", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1306", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1306", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1306", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1306", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1306", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1311", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'magenta'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1311", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n('C0', 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1311", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n('C0', 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1311", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n('C0', 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1311", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n('C0', 1.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1312", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'map(map(green, 0.2)'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1312", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1312", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nmpl.colors.to_rgba(c, fa)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1312", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'green'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1312", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'mpl.colors.to_rgba(c, fa)'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1308", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1308", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1308", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1308", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1308", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1305", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1305", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1305", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1305", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'mpl.rcParams[\"lines.linewidth\"]'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1305", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1298", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'<0.5>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1298", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'<0.5>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1298", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1298", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1298", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'<0.5>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1299", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'<CO>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1299", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'<CO>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1299", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'<CO>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1299", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'<CO>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1299", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'<CO>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1300", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1300", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n\"<rc:lines.linewidth>\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1300", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'<rc:lines.linewidth>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1300", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'<rc:lines.linewidth>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1300", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1301", "experiment_type": "retrieval", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1301", "experiment_type": "retrieval", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1301", "experiment_type": "retrieval", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1301", "experiment_type": "retrieval", "sample_id": 3, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1301", "experiment_type": "retrieval", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1302", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1302", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1302", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1302", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1302", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'<auto>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1303", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1303", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1303", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1303", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1303", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1345", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1345", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1345", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1345", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1345", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1359", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1359", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1359", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1359", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1359", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1355", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n100.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1355", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n100.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1355", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n100.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1355", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1355", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1356", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1356", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1356", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1356", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1356", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1357", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1357", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1357", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n100.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1357", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1357", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1351", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1351", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1351", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1351", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1351", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1354", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1354", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nlong_df.shape[0]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1354", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1354", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nlong_df.shape[0]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1354", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n43\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1347", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(x.min(), x.max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1347", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(x.min(), x.max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1347", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(x.min(), x.max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1347", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(None, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1347", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(x.min(), x.max())\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1348", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nint(round((x.max() - x.min()) / 1))\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1348", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nx.max() - x.min() + 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1348", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nint(x.max() - x.min() + 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1348", "experiment_type": "retrieval", "sample_id": 3, "response": "n", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1348", "experiment_type": "retrieval", "sample_id": 4, "response": "n_bins", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1349", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1349", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(0, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1349", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(0, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1349", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(0, 5)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1349", "experiment_type": "retrieval", "sample_id": 4, "response": "u'auto'", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1350", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'auto'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1350", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nx.max() - x.min() + 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1350", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nx.unique()\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1350", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'auto'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1350", "experiment_type": "retrieval", "sample_id": 4, "response": "nunique", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1353", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1353", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1353", "experiment_type": "retrieval", "sample_id": 2, "response": "n", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1353", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1353", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nlen(long_df)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1343", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(None, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1343", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(None, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1343", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(None, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1343", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(0.0, 10.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1343", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(None, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1344", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n24\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1344", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n24\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1344", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n24\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1344", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n24\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1344", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n24\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1352", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1352", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1352", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n100\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1352", "experiment_type": "retrieval", "sample_id": 3, "response": "pandas.testing.assert_frame_equal(out, expected)", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1352", "experiment_type": "retrieval", "sample_id": 4, "response": "code\n```output\n100.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1341", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(0.0, 99.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1341", "experiment_type": "retrieval", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1341", "experiment_type": "retrieval", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1341", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1341", "experiment_type": "retrieval", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1342", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'sqrt'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1342", "experiment_type": "retrieval", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1342", "experiment_type": "retrieval", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1342", "experiment_type": "retrieval", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1342", "experiment_type": "retrieval", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_628", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'value_a'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_628", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nvalue_of_param_a\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_628", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nvalue_a\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_628", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nparam_a_value\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_628", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nvalue_a\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_630", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'int'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_630", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nint\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_630", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nint\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_630", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nint\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_630", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'int'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_631", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_631", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'???'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_631", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'int'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_631", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'arg1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_631", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'a'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_629", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'value_a'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_629", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_629", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'a'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_629", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'param_a'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_629", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'param_a_value'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_999", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['a', 'c', 'b']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_999", "experiment_type": "retrieval", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_999", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n('a', 'c', 'b')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_999", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['a', 'c', 'b']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_999", "experiment_type": "retrieval", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_998", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['a', 'c', 'b']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_998", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['a', 'c', 'b']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_998", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['a', 'c', 'b']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_998", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['a', 'c', 'b']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_998", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['a', 'c', 'b']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_715", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_715", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_715", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_715", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_715", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(4, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_716", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(5, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_716", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(5, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_716", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(5, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_716", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(5, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_716", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(5, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_717", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(3, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_717", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(6, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_717", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(3, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_717", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(6, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_717", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(6, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1368", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['x', 'y']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1368", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['x', 'y']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1368", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['x', 'y']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1368", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['x', 'y']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1368", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['group', 'x', 'y']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1156", "experiment_type": "retrieval", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1156", "experiment_type": "retrieval", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1156", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1156", "experiment_type": "retrieval", "sample_id": 3, "response": "u'numeric'", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1156", "experiment_type": "retrieval", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1157", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1157", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1157", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1157", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1157", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1158", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1158", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1158", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1158", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1158", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1159", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1159", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1159", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1159", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1159", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1160", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1160", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1160", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1160", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1160", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1161", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1161", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1161", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1161", "experiment_type": "retrieval", "sample_id": 3, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1161", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1162", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1162", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1162", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1162", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1162", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1163", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1163", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1163", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1163", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1163", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nnumeric\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1164", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1164", "experiment_type": "retrieval", "sample_id": 1, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1164", "experiment_type": "retrieval", "sample_id": 2, "response": "# Output format\n\n```output\nstring\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1164", "experiment_type": "retrieval", "sample_id": 3, "response": "n", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1164", "experiment_type": "retrieval", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1165", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1165", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1165", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1165", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1165", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1166", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1166", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1166", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1166", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1166", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1167", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1167", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1167", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1167", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1167", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1168", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ntimedelta\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1168", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ntimedelta\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1168", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ntimedelta64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1168", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ntimedelta\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1168", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ntimedelta64[ns]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1169", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1169", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1169", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1169", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'categorical'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1169", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ncategorical\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1170", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1170", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1170", "experiment_type": "retrieval", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1170", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1170", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1171", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1171", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1171", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1171", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1171", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1172", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1172", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1172", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1172", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1172", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1173", "experiment_type": "retrieval", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1173", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1173", "experiment_type": "retrieval", "sample_id": 2, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1173", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1173", "experiment_type": "retrieval", "sample_id": 4, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1174", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1174", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1174", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'boolean'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1174", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'numeric'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1174", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nboolean\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1175", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1175", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1175", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1175", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "seaborn_1175", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ndatetime\n```", "finish_reason": "stop", "usage": null}

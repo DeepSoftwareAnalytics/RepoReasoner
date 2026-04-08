@@ -1,0 +1,45 @@
+08/11/2025 11:04:10 - INFO - __main__ - --- Processing repository: pulp ---
+08/11/2025 11:04:10 - INFO - __main__ - No existing container found. Creating new container 'agent-run-pulp'...
+08/11/2025 11:04:10 - INFO - __main__ - Copying 'python_repos\pulp' to new container 'agent-run-pulp:/app/repo_to_process'...
+08/11/2025 11:04:14 - INFO - __main__ - Executing agent inside the container...
+08/11/2025 11:04:15 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:15 - INFO - __main__ - --- Starting Agent inside Container ---
+08/11/2025 11:04:15 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:15 - INFO - __main__ - Repository Name: pulp
+08/11/2025 11:04:15 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:15 - INFO - __main__ - Repository: /app/repo_to_process
+08/11/2025 11:04:15 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:15 - INFO - __main__ - Language: Python
+08/11/2025 11:04:15 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:15 - INFO - __main__ - Model: gpt-4.1
+08/11/2025 11:04:15 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:15 - INFO - __main__ - Max Iterations: 15
+08/11/2025 11:04:15 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:15 - INFO - __main__ - Command Timeouts (Default/Pytest): 600s / 3600s
+08/11/2025 11:04:18 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:18 - INFO - __main__ - === Starting Iteration 1/15 [Phase: SETUP] ===
+08/11/2025 11:04:18 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:18 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 11:04:18 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:18 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 11:04:21 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:21 - INFO - __main__ - Executing 3 command(s)...
+08/11/2025 11:04:21 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:21 - INFO - __main__ - Executing command in '/app/repo_to_process': cat pyproject.toml
+08/11/2025 11:04:21 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:21 - INFO - __main__ - Executing command in '/app/repo_to_process': pip install .
+08/11/2025 11:04:25 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:25 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 11:04:25 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:04:25 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 11:05:03 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:05:03 - INFO - __main__ - ✅ Phase 1 (SETUP) complete: `pytest` is now executable without collection errors.
+08/11/2025 11:05:03 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:05:03 - INFO - __main__ - === Starting Iteration 2/15 [Phase: TRACING] ===
+08/11/2025 11:05:03 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:05:03 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 11:05:03 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:05:03 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 11:05:09 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:05:09 - INFO - __main__ - Found file block: conftest.py
+08/11/2025 11:05:09 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:05:09 - INFO - __main__ - Model provided a shorthand for conftest.py. Expanding to full content.
+08/11/2025 11:05:09 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:05:09 - INFO - __main__ - Created file: /app/repo_to_process/conftest.py
+08/11/2025 11:05:09 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:05:09 - INFO - __main__ - Executing 1 command(s)...
+08/11/2025 11:05:09 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:05:09 - INFO - __main__ - Using PYTEST timeout (3600s) for command: pytest
+08/11/2025 11:05:09 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:05:09 - INFO - __main__ - Executing command in '/app/repo_to_process': pytest
+08/11/2025 11:07:03 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:03 - INFO - __main__ - === Starting Iteration 3/15 [Phase: TRACING] ===
+08/11/2025 11:07:03 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:03 - INFO - __main__ - Using key: sk-9KuY6Wmpjx3hB0CgZ8MXkV5BhGsnrrecz7GWA2YkNGe6HCbm
+08/11/2025 11:07:03 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:03 - INFO - __main__ - Using base url: https://api.gptoai.top
+08/11/2025 11:07:06 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:06 - INFO - __main__ - 🎉 Model reported final success. Terminating.
+08/11/2025 11:07:06 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:06 - INFO - __main__ - 🏁 Pipeline finished for repo_to_process with status: success
+08/11/2025 11:07:06 - INFO - __main__ - [AGENT-LOG] 08/11/2025 03:07:06 - INFO - __main__ - ✅ Agent completed successfully.
+08/11/2025 11:07:06 - INFO - __main__ - Agent finished with exit code: 0
+08/11/2025 11:07:06 - INFO - __main__ - Copying all generated files from container 'agent-run-pulp:/app/new_test_detection_logs/pulp'...
+08/11/2025 11:07:06 - INFO - __main__ - Successfully copied agent-generated files to 'output_results\pulp'.
+08/11/2025 11:07:06 - INFO - __main__ - Copying pytest reports from container repo root 'agent-run-pulp:/app/repo_to_process'...
+08/11/2025 11:07:06 - INFO - __main__ - Successfully copied 'report_files.jsonl' to 'output_results\pulp'.
+08/11/2025 11:07:06 - INFO - __main__ - Successfully copied 'report_functions.jsonl' to 'output_results\pulp'.
+08/11/2025 11:07:06 - INFO - __main__ - Agent completed successfully and all required files were generated. Container will be preserved for reuse.
+08/11/2025 11:07:06 - INFO - __main__ - Stopping container 'agent-run-pulp' to conserve resources. It will be reused later.
+08/11/2025 11:07:17 - INFO - __main__ - --- Finished processing repository: pulp ---
+

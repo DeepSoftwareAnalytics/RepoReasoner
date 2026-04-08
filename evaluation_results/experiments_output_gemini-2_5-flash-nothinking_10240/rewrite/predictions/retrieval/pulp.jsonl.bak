@@ -1,0 +1,25 @@
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 0, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 1, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 2, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 3, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_0", "experiment_type": "retrieval", "sample_id": 4, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 0, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 1, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 2, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 3, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_1", "experiment_type": "retrieval", "sample_id": 4, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 0, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 1, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 2, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 3, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_2", "experiment_type": "retrieval", "sample_id": 4, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 0, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 1, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 2, "response": "ERROR: RateLimitError - Error code: 429 - {'error': {'message': '当前分组 default 上游模型 gemini-2.5-flash-nothinking 负载已饱和，请稍后再试 (request id: 2025090706235267885597344491731)', 'type': 'v_api_biz_error', 'param': '', 'code': 'v_api_biz_error'}}", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 3, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_3", "experiment_type": "retrieval", "sample_id": 4, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 0, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 1, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 2, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 3, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}
+{"task_id": "pulp_4", "experiment_type": "retrieval", "sample_id": 4, "response": "ERROR: APITimeoutError - Request timed out.", "finish_reason": "error", "usage": null}

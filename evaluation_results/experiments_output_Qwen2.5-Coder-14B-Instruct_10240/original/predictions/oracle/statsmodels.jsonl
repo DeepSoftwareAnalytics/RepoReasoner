@@ -1,0 +1,520 @@
+{"task_id": "statsmodels_111", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_111", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_111", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_111", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_111", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_112", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_112", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_112", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_112", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_112", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_113", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_113", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_113", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_113", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_113", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_114", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_114", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_114", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_114", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_114", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n55\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_206", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n{'smoothing_level': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_206", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n{'smoothing_level': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_206", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n{'smoothing_level': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_206", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n{'smoothing_level': 0.5}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_206", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nsmoothing_level\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_29", "experiment_type": "oracle", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_29", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nTOTEMP\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_29", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nTOTEMP\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_29", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nTOTEMP\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_29", "experiment_type": "oracle", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_30", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n['Intercept', 'GNPDEFL', 'GNP', 'UNEMP', 'ARMED', 'POP', 'YEAR']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_30", "experiment_type": "oracle", "sample_id": 1, "response": "pilot, accountant, architect, author, chemist, minister, professor, dentist, reporter, engineer, undertaker, lawyer, physician, welfare.worker, teacher, conductor, contractor, factory.owner, store.manager, banker, bookkeeper, mail.carrier, insurance.agent, store.clerk, carpenter, electrician, RR.engineer, machinist, auto.repairman, plumber, gas.stn.attendant, coal.miner, streetcar.motorman, taxi.driver, truck.driver, machine.operator, barber, bartender, shoe.shiner, cook, soda.clerk, watchman, janitor, policeman, waiter", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_30", "experiment_type": "oracle", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_30", "experiment_type": "oracle", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_30", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n['Intercept', 'GNPDEFL', 'GNP', 'UNEMP', 'ARMED', 'POP', 'YEAR']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_28", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_28", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_28", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_28", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_28", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n500\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_79", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nnobs - k_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_79", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(nobs - k_vars + k_constant)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_79", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nnobs - k_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_79", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(nobs - k_vars)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_79", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nnobs - k_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_80", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_80", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_80", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_80", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_80", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_82", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nlen(self.X) - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_82", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nlen(self.X) - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_82", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nlen(self.X) - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_82", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nlen(self.X) - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_82", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_70", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nself.prbplt.loc\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_70", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nself.prbplt.loc\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_70", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nself.prbplt.loc\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_70", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nself.prbplt.loc\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_70", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nself.prbplt.loc\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_71", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nself.prbplt.scale\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_71", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nself.prbplt.scale\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_71", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nself.prbplt.scale\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_71", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nself.prbplt.scale\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_71", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nself.prbplt.scale\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_72", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n8.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_72", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n8.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_72", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n8.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_72", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n8.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_72", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n8.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_74", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n8.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_74", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n8.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_74", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n8.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_74", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n8.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_74", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n8.5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_76", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n8.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_76", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n8.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_76", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n8.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_76", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n8.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_76", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n8.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_69", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'cyan'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_69", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'cyan'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_69", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'cyan'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_69", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'cyan'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_69", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'cyan'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_67", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'Sample 1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_67", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'Sample 1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_67", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'Sample 1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_67", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'Sample 1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_67", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'Sample 1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_68", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'Sample 2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_68", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'Sample 2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_68", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nSample 2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_68", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'Sample 2'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_68", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nSample 2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_73", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_73", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_73", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_73", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_73", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_75", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_75", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_75", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_75", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_75", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_77", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n9.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_77", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n9.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_77", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n9.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_77", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n9.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_77", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n9.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_198", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n0.3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_198", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n0.3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_198", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n0.3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_198", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n0.3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_198", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n0.3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_199", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n0.98\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_199", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n0.98\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_199", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n0.98\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_199", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n0.98\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_199", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n0.98\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_200", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n0.1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_200", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n0.1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_200", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n0.1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_200", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n0.1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_200", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n0.1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_201", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_201", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_201", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_201", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_201", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n0.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_203", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_203", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_203", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_203", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_203", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(1,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_204", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_204", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(10, repetitions)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_204", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_204", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_204", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_196", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'10'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_196", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_196", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_196", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'10'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_196", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_197", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'2000-01-01 00:00:00'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_197", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(ix + 19)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_197", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nix + 19\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_197", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'2019-05-22'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_197", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'2000-01-01 00:00:00'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_205", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n312000\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_205", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n157200\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_205", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n157200\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_205", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n157200\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_205", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n2400\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_39", "experiment_type": "oracle", "sample_id": 0, "response": "output\n'<no default value>'", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_39", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n<no default value>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_39", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n<no default value>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_39", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n<no default value>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_39", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n<no default value>\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_40", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_40", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_40", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_40", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_40", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'<no default value>'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_38", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nengine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_38", "experiment_type": "oracle", "sample_id": 1, "response": "output\nengine", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_38", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nengine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_38", "experiment_type": "oracle", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_38", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nengine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_31", "experiment_type": "oracle", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_31", "experiment_type": "oracle", "sample_id": 1, "response": "patsy", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_31", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nengine\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_31", "experiment_type": "oracle", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_31", "experiment_type": "oracle", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_32", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'formulaic'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_32", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nformulaic\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_32", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'formulaic'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_32", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'formulaic'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_32", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'formulaic'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_33", "experiment_type": "oracle", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_33", "experiment_type": "oracle", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_33", "experiment_type": "oracle", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_33", "experiment_type": "oracle", "sample_id": 3, "response": "output\npatsy", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_33", "experiment_type": "oracle", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_34", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ndegree\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_34", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nordering\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_34", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nordering\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_34", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nordering\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_34", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ndegree\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_35", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_35", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_35", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_35", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_35", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_36", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_36", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_36", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_36", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_36", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_37", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_37", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_37", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_37", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_37", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_43", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'drop'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_43", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'drop'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_43", "experiment_type": "oracle", "sample_id": 2, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_43", "experiment_type": "oracle", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_43", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'drop'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_44", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n('None', 'NaN')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_44", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n('None', 'NaN')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_44", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n('None', 'NaN')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_44", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n('None', 'NaN')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_44", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n('None', 'NaN')\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_45", "experiment_type": "oracle", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_45", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nraise\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_45", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nraise\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_45", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nraise\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_45", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nraise\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_46", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n('None',)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_46", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n('None',)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_46", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n('None',)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_46", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n('None',)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_46", "experiment_type": "oracle", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_41", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_41", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_41", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_41", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_41", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_42", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_42", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_42", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_42", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_42", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_51", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nslice(i, i + 1, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_51", "experiment_type": "oracle", "sample_id": 1, "response": "textslice(i, i + 1, None)", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_51", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nslice(i, (i + 1), None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_51", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nslice(i, i + 1, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_51", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nslice(i, i + 1, None)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_52", "experiment_type": "oracle", "sample_id": 0, "response": "output\nslice(i, (i + 1), None)", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_52", "experiment_type": "oracle", "sample_id": 1, "response": "output\nslice(i, i + 1, None)", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_52", "experiment_type": "oracle", "sample_id": 2, "response": "output\nslice(i, i + 1, None)", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_52", "experiment_type": "oracle", "sample_id": 3, "response": "output\nslice(i, i + 1, None)", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_52", "experiment_type": "oracle", "sample_id": 4, "response": "output\nslice(i, i + 1, None)", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_53", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nlist(patsy_rhs.columns)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_53", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n['y']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_53", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nlist(patsy_rhs.columns)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_53", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n['y']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_53", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nlist(patsy_rhs.columns)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_47", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_47", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_47", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_47", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_47", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_48", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_48", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_48", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_48", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_48", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_115", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_115", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nnp.float64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_115", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nnp.float64\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_115", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_115", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_116", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_116", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_116", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_116", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_116", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_117", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_117", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_117", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_117", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_117", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_118", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_118", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ndtype2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_118", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_118", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_118", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nfloat\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_119", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[b'medical', b'mental', b'mental']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_119", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[b'medical', b'mental', b'mental']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_119", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[b\"medical\", b\"mental\", b\"mental\"]\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_119", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n['medical', 'medical', 'medical']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_119", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n[b'medical', b'mental', b'mental']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_120", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n[b'physical', b'physical', b'medical']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_120", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n[b'physical', b'physical', b'medical']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_120", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n[b'physical', b'physical', b'medical']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_120", "experiment_type": "oracle", "sample_id": 3, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_120", "experiment_type": "oracle", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_100", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n197\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_100", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n47\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_100", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n49\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_100", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n49\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_100", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n47\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_92", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nnobs - k_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_92", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nnobs - k_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_92", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(nobs - k_vars + 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_92", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(nobs - k_vars + 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_92", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nnobs - k_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_93", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_93", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_93", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nk_vars + k_extra\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_93", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_93", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_94", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_94", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_94", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_94", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_94", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nk_vars\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_103", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_103", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_103", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_103", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_103", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_104", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_104", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_104", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_104", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_104", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_105", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_105", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_105", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nX.shape[1] - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_105", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nX.shape[1] - 1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_105", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n4\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_109", "experiment_type": "oracle", "sample_id": 0, "response": "```output\ncov_type\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_109", "experiment_type": "oracle", "sample_id": 1, "response": "```output\ncov_type\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_109", "experiment_type": "oracle", "sample_id": 2, "response": "```output\ncov_type\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_109", "experiment_type": "oracle", "sample_id": 3, "response": "```output\ncov_type\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_109", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ncov_type\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_110", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nuse_t\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_110", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_110", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nuse_t\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_110", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nuse_t\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_110", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nTrue\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_78", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(0, 6)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_78", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(0, 6)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_78", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(0, 6)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_78", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(0, 6)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_78", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(0, 6)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_221", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n35\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_221", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n23\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_221", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n47\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_221", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n19\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_221", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n49\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_222", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n23\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_222", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n31\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_222", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n27\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_222", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n11\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_222", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n11\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_223", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'periodic'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_223", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'auto'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_223", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'm'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_223", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'm'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_223", "experiment_type": "oracle", "sample_id": 4, "response": "```output\ndefault\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_158", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(4642,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_158", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(4642,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_158", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(4642,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_158", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(4642,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_158", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(4642,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_192", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'mul'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_192", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nmul\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_192", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'mul'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_192", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nmul\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_192", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nmul\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_193", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'mul'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_193", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nmul\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_193", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'mul'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_193", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'mul'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_193", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'mul'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_194", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'add'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_194", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nadd\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_194", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'add'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_194", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nadd\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_194", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nadd\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_273", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(100, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_273", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(100, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_273", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(100, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_273", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(100, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_273", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(100, 4)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_274", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n['0.L.1', '1.L.1', '0.L.2', '1.L.2']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_274", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n['0.L.1', '1.L.1', '0.L.2', '1.L.2']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_274", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n['0.L.1', '1.L.1', '0.L.2', '1.L.2']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_274", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n['0.L.1', '1.L.1', '0.L.2', '1.L.2']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_274", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n['0.L.1', '1.L.1', '0.L.2', '1.L.2']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_138", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_138", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_138", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_138", "experiment_type": "oracle", "sample_id": 3, "response": "python\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_138", "experiment_type": "oracle", "sample_id": 4, "response": "text", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_139", "experiment_type": "oracle", "sample_id": 0, "response": "?\n```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_139", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_139", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_139", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_139", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(10,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_140", "experiment_type": "oracle", "sample_id": 0, "response": "pytest\n```output\n(10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_140", "experiment_type": "oracle", "sample_id": 1, "response": "text", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_140", "experiment_type": "oracle", "sample_id": 2, "response": "text\n(10, 1)", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_140", "experiment_type": "oracle", "sample_id": 3, "response": "pytest\n```output\n(10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_140", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_141", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_141", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_141", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_141", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_141", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_142", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_142", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_142", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_142", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_142", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_143", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(20,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_143", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_143", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_143", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(20,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_143", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(20,)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_144", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_144", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_144", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_144", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_144", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(20, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_145", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_145", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_145", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_145", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_145", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_146", "experiment_type": "oracle", "sample_id": 0, "response": "0", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_146", "experiment_type": "oracle", "sample_id": 1, "response": "0", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_146", "experiment_type": "oracle", "sample_id": 2, "response": "0", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_146", "experiment_type": "oracle", "sample_id": 3, "response": "0", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_146", "experiment_type": "oracle", "sample_id": 4, "response": "200", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_147", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_147", "experiment_type": "oracle", "sample_id": 1, "response": "pytest\n```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_147", "experiment_type": "oracle", "sample_id": 2, "response": "text\n```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_147", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_147", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_148", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_148", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_148", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_148", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_148", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_149", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_149", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_149", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_149", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_149", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_150", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_150", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_150", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_150", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_150", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(5, 6, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_151", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(5, 6, 7, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_151", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(5, 6, 7, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_151", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(5, 6, 7, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_151", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(5, 6, 7, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_151", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(5, 6, 7, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_156", "experiment_type": "oracle", "sample_id": 0, "response": "dtype('float32')", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_156", "experiment_type": "oracle", "sample_id": 1, "response": "\"float32\"", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_156", "experiment_type": "oracle", "sample_id": 2, "response": "pytest-failed", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_156", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nfloat32\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_156", "experiment_type": "oracle", "sample_id": 4, "response": "```output\nnp.float32\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_157", "experiment_type": "oracle", "sample_id": 0, "response": "```output\nnp.uint8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_157", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nnp.uint8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_157", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'uint8'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_157", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nnp.uint8\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_157", "experiment_type": "oracle", "sample_id": 4, "response": "dtype('uint8')", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_130", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(10, 1, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_130", "experiment_type": "oracle", "sample_id": 1, "response": "text\n(10, 1, 10)", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_130", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(10, 1, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_130", "experiment_type": "oracle", "sample_id": 3, "response": "?\n```output\n(10, 1, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_130", "experiment_type": "oracle", "sample_id": 4, "response": "python\n(10, 1, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_131", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_131", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(10, 10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_131", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_131", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(10, 10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_131", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(10, 10, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_132", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_132", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_132", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_132", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_132", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(10, 10)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_152", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(2, 1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_152", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(2, 1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_152", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(2, 1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_152", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(2, 1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_152", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(2, 1, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_153", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_153", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_153", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_153", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_153", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_154", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_154", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_154", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_154", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_154", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n(2, 1, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_134", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n'apple_appended'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_134", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n'apple_appended'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_134", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'apple_appended'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_134", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n'apple_appended'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_134", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'apple_appended'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_135", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n['apple_0_appended', 'apple_1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_135", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n['apple_0_appended', 'apple_1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_135", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n['apple_0_appended', 'apple_1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_135", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n['apple_0_appended', 'apple_1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_135", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n['apple_0_appended', 'apple_1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_136", "experiment_type": "oracle", "sample_id": 0, "response": "?\n```output\n7_appended\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_136", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n7_appended\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_136", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n'7_appended'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_136", "experiment_type": "oracle", "sample_id": 3, "response": "text", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_136", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n'7_appended'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_137", "experiment_type": "oracle", "sample_id": 0, "response": "```output\n['0_appended', '1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_137", "experiment_type": "oracle", "sample_id": 1, "response": "```output\n['0_appended', '1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_137", "experiment_type": "oracle", "sample_id": 2, "response": "```output\n['0_appended', '1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_137", "experiment_type": "oracle", "sample_id": 3, "response": "```output\n['0_appended', '1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_137", "experiment_type": "oracle", "sample_id": 4, "response": "```output\n['0_appended', '1_appended']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_125", "experiment_type": "oracle", "sample_id": 0, "response": "pandas.Series([1, 2, 3], name='abc')", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_125", "experiment_type": "oracle", "sample_id": 1, "response": "```output\nabc\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_125", "experiment_type": "oracle", "sample_id": 2, "response": "```output\nabc\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_125", "experiment_type": "oracle", "sample_id": 3, "response": "```output\nabc\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "statsmodels_125", "experiment_type": "oracle", "sample_id": 4, "response": "test_make_var_names", "finish_reason": "stop", "usage": null}

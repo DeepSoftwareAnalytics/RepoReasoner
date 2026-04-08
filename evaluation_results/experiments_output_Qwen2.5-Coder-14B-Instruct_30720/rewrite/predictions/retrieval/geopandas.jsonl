@@ -1,0 +1,410 @@
+{"task_id": "geopandas_15", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['float_col', 'geom2', 'pop_est', 'continent', 'geometry', 'gdp_md_est', 'name']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_15", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['float_col', 'geom2', 'pop_est', 'continent', 'geometry', 'gdp_md_est', 'name']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_15", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['float_col', 'geom2', 'pop_est', 'continent', 'geometry', 'gdp_md_est', 'name']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_15", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['float_col', 'geom2', 'pop_est', 'continent', 'geometry', 'gdp_md_est', 'name']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_15", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['float_col', 'geom2', 'pop_est', 'continent', 'geometry', 'gdp_md_est', 'name']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_0", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n1.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_0", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_0", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_0", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_0", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'1.1.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_1", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'name'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_1", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'name'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_1", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nname\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_1", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'name'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_1", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'name'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_2", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nWKB\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_2", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nWKB\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_2", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'WKB'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_2", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nWKB\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_2", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'WKB'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_3", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['LineString', 'Point', 'Polygon']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_3", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nexpected_types\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_3", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['LineString', 'Point', 'Polygon']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_3", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nexpected_types\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_3", "experiment_type": "retrieval", "sample_id": 4, "response": "mapclassify", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_4", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\ngeopandas\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_4", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ngeopandas\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_4", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\ngeopandas\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_4", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\ngeopandas\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_4", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ngeopandas\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_5", "experiment_type": "retrieval", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_5", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0.11.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_5", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'0.8.1'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_5", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'0.13.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_5", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.11.2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_6", "experiment_type": "retrieval", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_6", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n1.0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_6", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n1.0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_6", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n1.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_6", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'1.0.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_7", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\npoint\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_7", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'point'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_7", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'point'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_7", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'point'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_7", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'point'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_8", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nWKB\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_8", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nWKB\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_8", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'wkb'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_8", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nWKB\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_8", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'WKB'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_9", "experiment_type": "retrieval", "sample_id": 0, "response": "pysal", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_9", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'type': 'Name', 'properties': {'name': 'urn:ogc:def:crs:EPSG::4326'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_9", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'init': 'epsg:4326'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_9", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'init': 'epsg:4326'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_9", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'init': 'epsg:4326'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_10", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['Point Z', 'LineString Z', 'Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_10", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['Point Z', 'LineString Z', 'Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_10", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['Point Z', 'LineString Z', 'Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_10", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['Point Z', 'LineString Z', 'Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_10", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['Point Z', 'LineString Z', 'Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_11", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_11", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_11", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['Polygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_11", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['Polygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_11", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['Polygon Z', 'MultiPolygon Z']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_12", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nEPSG:3857\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_12", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nepsg:3857\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_12", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nEPSG:3857\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_12", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nEPSG:3857\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_12", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nEPSG:3857\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_14", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'foo': [99, 'bar'], 'baz': {'x': 12.5}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_14", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'foo': [99, 'bar'], 'baz': {'x': 12.5}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_14", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'foo': [99, 'bar'], 'baz': {'x': 12.5}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_14", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'foo': [99, 'bar'], 'baz': {'x': 12.5}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_14", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'foo': [99, 'bar'], 'baz': {'x': 12.5}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_13", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_13", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nb'{\"x\": [1, 2, 3], \"y\": \"z\"}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_13", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'{\"x\": [1, 2, 3], \"y\": \"z\"}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_13", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nb'{\"x\": [1, 2, 3], \"y\": \"z\"}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_13", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nexpected\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_25", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_25", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_25", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_25", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_25", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_27", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'pop_est', 'geometry'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_27", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'pop_est', 'geometry'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_27", "experiment_type": "retrieval", "sample_id": 2, "response": "code\n```output\n{'pop_est', 'geometry'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_27", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'pop_est', 'geometry'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_27", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'pop_est', 'geometry'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_26", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_26", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_26", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_26", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_26", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'Niger', 'Gabon', 'Eq. Guinea', 'Cameroon', 'Nigeria', 'Congo', 'Mali', 'France'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_31", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_31", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_31", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_31", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_31", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_32", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_32", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_32", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_32", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_32", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_24", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nPOINT (-2.5 3.14)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_24", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nPOINT (-2.5 3.14)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_24", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nPOINT (-2.5 3.14)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_24", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nPOINT (-2.5 3.14)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_24", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nPOINT (-2.5 3.14)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_30", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'simple2'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_30", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'simple1'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_30", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'simple1'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_30", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'simple2'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_30", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'simple2'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_28", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'Togo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_28", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'Togo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_28", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'Togo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_28", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'Togo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_28", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'Togo'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_29", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'Antarctica', 'Greenland'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_29", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'Antarctica', 'Angola', 'Albania', 'United Arab Emirates', 'Argentina', 'Armenia', 'French Southern and Antarctic Lands', 'Australia', 'Austria', 'Azerbaijan', 'Burundi', 'Belgium', 'Benin', 'Burkina Faso', 'Bangladesh', 'Bulgaria', 'Bosnia and Herzegovina', 'Botswana', 'Brazil', 'Barbados', 'Brunei Darussalam', 'Bolivia', 'Caribbean Netherlands', 'Cambodia', 'Cameroon', 'Canada', 'Cabo Verde', 'Central African Republic', 'Congo, Democratic Republic of the', 'Congo', 'Switzerland', 'Chile', 'China', 'Côte d\\'Ivoire', 'Cook Islands', 'Costa Rica', 'Croatia', 'Cuba', 'Cyprus', 'Czechia', 'Germany', 'Djibouti', 'Denmark', 'Dominica', 'Dominican Republic', 'Algeria', 'Ecuador', 'Egypt', 'Eritrea', 'Spain', 'Ethiopia', 'Finland', 'Fiji', 'Micronesia, Federated States of', 'France', 'Gabon', 'United Kingdom', 'Georgia', 'Guernsey', 'Ghana', 'Gibraltar', 'Guinea', 'Guadeloupe', 'Gambia', 'Guinea-Bissau', 'Equatorial Guinea', 'Greece', 'Greenland', 'Guatemala', 'French Guiana', 'Guyana', 'Honduras', 'Hong Kong', 'Haiti', 'Hungary', 'Indonesia', 'Ireland', 'Israel', 'Isle of Man', 'India', 'Iraq', 'Iran, Islamic Republic of', 'Iceland', 'Italy', 'Jersey', 'Jamaica', 'Jordan', 'Japan', 'Kenya', 'Kyrgyzstan', 'Cambodia', 'Kiribati', 'Comoros', 'Saint Kitts and Nevis', 'North Korea', 'South Korea', 'Kuwait', 'Kazakhstan', 'Laos', 'Lebanon', 'Saint Lucia', 'Liechtenstein', 'Sri Lanka', 'Lesotho', 'Liberia', 'Libya', 'Saint Martin (French part)', 'Monaco', 'Mali', 'Malta', '", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_29", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'United States Virgin Islands', 'South Sudan', 'Nicaragua', 'Burundi', 'Benin', 'Haiti', 'Zambia', 'Malawi', 'Guinea-Bissau', 'Sudan', 'Kenya', 'Cameroon', 'Ethiopia', 'Angola', 'Chad', 'Togo', 'Mozambique', 'Zambia', 'Malawi', 'Guinea-Bissau', 'Sudan', 'Kenya', 'Cameroon', 'Ethiopia', 'Angola', 'Chad', 'Togo', 'Mozambique'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_29", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'Antigua and Barbuda', 'Angola', 'Anguilla', 'Albania', 'Andorra', 'Aruba', 'Australia', 'Austria', 'Azerbaijan', 'Burundi', 'Belgium', 'Benin', 'Burkina Faso', 'Bulgaria', 'Bahamas', 'Bahrain', 'Botswana', 'Brunei Darussalam', 'Brazil', 'Barbados', 'Belize', 'Canada', 'Cameroon', 'Chad', 'Central African Republic', 'Cambodia', 'Chile', 'China', 'Comoros', 'Congo, Democratic Republic of the', 'Congo, Republic of the', 'Costa Rica', 'Croatia', 'Cuba', 'Cyprus', 'Czechia', 'Côte d\\'Ivoire', 'Denmark', 'Dominican Republic', 'Ecuador', 'El Salvador', 'Equatorial Guinea', 'Ethiopia', 'Fiji', 'Finland', 'France', 'Gabon', 'Georgia', 'Germany', 'Ghana', 'Greece', 'Guatemala', 'Guinea', 'Guyana', 'Haiti', 'Holy See', 'Honduras', 'Hungary', 'India', 'Indonesia', 'Iran, Islamic Republic of', 'Iraq', 'Ireland', 'Israel', 'Italy', 'Jamaica', 'Jordan', 'Japan', 'Kazakhstan', 'Kenya', 'Kiribati', 'Kuwait', 'Kyrgyzstan', 'Laos', 'Lebanon', 'Lesotho', 'Liberia', 'Libya', 'Liechtenstein', 'Luxembourg', 'Madagascar', 'Malawi', 'Malaysia', 'Maldives', 'Mali', 'Malta', 'Mauritania', 'Mauritius', 'Mexico', 'Monaco', 'Mongolia', 'Mozambique', 'Myanmar', 'Namibia', 'Nepal', 'Netherlands', 'New Zealand', 'Nicaragua', 'Niger', 'Nigeria', 'Niue', 'North Macedonia', 'Norway', 'Oman', 'Pakistan', 'Palau', 'Panama', 'Peru', 'Philippines', 'Poland', 'Portugal', 'Puerto Rico', 'Qatar', 'Romania', 'Russian Federation', 'Rwanda',", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_29", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'Angola', 'Benin', 'Burkina Faso', 'Burundi', 'Cameroon', 'Central African Republic', 'Chad', 'Congo', 'Côte d\\'Ivoire', 'Democratic Republic of the Congo', 'Gabon', 'Gambia', 'Guinea', 'Guinea-Bissau', 'Kenya', 'Liberia', 'Mali', 'Mauritania', 'Mozambique', 'Namibia', 'Niger', 'Nigeria', 'Sierra Leone', 'Somalia', 'South Africa', 'South Sudan', 'Tanzania', 'Uganda', 'Zambia'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_21", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'bbox': {'xmin': ['bbox', 'xmin'], 'ymin': ['bbox', 'ymin'], 'xmax': ['bbox', 'xmax'], 'ymax': ['bbox', 'ymax']}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_21", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'bbox': {'xmin': ['bbox', 'xmin'], 'ymin': ['bbox', 'ymin'], 'xmax': ['bbox', 'xmax'], 'ymax': ['bbox', 'ymax']}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_21", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'bbox': {'xmin': ['bbox', 'xmin'], 'ymin': ['bbox', 'ymin'], 'xmax': ['bbox', 'xmax'], 'ymax': ['bbox', 'ymax']}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_21", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'bbox': {'xmin': ['bbox', 'xmin'], 'ymin': ['bbox', 'ymin'], 'xmax': ['bbox', 'xmax'], 'ymax': ['bbox', 'ymax']}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_21", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'bbox': {'xmin': ['bbox', 'xmin'], 'ymin': ['bbox', 'ymin'], 'xmax': ['bbox', 'xmax'], 'ymax': ['bbox', 'ymax']}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_22", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n['xmin', 'ymin', 'xmax', 'ymax']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_22", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n['xmin', 'ymin', 'xmax', 'ymax']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_22", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n['xmin', 'ymin', 'xmax', 'ymax']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_22", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n['xmin', 'ymin', 'xmax', 'ymax']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_22", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n['xmin', 'ymin', 'xmax', 'ymax']\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_23", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'xmin': 0.0, 'ymin': 0.0, 'xmax': 1.0, 'ymax': 1.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_23", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'xmin': 0.0, 'ymin': 0.0, 'xmax': 1.0, 'ymax': 1.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_23", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'xmin': 0.0, 'ymin': 0.0, 'xmax': 1.0, 'ymax': 1.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_23", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{\"xmin\": 0.0, \"ymin\": 0.0, \"xmax\": 1.0, \"ymax\": 1.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_23", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'xmin': 0.0, 'ymin': 0.0, 'xmax': 1.0, 'ymax': 1.0}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_16", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.10.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_16", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'0.2.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_16", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_16", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_16", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.1.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_17", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'Polygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_17", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'Polygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_17", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nPolygon\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_17", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'Polygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_17", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nPolygon\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_18", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n\"EPSG:3857\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_18", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n\"EPSG:3857\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_18", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'init': 'epsg:3857'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_18", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{\"init\": \"epsg:3857\"}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_18", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'EPSG:3857'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_19", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'init': 'epsg:3857'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_19", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'init': 'epsg:3857'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_19", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{\"init\": \"epsg:3857\"}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_19", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{\n  \"init\": \"epsg:3857\"\n}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_19", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{\"init\": \"epsg:3857\"}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_634", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'MultiLineString'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_634", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'MultiLineString'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_634", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'MultiLineString'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_634", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'MultiLineString'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_634", "experiment_type": "retrieval", "sample_id": 4, "response": "pandas.Series", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_635", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'MultiPoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_635", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'MultiPoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_635", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'MultiPoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_635", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'MultiPoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_635", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'MultiPoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_631", "experiment_type": "retrieval", "sample_id": 0, "response": "emulate", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_631", "experiment_type": "retrieval", "sample_id": 1, "response": "check the length of the clipped_poly geometry column", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_631", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_631", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_631", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n1\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_632", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n10\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_632", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_632", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n5\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_632", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_632", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_633", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_633", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n16\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_633", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_633", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_633", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n6\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_630", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'MultiPolygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_630", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'MultiPolygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_630", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'MultiPolygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_630", "experiment_type": "retrieval", "sample_id": 3, "response": "versioneer", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_630", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'MultiPolygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_159", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'io_engine'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_159", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'default_backend', 'disable_axis_warning', 'ignore_geometry_collection_warning', 'use_pygeos', 'io_engine'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_159", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'_cache_enabled', '_use_pygeos', '_from_wkb_engine', 'io_engine', '_show_progress'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_159", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'_io_engine', '_use_pygeos', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattr__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_159", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'use_pygeos', '_check_gdal_version', 'disable_emergency_rtree_fallback', 'default_backend'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_160", "experiment_type": "retrieval", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_160", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_160", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_160", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_160", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n12\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_161", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nfiona\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_161", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nfiona\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_161", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'fiona'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_161", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nfiona\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_161", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'fiona'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_326", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n\"This is the 3.1415 method.\\n\\nIt computes the cumulative 2.718.\\n\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_326", "experiment_type": "retrieval", "sample_id": 1, "response": "precompute", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_326", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_326", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'???'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_326", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'???'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_325", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'This is the massive_cumavg method.\\n\\n        It computes the cumulative super average.\\n\\n        Examples\\n        --------\\n\\n        >>> cumavg([1000000, -5000000, 1e10])\\n        3333333333.6666665\\n        '\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_325", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'This is the massive_cumavg method.\\n\\nIt computes the cumulative super average.\\n\\nExamples\\n--------\\n\\n>>> cumavg([1000000, -5000000, 1e10])\\n3333333333.6666665\\n'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_325", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'This is the massive_cumavg method.\\n\\n        It computes the cumulative super average.\\n\\n        Examples\\n        --------\\n\\n        >>> cumavg([1000000, -5000000, 1e10])\\n        3333333333.6666665\\n        '\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_325", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'This is the massive_cumavg method.\\n\\n        It computes the cumulative super average.\\n\\n        Examples\\n        --------\\n\\n        >>> cumavg([1000000, -5000000, 1e10])\\n        3333333333.6666665\\n        '\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_325", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_324", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_324", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_324", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_324", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_324", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n''\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_327", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_327", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nThis is the None method.\n\nIt computes the cumulative None.\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_327", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_327", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nNone\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_327", "experiment_type": "retrieval", "sample_id": 4, "response": "u'```output\\n        This is the None method.\\n\\n        It computes the cumulative None.\\n        ```'", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_377", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nlen(locations)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_377", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nlen(locations)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_377", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nn\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_377", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_377", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nn\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_371", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_371", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_371", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_371", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_371", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_372", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_372", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_372", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_372", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_372", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_373", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n0.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_373", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n-180.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_373", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_373", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n-90.0\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_373", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n-179.9999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_374", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n-85.05112878\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_374", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n179.9999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_374", "experiment_type": "retrieval", "sample_id": 2, "response": "versioneer.get_version()", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_374", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n179.9999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_374", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n179.9999\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_375", "experiment_type": "retrieval", "sample_id": 0, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_375", "experiment_type": "retrieval", "sample_id": 1, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_375", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n-85.05112878\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_375", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n-85.05112878\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_375", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n-85.05112878\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_376", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\naddress_huge\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_376", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'address_huge'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_376", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\naddress_huge\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_376", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'address_huge'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_376", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'address_huge'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_378", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nlen(points)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_378", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_378", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_378", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n2\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_378", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_98", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': 'Polygon', 'properties': {'int32_column': 'int32'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_98", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': 'Unknown', 'properties': {'int32_column': 'int'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_98", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'Polygon', 'properties': {'int32_column': 'int32'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_98", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': 'Unknown', 'properties': {'int32_column': 'int32'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_98", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': 'Unknown', 'properties': {'int32_column': 'int'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_99", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': 'geoarrow.wkb', 'int64_column': 'int64'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_99", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': 'geometry', 'int64_column': 'Int64'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_99", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'geometry', 'int64_column': 'Int64'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_99", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'int64'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_99", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': 'geometry', 'int64_column': 'int64'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_82", "experiment_type": "retrieval", "sample_id": 0, "response": ", 'properties': OrderedDict([('index', 'int64')])})", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_82", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': ['MultiLineString', 'LineString'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_82", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'MultiLineString', 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_82", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': ['MultiLineString', 'LineString'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_82", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': ['MultiLineString', 'LineString'], 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_89", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'Point'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_89", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': 'Point'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_89", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'geometry'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_89", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': '3D Point'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_89", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': {'type': 'Point', 'has_z': True}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_93", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': {'encoding': 'WKB', 'crs': None, 'geometry_types': ['Polygon', 'Polygon Z'], 'bbox': None}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_93", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry_types': ['Polygon', 'Polygon Z']}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_93", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{\"geometry_types\": [\"Polygon Z\"], \"crs\": null}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_93", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry_types': ['Polygon', 'Polygon Z']}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_93", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': {'encoding': 'WKB', 'geometry_types': ['Polygon', 'Polygon Z'], 'crs': None}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_91", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': {'encoding': 'WKB', 'geometry_types': ['LineString'], 'crs': None}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_91", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{\"primary_column\": \"geometry\", \"columns\": {\"geometry\": {\"encoding\": \"WKB\", \"crs\": null, \"geometry_types\": [\"LineString\"], \"bbox\": [-1000.0, -1000.0, 1000.0, 500.0]}}, \"version\": \"1.0.0\", \"creator\": {\"library\": \"geopandas\", \"version\": \"0.10.2\"}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_91", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{\"geometry\": {\"encoding\": \"WKB\", \"geometry_types\": [\"LineString Z\", \"LineString\"], \"crs\": \"EPSG:4326\"}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_91", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'1.1.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_91", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'0.4.0'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_88", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_88", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_88", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'Mixed'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_88", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_88", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_87", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_87", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_87", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_87", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_87", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_97", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': 'object'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_97", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': 'geometry'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_97", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'geometry', 'properties': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_97", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': 'geometry'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_97", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': 'geometry'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_95", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': 'object'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_95", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': 'POINT', 'crs': None}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_95", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'2D Point'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_95", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': 'Point'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_95", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': 'Point'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_96", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': '3D Point', 'crs': None}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_96", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': '3D Point', 'properties': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_96", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': '3D Point'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_96", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': '3D Point'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_96", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': '3D Point'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_90", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': '3D Point'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_90", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'PointZ'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_90", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': '3D Point'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_90", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': '3D Point'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_90", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'{\"type\": \"FeatureCollection\", \"features\": [{\"id\": \"0\", \"type\": \"Feature\", \"properties\": {}, \"geometry\": {\"type\": \"Point\", \"coordinates\": [-1, -2, -100]}}, {\"id\": \"1\", \"type\": \"Feature\", \"properties\": {}, \"geometry\": {\"type\": \"Point\", \"coordinates\": [1, 2, 100]}}]}'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_94", "experiment_type": "retrieval", "sample_id": 0, "response": "pandas.testing.assert_dict_equal(infer_schema(df), {'geometry': 'Polygon', 'properties': OrderedDict()})", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_94", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': 'Polygon', 'properties': {'index': 'int64'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_94", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': ['Polygon'], 'properties': OrderedDict([('geometry', 'geometry')])}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_94", "experiment_type": "retrieval", "sample_id": 3, "response": "pandas.DataFrame({'geometry': 'Polygon', 'properties': OrderedDict([('geometry', 'Polygon')])})", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_94", "experiment_type": "retrieval", "sample_id": 4, "response": "a dictionary representing the inferred schema for the GeoDataFrame with 3D Polygons.", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_92", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': 'LINESTRING Z'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_92", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': 'LINESTRING Z'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_92", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'3D LineString'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_92", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'3D'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_92", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n3D\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_81", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': 'LineString'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_81", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'LineString'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_81", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'LineString'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_81", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'LINESTRING'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_81", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': 'LineString'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_83", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'multilinestring'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_83", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'multilinestring'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_83", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n\"multilinestring\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_83", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n\"MultiLineString\"\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_83", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n'multilinestring'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_80", "experiment_type": "retrieval", "sample_id": 0, "response": "n/a", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_80", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'geoarrow.multipoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_80", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'MultiPoint'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_80", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': 'MultiPoint'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_80", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': 'MultiPoint'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_86", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': {'encoding': 'WKB', 'geometry_types': ['MultiPolygon'], 'crs': None}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_86", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': {'encoding': 'WKB', 'geometry_types': ['MultiPolygon'], 'crs': None}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_86", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': {'encoding': 'WKB', 'geometry_types': ['MultiPolygon'], 'crs': None}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_86", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': {'encoding': 'WKB', 'geometry_types': ['MultiPolygon'], 'crs': 'EPSG:4326'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_86", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': {'encoding': 'WKB', 'geometry_types': ['MultiPolygon'], 'crs': 'OGC:CRS84'}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_78", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': 'Point', 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_78", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': 'Point', 'properties': {}}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_78", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'Point', 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_78", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': 'Point', 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_78", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': 'Point', 'properties': OrderedDict()}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_84", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n'polygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_84", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'Polygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_84", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n'Polygon'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_84", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'type': 'Polygon', 'coordinates': [[[-2.0, -2.0], [-2.0, 2.0], [2.0, 2.0], [2.0, -2.0], [-2.0, -2.0]], [[-1.0, -1.0], [-1.0, 1.0], [1.0, 1.0], [1.0, -1.0], [-1.0, -1.0]]]}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_84", "experiment_type": "retrieval", "sample_id": 4, "response": "code", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_79", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': 'MultiPoint'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_79", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n'MultiPoint'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_79", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'MultiPoint'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_79", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n'POINT'\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_79", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': 'MultiPoint'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_85", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_85", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_85", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_85", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_85", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n{'geometry': 'MultiPolygon'}\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_519", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_519", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_519", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_519", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_519", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(5, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_520", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(4, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_520", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(8, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_520", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(4, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_520", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(4, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_520", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(4, 2)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_521", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\n(3, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_521", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\n(3, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_521", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\n(3, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_521", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\n(3, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_521", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\n(3, 7)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_523", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nPOINT (0 1000)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_523", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nPoint(0, 1)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_523", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nPOINT (0 0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_523", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nPoint(-1000, 10000000000.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_523", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nPOINT (0.0 1000.0)\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_522", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nobject\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_522", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\ngeometry\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_522", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nobject\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_522", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nobject\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_522", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\ngeometry\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_641", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_641", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_641", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_641", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_641", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_642", "experiment_type": "retrieval", "sample_id": 0, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_642", "experiment_type": "retrieval", "sample_id": 1, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_642", "experiment_type": "retrieval", "sample_id": 2, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_642", "experiment_type": "retrieval", "sample_id": 3, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
+{"task_id": "geopandas_642", "experiment_type": "retrieval", "sample_id": 4, "response": "```output\nsize\n```", "finish_reason": "stop", "usage": null}
